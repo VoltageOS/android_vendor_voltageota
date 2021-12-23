@@ -8,7 +8,6 @@ oem="OEM" #ex: OnePlus
 device="device codename" #ex: guacamole
 devicename="name of device" #ex: OnePlus 7 Pro
 zip="voltage zip" #ex: voltageos-<android version>-<date>-<device codename>-v<voltage version>.zip
-buildtype="Monthly" #choose from Testing/Alpha/Beta/Weekly/Monthly
 forum="" #https link (leave empty if unused)
 gapps="" #https link (leave empty if unused)
 firmware="" #https link (leave empty if unused)
@@ -47,7 +46,6 @@ echo '{
         "md5": "'$md5'",
         "size": '$size',
         "version": "'$version'",
-        "buildtype": "'$buildtype'",
     }
   ]
 }' >> $device.json
