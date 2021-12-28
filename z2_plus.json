@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Dmitrii",
+        "oem": "Zuk",
+        "device": "Zuk z2 plus",
+        "filename": "voltage-1.2-z2_plus-20211228-2116-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/z2_plus/voltage-1.2-z2_plus-20211228-2116-OFFICIAL.zip/download",
+        "timestamp": 1640726187,
+        "md5": "bfc0166ffb098aed4d4bf6d35293dea2",
+        "size": 741027516,
+        "version": "2116"
+    }
+  ]
+}
