@@ -45,7 +45,7 @@ echo '{
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "size": '$size',
-        "version": "'$version'",
+        "version": "'$version'"
     }
   ]
 }' >> $device.json
