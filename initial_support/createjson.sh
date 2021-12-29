@@ -8,15 +8,6 @@ oem="OEM" #ex: OnePlus
 device="device codename" #ex: guacamole
 devicename="name of device" #ex: OnePlus 7 Pro
 zip="voltage zip" #ex: voltageos-<android version>-<date>-<device codename>-v<voltage version>.zip
-forum="" #https link (leave empty if unused)
-gapps="" #https link (leave empty if unused)
-firmware="" #https link (leave empty if unused)
-modem="" #https link (leave empty if unused)
-bootloader="" #https link (leave empty if unused)
-recovery="" #https link (leave empty if unused)
-paypal="" #https link (leave empty if unused)
-telegram="" #https link (leave empty if unused)
-
 
 #don't modify from here
 script_path="`dirname \"$0\"`"
@@ -32,8 +23,7 @@ timestamp=`sed -n $linenr'p' < $buildprop | cut -d'=' -f2`
 zip_only=`basename "$zip_name"`
 md5=`md5sum "$zip_name" | cut -d' ' -f1`
 size=`stat -c "%s" "$zip_name"`
-version=`echo "$zip_only" | cut -d'-' -f5`
-echo $version
+version=`echo "$zip_only" | cut -d'-' -f2`
 echo '{
   "response": [
     {
