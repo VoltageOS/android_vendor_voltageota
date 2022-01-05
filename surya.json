@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Mezaque (Trickbot199)",
+        "oem": "xiaomi",
+        "device": "Poco X3 NFC",
+        "filename": "voltage-1.2-surya-20220105-1901-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.2-surya-20220105-1901-OFFICIAL.zip/download",
+        "timestamp": 1641408781,
+        "md5": "662bf8b6700e38afe7242e41b4807b6e",
+        "size": 1147865071,
+        "version": "1.2"
+    }
+  ]
+}
