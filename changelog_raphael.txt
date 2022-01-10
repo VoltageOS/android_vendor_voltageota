@@ -1,0 +1,51 @@
+VoltageOS 1.3 Hotfix
+Build Date : 10/01/2022
+ - Removed Bromite Browser & Webview
+ - Fix isolated_app denial
+ - Add restricted cpuset
+ - Fix Powerhal Spam
+
+VoltageOS 1.3
+Build Date : 07/01/2022
+ - Ship with Bromite browser and webview
+ - Removed some useless display blobs
+ - Disable night light on FOD
+ - Added Udfps Customizations like toggle for fod, vibrate on fod icon press
+ - Upstreamed Soviet Star kernel to latest source
+ - Minor device tree side improvements and fixes here & there
+
+VoltageOS 1.2
+Build Date : 13/12/2021
+ - Shifted to new trees thanks to @naveenjohnsonv
+ - Shifted to Soviet Star Kernel thanks to @NATO66613
+ - Updated Blobs from LA.UM.9.1.r1-10900-SMxxx0.0
+ - Noticeable improvements in active & idle drain
+ - Better Heat management compared to old builds
+ - Fixed Camera not working in few telegram clients
+ - Added DC Dimming and High Brightness Mode
+ - Compiled using latest TRB Clang 14
+ - Shifted from stock Camera2 to GrapheneOS Camera app
+ - Fixed Ok Google Hotword Permission this need full gapps package to work
+ - Latest Pixel Offline Charging images used
+ - Update Doze Package many features included
+ - Added FPS info tile
+
+VoltageOS 1.1
+Build Date : 02/11/2021
+ - Enforcing
+ - Add Radio
+ - Fix Animation in always on display
+ - Drop Qcom WFD shift to AOSP implementation
+
+VoltageOS 1.0 Hotfix
+Build Date : 20/10/2021
+ - Fixed Screen Recording Lag
+ - Seamless Doze Transitions
+ - Hide Magisk in banking apps
+ - Unlimited Google Phots Backup
+ - Pixel Offline Charging Animation
+ - Merge tag LA.UM.9.1.r1-11200-SMxxx0.0 into kernel
+
+VoltageOS 1.0
+Build Date : 14/10/2021
+ - Initial Build
