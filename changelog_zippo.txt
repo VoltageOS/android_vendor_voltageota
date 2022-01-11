@@ -1,0 +1,13 @@
+VoltageOS 1.3 Hotfix
+Build Date : 11/01/2022
+ -  No changes since 1.3
+
+VoltageOS 1.3
+Build Date : 08/01/2022
+ -  Added GcamGo as default camera
+ -  many underthehood improvements
+ -  Kernel bumped to latest caf tag
+
+VoltageOS 1.2
+ -  Initial Build
+

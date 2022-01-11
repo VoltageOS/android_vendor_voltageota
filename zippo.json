@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Einar Gednochsson (kanstmablason)",
+        "oem": "Lenovo",
+        "device": "Lenovo Z6 Pro",
+        "filename": "voltage-1.3-hotfix-zippo-20220111-1813-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/zippo/voltage-1.3-hotfix-zippo-20220111-1813-OFFICIAL.zip/download",
+        "timestamp": 1641924741,
+        "md5": "4080e106789f33fa54ac92e86dd0c91c",
+        "size": 891695587,
+        "version": "1.3"
+    }
+  ]
+}
