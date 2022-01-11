@@ -1,0 +1,69 @@
+VoltageOS 1.3 Hotfix
+Build Date : 10/01/2022
+
+Notes- 
+Clean flash is necessary
+Initial official build from me (Previous Dev Left)
+This build is oldcam-qti use qti supported kernel
+
+Changelog-
+• Initial build
+• Switch to Arrow trees 
+• Removed bromite/bromite webview, fixed launcher dev settings crash
+
+Credits-
+• @Ratoriku for dt vt and kernel trees
+• @PptOo7 & @le_heisenberg for teaching and helping 
+
+VoltageOS 1.3
+Build Date : 07/01/2022
+
+Device Changelog:
+• Fixed call recording
+• Fixed recovery stuck issue for some user
+
+Credit:
+•@letsmakecakes for base DT
+•@PredatorX91 for kernel
+•@xtra_sharif for Test
+
+VoltageOS 1.2
+Build Date : 13/12/2021
+
+Device Changelog:
+• Added FPS info meter
+• Updated some blobs
+• Fixed Offline Changing animation wasn't showing.
+
+Notes:
+• Vanilla Build. Use Flame gapps basic.
+• Turn off blur for more smoothness.
+
+Credits:
+@letsmakecakes for base DT
+@ImPrashantt for Kernel
+@leonidasssssss for test.
+
+VoltageOS 1.1
+Build Date : 02/11/2021
+
+Changelog:
+• Initial Official Build
+• lavender: Add kpti=off to boot command line
+• Selinux Enforcing
+• CTS pass by default and Magisk Hide
+• lavender: disable latch_unsignaled (it fix the screen flickering in some apps)
+• lavender: disable blur
+• lavender: perf:Enable the pre-rendering feature
+• Nexus EAS as usual
+
+Notes:
+• Don't flash other kernel if you want traffic indicator working
+• Disable Blur from developer settings for more smooth ui
+• Vanilla Build. Use Flame Gapps Canary Basic or Full
+• Report Bugs with proper log
+
+Credits:
+@letsmakecakes for Base DT 
+@ImPrashantt for Kernel
+@TheOnlyTitan for Test

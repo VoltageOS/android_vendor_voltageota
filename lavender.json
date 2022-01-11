@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Shridhan Varadkar (xtra_sharif)",
+        "oem": "xiaomi",
+        "device": "Redmi Note 7/7S",
+        "filename": "voltage-1.3-hotfix-lavender-20220110-1339-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/lavender/voltage-1.3-hotfix-lavender-20220110-1339-OFFICIAL.zip/download",
+        "timestamp": 1641821804,
+        "md5": "86327aee711f0c550a63e81523ae2cec",
+        "size": 904306921,
+        "version": "1.3-hotfix"
+    }
+  ]
+}
