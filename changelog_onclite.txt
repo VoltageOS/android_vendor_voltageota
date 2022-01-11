@@ -1,0 +1,43 @@
+VoltageOS 1.3 Hotfix
+Build Date : 10/01/2022
+ - Remove Bromite Browser
+
+VoltageOS 1.3
+Build Date : 07/01/2022
+ - Merged January Security Patch
+ - Add More Battery Saving Props 
+ - [Temp] Disable Encryption for now
+ - Switch to Vulkan UI Renderer
+ - WiFi: Disable Packet Logging
+ - Add Nodes to Hide Magisk in Banking apps
+ - Import Hotword Enrollment from Oneplus 8 Pro
+ - Show 4G icon for all carriers
+ - Allow display to be rotated in all 4 directions
+ - Audio: Enable 24-bit audio for primary output
+ - Improve Scrolling Responsiveness
+ - Enable AlwaysOnDisplay(AOD)
+ - Enable Adaptive Sleep
+ - Dropped Board Uses Adreno to true
+
+VoltageOS 1.2 
+Build Date : 12/12/2021
+ - Fixed Boot Animation Resolution
+ - Update Maintainer Name
+ - Fix Screen Record Lag
+ - Set Board Uses Adreno to True
+ - Enable Call Recording
+ - Enable WiFi Battery Saving
+ - Fix Recovery Stuck Issue
+ - Make UI Smoother
+ - Update SOC Name
+ - Enable MIUI Notch Overlay
+ - Update Device Name
+ - Switched to Redfin December Build Fingerprint
+
+VoltageOS 1.1
+Build Date : 09/11/2021
+ - Initial Build
+ - Safetynet Passed
+ - November Security Patch
+ - Add Pixel.xml 2016 for unlimited GPhotos Storage
+ - Raven November Build Fingerprint
