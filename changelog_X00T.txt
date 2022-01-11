@@ -1,0 +1,27 @@
+VoltageOS 1.3 Hotfix
+Build Date : 11/01/2022
+ - Removed Bromite Browser & Webview
+
+VoltageOS 1.3
+Build Date : 08/01/2022
+ - Fixed Audio not recorded in video mode of gcams and other apps
+ - Enforcing build and decrypted by default
+ - CTS passes by default
+ - Default Kernel:4.4 and built with trb-clang(clang14)
+ - Now UI is more smooth
+ - Some changes related to Wfd
+
+VoltageOS 1.2
+Build Date : 12/12/2021
+ - Fixed Bluetooth Audio,Audio Cracking at full volume and Network Traffic Indicator(partially)
+ - Enforcing build and decrypted by default
+ - Kernel:Merged Latest Caf tag ,Wireguard added and more underhood changes
+ - CTS passes by default
+ - Default Kernel:4.4 and built with trb-clang(clang14)
+ - Now UI is more smooth
+ - Bugs:WFD lags and Audio not being recorded in video mode in Gcams and WhatsApp
+
+VoltageOS 1.1
+Build Date : 07/11/2021
+ - Initial A12 Build
+ - FDE Build and decrypted by default
