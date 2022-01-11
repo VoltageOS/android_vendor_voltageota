@@ -1,0 +1,44 @@
+VoltageOS 1.3 Hotfix
+Build Date : 1101/2022
+
+Notes- 
+• Vanilla Build. Use Bitgapps .
+• Clean flash is necessary .
+
+Changelog-
+• Updated brightness overlay values 
+• Updated blobs from mojito-user 11 RKQ1.201022.002 V12.5.4.0
+• reduce rounded statusbar corner padding
+• Build with neternels with eva gcc
+Credits:
+• @Anush02198 for base DT
+
+
+VoltageOS 1.2
+Build Date : 24/12/2021
+
+Device Changelog:
+
+• Define android.hardware.media.c2@1.2 into FCM
+• Drop graphics layer memory buffer
+• Add HDR & WCG Flags
+• Do not use phase offsets as duration
+• overlay: Advertise fingerprint on power button
+• Improved Stability
+• 1080p Youtube playback issue addressed (FWIP) 
+• Decomonize some camera blobs
+• Add a missing media blob
+• Few missing camera blobs
+• fix Widevine DRM
+• Added  missing DRM blobs from stock
+• Fixed Widevine L1
+• Build some media and camera packages
+• Fixed Camera video recording issues 
+• Fixed Random reboot & system crashes on viewing DRM Widevine L1 contents on OTT apps.
+
+Notes:
+• Vanilla Build. Use Bitgapps .
+• Turn off blur for more smoothness.
+
+Credits:
+@Anush02198 for base DT
