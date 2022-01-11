@@ -1,0 +1,42 @@
+VoltageOS 1.3 Hotfix
+Build Date : 10/01/2022
+ -  Update kcal samples
+ -  Add init script for gamingmode performance level tuning
+ -  Fix partitioning for flashable gapps
+ -  Allow all filesystems for USB-OTG
+
+VoltageOS 1.3
+Build Date : 09/01/2022
+ -  Add Dirac Soud QS Tile
+ -  Add LCD HBM and CABC QS Tile
+ -  CTS pass by default and Magisk Hide
+ -  Add GcamGo
+ -  January security pat
+ -  Fix Selinux denials
+ -  Implement Clear Speaker
+ -  Fix hyper orange night light
+ -  Swtich to AOSP surfaceflinger
+ -  Firmware Included V12.5.4.0.RJGMIXM
+
+
+VoltageOS 1.2 Hotfix
+Build Date : 15/10/2021
+ -  Fix silence on voice call
+
+
+VoltageOS 1.2
+Build Date : 14/12/2021
+ -  SELinux Enforcing Build
+ -  CTS pass by default and Magisk Hide
+ -  December security pat
+ -  Update blobs to V12.5.4.0.RJGMIXM
+ -  Switched to AOSP
+ -  Add FPS info tile
+ -  Firmware Included V12.5.4.0.RJGMIXM
+ -  Added kcal control
+ -  Compiled using latest Clang 14.0.0
+
+
+VoltageOS 1.2
+Build Date : 14/12/2021
+ -  Initial official build
