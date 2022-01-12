@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "KSSRAO",
+        "oem": "Realme",
+        "device": "Realme 5 Pro",
+        "filename": "voltage-1.3-hotfix-RMX1971-20220111-1517-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1971/voltage-1.3-hotfix-RMX1971-20220111-1517-OFFICIAL.zip/download",
+        "timestamp": 1641914110,
+        "md5": "3a8d4cfd23c66d881f3191dc65cc4dd4",
+        "size": 1115740962,
+        "version": "1.3"
+    }
+  ]
+}

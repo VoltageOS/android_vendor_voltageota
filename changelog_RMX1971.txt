@@ -1,0 +1,29 @@
+
+
+Device Side Changes - 1.3 Hotfix
+
+* Nuked Bromite browser and webview (as it was causing issues opening certain links)
+
+* Fixed mic not working while calling with speaker on 
+
+
+
+Device Side Changes - 1.3
+
+* January security patch 
+
+* Updated to Redfin January FP
+
+* Safetynet passes by default
+
+* Added Bromite browser as default browser
+
+* Added Graphene camera 
+
+* Get unlimited Photos backup in any quality in Google photos 
+
+* Updated WFD, Display, Graphics Blobs from RUI2
+
+* Upstreamed kernal to 4.9.295
+
+* Merged latest CAF tag LA.UM.9.8.r1-04400-SDM710.0 into kernel
