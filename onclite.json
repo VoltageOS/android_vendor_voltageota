@@ -1,15 +1,15 @@
 {
-        "response": [
-                {
-                        "maintainer": "Aditya Singh (afterallafk)",
-                        "oem": "Xiaomi",
-                        "device": "Redmi 7",
-                        "filename": "voltage-1.4-onclite-20220213-0450-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/voltage-os/files/onclite/voltage-1.4-onclite-20220213-0450-OFFICIAL.zip/download",
-                        "timestamp": 1644727694,
-                        "md5": "9041488d649c6ea754d2f665b12f6c75",
-                        "size": 939301238,
-                        "version": "1.4",
-                }
-        ]
+  "response": [
+    {
+        "maintainer": "Aditya Singh (afterallafk)",
+        "oem": "Xiaomi",
+        "device": "Redmi 7",
+        "filename": "voltage-1.4-onclite-20220213-0450-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/onclite/voltage-1.4-onclite-20220213-0450-OFFICIAL.zip/download",
+        "timestamp": 1644727694,
+        "md5": "9041488d649c6ea754d2f665b12f6c75",
+        "size": 939301238,
+        "version": "1.4"
+    }
+  ]
 }
