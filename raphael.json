@@ -2,14 +2,14 @@
   "response": [
     {
         "maintainer": "Pranav Temkar",
-        "oem": "Redmi",
+        "oem": "Xiaomi",
         "device": "Redmi K20 Pro",
-        "filename": "voltage-1.3-hotfix-raphael-20220110-1102-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/raphael/voltage-1.3-hotfix-raphael-20220110-1102-OFFICIAL.zip/download",
-        "timestamp": 1641812404,
-        "md5": "b1866189c40eef55cdd48a79c21ce87d",
-        "size": 1081756956,
-        "version": "1.3-hotfix"
+        "filename": "voltage-1.4-raphael-20220213-0750-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/raphael/voltage-1.4-raphael-20220213-0750-OFFICIAL.zip/download",
+        "timestamp": 1644738521,
+        "md5": "17c9933749e63962c057c64df56ae664",
+        "size": 1223496930,
+        "version": "1.4"
     }
   ]
 }

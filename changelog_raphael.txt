@@ -1,3 +1,16 @@
+VoltageOS 1.4
+ - Remove Proto Configs
+ - Drop Sensor Calibrate
+ - Switch to prebuilt IIFA service
+ - Disable wifi rx wakelock
+ - Sepolicy Address few denails logspam
+ - Sync EGL symlinks with CAF
+ - Update display & media blobs from LA.UM.9.1.r1-11400.02 CAF tag
+ - Suppress tetheroffload logspam
+ - Enable UDFPS animations
+ - Add overlay to configure power button location (Fix AOD screen off animation, need to set anim scale to 1.25x in dev options to see the animation)
+ - Disable Force Encryption by default. No need to flash DFE now as of current scenario encryption is not fully working on a12 so no use of providing auto encryption and make users flash dfe all time
+
 VoltageOS 1.3 Hotfix
 Build Date : 10/01/2022
  - Removed Bromite Browser & Webview
