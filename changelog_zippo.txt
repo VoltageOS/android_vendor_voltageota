@@ -1,3 +1,8 @@
+Voltage OS 1.4
+
+- Kernel bumped to 9.1.r1.11600
+- many small improvements under the hood
+
 VoltageOS 1.3 Hotfix
 Build Date : 11/01/2022
  -  No changes since 1.3
