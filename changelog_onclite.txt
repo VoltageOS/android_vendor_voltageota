@@ -1,3 +1,17 @@
+VoltageOS 1.4
+Build Date : 13/02/2022
+ - Merged February Security Patch
+ - Build based on r29
+ - Switched Raven(Pixel 6 Pro) February Fingerprint
+ - Switch to AOSP WFD or Screencast
+ - Adapt to Android Go Guidelines for 2GB RAM Devices
+ - Disable UI Touch sounds by default
+ - Fixed Battery Drain Issue
+ - Ship with Pulse Music player by default
+ - Added Ambient Display missing string
+ - Fixed sepolicy denials
+NOTE: REBASED TREES AND THANKS TO @Soumyajitpaul007 FOR VENDOR. SAFETYNET PASSED BY DEFAULT.
+
 VoltageOS 1.3 Hotfix
 Build Date : 10/01/2022
  - Remove Bromite Browser
