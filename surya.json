@@ -4,12 +4,12 @@
         "maintainer": "Mezaque (Trickbot199)",
         "oem": "xiaomi",
         "device": "Poco X3 NFC",
-        "filename": "voltage-1.3-hotfix-surya-20220110-1842-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.3-hotfix-surya-20220110-1842-OFFICIAL.zip/download",
-        "timestamp": 1641840173,
-        "md5": "1c1a78aad3ab5bfd735c504347616040",
-        "size": 1118116771,
-        "version": "1.3-hotfix"
+        "filename": "voltage-1.4-surya-20220213-1503-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.4-surya-20220213-1503-OFFICIAL.zip/download",
+        "timestamp": 1644764199,
+        "md5": "1435cf9aaba396e6a0ecbd9cb8f8b826",
+        "size": 1159850433,
+        "version": "1.4"
     }
   ]
 }
