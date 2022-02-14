@@ -1,15 +1,15 @@
 {
-        "response": [
-                {
-                        "maintainer": "KSSRAO",
-                        "oem": "Realme",
-                        "device": "Realme 5 Pro",
-                        "filename": "voltage-1.4-RMX1971-20220214-0223-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1971/voltage-1.4-RMX1971-20220214-0223-OFFICIAL.zip/download",
-                        "timestamp": 1644805311,
-                        "md5": "f73d86ed51d5adfb930153f6d8ab04bd",
-                        "size": 1092185957,
-                        "version": "1.4",
-                }
-        ]
+  "response": [
+    {
+        "maintainer": "KSSRAO",
+        "oem": "Realme",
+        "device": "Realme 5 Pro",
+        "filename": "voltage-1.4-RMX1971-20220214-0223-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1971/voltage-1.4-RMX1971-20220214-0223-OFFICIAL.zip/download",
+        "timestamp": 1644805311,
+        "md5": "f73d86ed51d5adfb930153f6d8ab04bd",
+        "size": 1092185957,
+        "version": "1.4"
+    }
+  ]
 }
