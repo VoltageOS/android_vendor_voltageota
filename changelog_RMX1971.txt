@@ -1,3 +1,20 @@
+Device Side Changes - 1.4
+
+* Updated to Raven February FP
+
+* Switched to User Build from Userdebug
+
+* Switched to Vulkan UI renderer, so UI must be smoother now
+
+* Upstreamed kernel to Kharame 4.9.301
+
+* Merge latest CAF tag 'LA.UM.9.8.r1-04600-SDM710.0'
+
+* Safetynet passes by default
+
+* Fixed issue of Dialler not being set and resulting in no caller screen
+
+* Fixed Battery Section showing "Connected but not charging" even though charger not plugged in
 
 
 Device Side Changes - 1.3 Hotfix
