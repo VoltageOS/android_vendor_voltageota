@@ -1,3 +1,7 @@
+VoltageOS 1.4 Hotfix
+Build Date : 15/02/2022
+ -  Fixed GCamGO audio
+
 VoltageOS 1.4
 Build Date : 13/02/2022
  -  Dirac sound improvements
