@@ -1,0 +1,6 @@
+Voltage OS 1.4
+- Encrypted by default 
+- Adjusted status bar padding
+- Inline xiaomi audio changes from MIUI V12.5.4.0.QFHCNXM
+- Used vibration pattern from pixel 2
+- Switched to Litten Kernel

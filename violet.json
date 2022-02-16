@@ -4,12 +4,12 @@
         "maintainer": "Niranjan BR",
         "oem": "Redmi",
         "device": "Xiaomi Redmi Note 7 Pro",
-        "filename": "voltage-1.3-violet-20220108-0527-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-1.3-violet-20220108-0527-OFFICIAL.zip/download",
-        "timestamp": 1641619472,
-        "md5": "1c44643d865fe5f557b931b84e567b66",
-        "size": 986015854,
-        "version": "1.3"
+        "filename": "voltage-1.4-violet-20220216-1209-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-1.4-violet-20220216-1209-OFFICIAL.zip/download",
+        "timestamp": 1645013189,
+        "md5": "5a88ef65625799cede3ec520aee43303",
+        "size": 1091337748,
+        "version": "1.4"
     }
   ]
 }
