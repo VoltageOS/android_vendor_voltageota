@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "MAdMiZ",
+        "oem": "Realme",
+        "device": "Realme 5 Series",
+        "filename": "voltage-1.4-r5x-20220219-2210-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-1.4-r5x-20220219-2210-OFFICIAL.zip/download",
+        "timestamp": 1645308504,
+        "md5": "92aa9740fdc281690d0249a73f5e647e",
+        "size": 1169024631,
+        "version": "1.4"
+    }
+  ]
+}

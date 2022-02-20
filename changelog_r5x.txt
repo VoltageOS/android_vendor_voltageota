@@ -1,0 +1,15 @@
+Device Side Changes - 1.4
+                                                          
+× Ship Wth Graveyard_v11 4.14.267
+                                                          
+× Swtiched To AIDL Light HAL
+                                                          
+× Updated Some HAL's
+                                                          
+× Tuned ZRAM
+                                                          
+× Added Many Missing Overlays, Props
+                                                          
+× Fixed Hyper Orange Light Night Intensity
+                                                          
+× Many More Optimizations Under The Hood
