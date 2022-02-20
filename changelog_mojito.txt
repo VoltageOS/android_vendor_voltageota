@@ -1,3 +1,22 @@
+VoltageOS 1.4 
+Build Date : 20/02/2022
+
+Notes- 
+• Vanilla Build. Use Bitgapps .
+
+Changelog-
+• Update blobs from MIUI 13
+• Fixed few sepolicy denials and wakeup nodes.
+• prop: Optimise dex flags
+• prop: Import commonized audio pcm voip
+• overlay: Update config_safe_media_volume_index
+• overlay: Drop unused/useless overlays
+• prop: Set media vol steps to 25
+• Build media Codec2 modules
+
+Credits:
+• @Anush02198 for base DT
+
 VoltageOS 1.3 Hotfix
 Build Date : 1101/2022
 
