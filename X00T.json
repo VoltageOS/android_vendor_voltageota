@@ -4,12 +4,12 @@
         "maintainer": "Karthik",
         "oem": "Asus",
         "device": "Asus Zenfone Max Pro M1",
-        "filename": "voltage-1.3-hotfix-X00T-20220110-1422-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/X00T/voltage-1.3-hotfix-X00T-20220110-1422-OFFICIAL.zip/download",
-        "timestamp": 1641824506,
-        "md5": "e0bab39628091e1d9d94f70b62b4fdf6",
-        "size": 777750173,
-        "version": "1.3-hotfix"
+        "filename": "voltage-1.4-X00T-20220221-1556-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/X00T/voltage-1.4-X00T-20220221-1556-OFFICIAL.zip/download",
+        "timestamp": 1645458945,
+        "md5": "a4234809e6ed233edc48cbd72c24bdfe",
+        "size": 775986714,
+        "version": "1.4"
     }
   ]
 }
