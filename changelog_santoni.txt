@@ -1,0 +1,3 @@
+VoltageOS 1.4
+Build Date : 13/04/2022
+ - Initial build

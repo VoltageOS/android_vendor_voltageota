@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Pranav Temkar (@PptOo7)",
+        "oem": "Xiaomi",
+        "device": "Redmi 4x",
+        "filename": "voltage-1.4-santoni-20220413-1305-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/santoni/voltage-1.4-santoni-20220413-1305-OFFICIAL.zip/download",
+        "timestamp": 1649855093,
+        "md5": "5df2913fbab767383bd62d9af3efcfed",
+        "size": 799212679,
+        "version": "1.4"
+    }
+  ]
+}
