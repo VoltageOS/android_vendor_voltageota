@@ -1,4 +1,16 @@
+VoltageOS 1.5
+Build Date : 03/05/2022
+ - Initial Android 12.1 | L build
+ - Update graphics blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 & LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+ - Switch from AOSP BT to QTI BT
+ - Address some sepolicy denials
+ - Fix statusbar padding according to a12.1/L
+ - Switched from soviet star to snaplight all credits to @wadiehabib & @LuanHalaiko for work on Kernel
+ - Compiled using latest TRB clang 15.0.0
+ - IMP Note : Kindly clean flash as this is a12.1 build and dont use ota for this time
+
 VoltageOS 1.4
+Build Date : 03/02/2022
  - Remove Proto Configs
  - Drop Sensor Calibrate
  - Switch to prebuilt IIFA service
