@@ -1,3 +1,10 @@
+VoltageOS 1.5
+Build Date : 05/05/2022
+ - Initial Android 12.1 | L build
+ - Now Dt2w works on full screen
+ - Increase earpiece volume for calls
+ - Enable skia reduceOpsTaskSplitting
+
 VoltageOS 1.4
 Build Date : 13/04/2022
  - Initial build
