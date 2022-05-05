@@ -1,3 +1,19 @@
+VoltageOS 1.5
+Build Date : 05/05/2022
+ -  Initial Android 12.1 | L build
+ -  Add support for Hi-Fi
+ -  Implement Clear Speaker
+ -  Enable haptic text cursor
+ -  Firmware Included V12.5.5.0.RJGMIXM
+ -  CTS pass by default and Magisk Hide
+ -  Droped soundtrigger
+ -  Droped GCamGO
+ -  Droped Kcal Control
+ -  Add bass booster preset for MiSound
+ -  Upstreamed kernel to v4.14.277
+ -  Compiled using latest TRB clang 15.0.0
+ -  IMP Note : Kindly clean flash as this is a12.1 build and dont use ota for this time
+
 VoltageOS 1.4 Hotfix
 Build Date : 15/02/2022
  -  Fixed GCamGO audio
