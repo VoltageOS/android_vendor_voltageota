@@ -1,3 +1,26 @@
+VoltageOS 1.5
+Build Date : 06/05/2022
+ - May Security Patch
+ - May Build Fingerprint
+ - Dropped Xiaomi Parts
+ - Introduced DeviceSettings
+ - Fix Lockscreen Wakeup Delay
+ - Enable Performance Profiles
+ - Enable ViLTE overlay
+ - Speed dexpreopt Pixel Launcher
+ - Explicitly Enable IORap & OFR
+ - Enable Seamless Transfer Support
+ - Set Max WFD Resolution to 1080p
+ - Disable Wallpaper Zooming
+ - Enable Stereo Channel Support for Voip over audio path
+ - Enable 24-bit audio for Wired Headphones and Headsets
+
+NOTES:
+CLEAN FLASH RECOMMENDED AS DEVICE SOURCES ARE CHANGED
+CREDITS:
+THANKS @Hamraj37 FOR TESTING
+THANKS @Dhina_17 @bibarub for DEVICE TREES & @Soumyajitpaul007 FOR VENDOR TREES
+
 VoltageOS 1.4
 Build Date : 13/02/2022
  - Merged February Security Patch
