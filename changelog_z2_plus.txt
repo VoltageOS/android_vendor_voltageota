@@ -1,0 +1,7 @@
+upstreamed kernel to .312
+fixed annoying wakelock from alarm that was spamming suspend
+reworked energy model based on zuk hardware
+dropped QCRILD completely as our ril was fixed by los devs
+removed useless early/post boot caf scripts
+improved boot animation speeds
+switch to threaded skiagl renderer
