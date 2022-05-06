@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Abrar",
+        "oem": "Xiaomi",
+        "device": "Poco F3",
+        "filename": "voltage-1.5-alioth-20220505-1654-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/alioth/voltage-1.5-alioth-20220505-1654-OFFICIAL.zip/download",
+        "timestamp": 1651769535,
+        "md5": "c95de2b99560fc6be189af9e7d57fa8a",
+        "size": 1282626066,
+        "version": "1.5"
+    }
+  ]
+}

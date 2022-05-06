@@ -1,0 +1,9 @@
+VoltageOS 1.5
+Build Date : 06/05/2022
+  • Initial Official Build
+  • Updated Adreno Blobs
+  • alioth: overlay: Allow display to be rotated in all 4 rotation
+  • alioth: Overlays: Enable burn-in protection for status/navbar
+  • sm8250-common: props: Disable vsync for CPU rendered Apps
+  • sm8250-common: Add kpti=off to boot command line
+  • Misc Improvements
