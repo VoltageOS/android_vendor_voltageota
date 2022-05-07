@@ -1,3 +1,11 @@
+VoltageOS 1.5
+Build Date : 07/05/2022
+ -Fixed Jio APN issue
+ -Dropped Soundtrigger and fixed google assistant not working
+ -Added Zram write-back 
+ -Dropped LiveDisplay
+ -Backported new vmalloc for "large performance benefits"
+
 VoltageOS 1.4
 Build Date : 19/02/2022
  -Fixed Upload Traffic Indicator and Data Usage
