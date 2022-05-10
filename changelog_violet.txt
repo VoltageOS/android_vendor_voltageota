@@ -1,3 +1,12 @@
+Voltage OS 1.5
+- Appled a boost after fp is authenticated
+- Removed Gcam Go
+- Implemented keyhandler for fingerprint shutter
+- Adapted status bar height to 12L
+- Added HIFI mixer controls
+- Disabled ART debug and optimize dexpreopt
+- Allowed bluetooth to read incremental prop
+
 Voltage OS 1.4
 - Encrypted by default 
 - Adjusted status bar padding
