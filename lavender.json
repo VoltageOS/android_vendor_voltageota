@@ -4,12 +4,12 @@
         "maintainer": "Shridhan Varadkar (xtra_sharif)",
         "oem": "Xiaomi",
         "device": "Redmi Note 7/7S",
-        "filename": "voltage-1.4-lavender-20220213-1219-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/lavender/voltage-1.4-lavender-20220213-1219-OFFICIAL.zip/download",
-        "timestamp": 1644754691,
-        "md5": "9786dc968980046680347afa390b86d0",
-        "size": 901834713,
-        "version": "1.4"
+        "filename": "voltage-1.5-lavender-20220510-2158-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/lavender/voltage-1.5-lavender-20220510-2158-OFFICIAL.zip/download",
+        "timestamp": 985258778,
+        "md5": "125b86244055dfb1fa12d03868b5dfc8",
+        "size": 985661440,
+        "version": "1.5"
     }
   ]
 }

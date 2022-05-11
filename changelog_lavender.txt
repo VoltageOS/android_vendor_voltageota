@@ -1,3 +1,16 @@
+VoltageOS 1.5
+Build Date : 10/05/2022
+
+Device Changelog:
+• Added XiomiParts/DeviceSettings
+• Hide Magisk better for Banking Apps
+• wifi: Enable magic packet WoWLAN trigger
+
+Notes-
+Clean flash necessary 
+Initial 12l build
+Use qti-oldcam kernel
+
 VoltageOS 1.4
 Build Date : 13/02/2022
 
