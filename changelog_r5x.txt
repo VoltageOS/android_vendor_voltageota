@@ -1,15 +1,26 @@
+Device Side Changes - 1.5
+                                                          
+× Initial Android 12L
+× Upstreamed Graveyard Kernel To 4.14.277
+× Switched To AQTI AIDL Pixel Power libperfmgr HAL
+× Switched To QTI AIDL Thermal HAL
+× Ship With Custom Configured Thermal Engine
+× Addressed All Possible Denials
+× Custom Configured InputBoost
+× Custom Configured GPU Boost
+× Added FPS Tile
+× Force Enabled SmartReply For All Apps
+× Uprev GoogleCameraGo
+× Ship With Xperia MuziX 
+× Improved GPS Performance 
+× Many More Optimizations Under The Hood
+                                                          
 Device Side Changes - 1.4
                                                           
 × Ship Wth Graveyard_v11 4.14.267
-                                                          
-× Swtiched To AIDL Light HAL
-                                                          
+× Swtiched To AIDL Light HAL 
 × Updated Some HAL's
-                                                          
 × Tuned ZRAM
-                                                          
-× Added Many Missing Overlays, Props
-                                                          
+× Added Many Missing Overlays, Props 
 × Fixed Hyper Orange Light Night Intensity
-                                                          
 × Many More Optimizations Under The Hood
