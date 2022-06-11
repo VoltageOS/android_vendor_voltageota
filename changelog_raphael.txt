@@ -1,3 +1,23 @@
+VoltageOS 1.6
+Build Date : 11/06/2022
+ - Switch from Infinity to Soviet Star kernel
+ - Tone down few logging
+ - Add missing hals to manifest
+ - Sepolicy : Address miscellaneous denials
+ - Add Qs system info ovverlay
+ - Cleanup bluetooth and audio flags
+ - Fix deprecated power profile items
+ - Nuke QCOM thermal-engine blobs
+ - Some VNDK improvements
+ - Move to commonized
+   * IFAA Service
+   * Xiaomi Light AIDL
+ - Set google auto-fill as default fill service
+ - Increase max system icons shown in statusbar
+ - Update GPS configs to A12.1
+ - CarrierConfig: update from 5800 QSSI
+ - Many miscellaneous improvements & minor bugs fixes
+
 VoltageOS 1.5
 Build Date : 03/05/2022
  - Initial Android 12.1 | L build
