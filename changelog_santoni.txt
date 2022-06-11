@@ -1,3 +1,13 @@
+VoltageOS 1.6
+Build Date : 11/06/2022
+ - Remove Xiaomi Parts
+ - Update graphics blobs from LA.UM.10.6.2.r1-01600-89xx.0
+ - Import WiFi display from LA.UM.10.6.2.r1-01600-89xx.0
+ - Kernel upstream to 4.9.227 & merge CAF tag LA.UM.10.6.2.r1-01600-89xx.0
+ - Update DRM + Widevine from Coral 
+ - Address some SEpolicy Denails
+ - Miscellaneous Fixes and Improvements
+
 VoltageOS 1.5
 Build Date : 05/05/2022
  - Initial Android 12.1 | L build
