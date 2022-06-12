@@ -1,3 +1,9 @@
+Voltage OS 1.6
+
+- Kernel bumped to LA.UM.9.1.c11-31000-SMxxx0.QSSI12.0
+- removed Gcam as default camera
+- minor tweaks and fixes
+
 Voltage OS 1.4
 
 - Kernel bumped to 9.1.r1.11600
