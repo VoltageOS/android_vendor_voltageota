@@ -1,0 +1,3 @@
+Voltage OS 1.6
+- Initial Official Build
+- Vantom Kernel inbuilt

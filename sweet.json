@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Niranjan BR",
+        "oem": "Redmi",
+        "device": "Xiaomi Redmi Note 10 Pro",
+        "filename": "voltage-1.6-sweet-20220611-1711-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/sweet/voltage-1.6-sweet-20220611-1711-OFFICIAL.zip/download",
+        "timestamp": 1654967307,
+        "md5": "229aa3558097b508ef2e352d61e5b1f9",
+        "size": 1209512005,
+        "version": "1.6"
+    }
+  ]
+}
