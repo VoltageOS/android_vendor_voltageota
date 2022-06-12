@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Tejas Patil",
+        "oem": "Xiaomi",
+        "device": "Poco X2",
+        "filename": "voltage-1.6-phoenix-20220612-1803-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/phoenix/voltage-1.6-phoenix-20220612-1803-OFFICIAL.zip/download",
+        "timestamp": 1655056956,
+        "md5": "e79aecd260765f18ce8c88ed6686cbb0",
+        "size": 1153880204,
+        "version": "1.6"
+    }
+  ]
+}
