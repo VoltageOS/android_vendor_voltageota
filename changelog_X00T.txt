@@ -1,3 +1,17 @@
+VoltageOS 1.6
+Build Date: 12/06/2022
+ -Update Wifi,Time Service and thermal blobs from ddv_sprout
+ -Switch to QTI BT Stack
+ -Switch to QTI WFD Stack
+ -Update Perf and ESE blobs from ddv_sprout
+ -Update Alarm and ANT+ blobs from ddv_sprout
+ -Update Bluetooth blobs from ddv_sprout
+ -Update Soter and TUI blobs from ddv_sprout
+ -Update DRM blobs from ddv_sprout
+ -Fixed Recovery Stuck issue
+ -Disable APEX Compression
+
+
 VoltageOS 1.5
 Build Date : 07/05/2022
  -Fixed Jio APN issue
