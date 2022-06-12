@@ -1,0 +1,6 @@
+VoltageOS 1.6
+Build Date : 11/06/2022
+  • Initial Official Build
+  • vayu: overlay: Add support for FPS Info tile
+  • vayu: parts: Sort refresh rate cycle in natural order
+  • vayu: msm_irqbalance: Do not balance msm_drm and kgsl-3d0 IRQs

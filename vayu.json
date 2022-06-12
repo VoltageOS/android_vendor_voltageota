@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+          "maintainer": "clhexftw",
+          "oem": "Poco",
+          "device": "Xiaomi Poco X3 Pro",
+          "filename": "voltage-1.6-vayu-20220611-1115-OFFICIAL.zip",
+          "download": "https://sourceforge.net/projects/voltage-os/files/vayu/voltage-1.6-vayu-20220611-1115-OFFICIAL.zip/download",
+          "timestamp": 1655015883,
+          "md5": "b4594d2ea33e40775f4ad9e5c8e879cd",
+          "size": 1209512005,
+          "version": "1.6"
+      }
+    ]
+  }
