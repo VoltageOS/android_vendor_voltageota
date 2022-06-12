@@ -4,12 +4,12 @@
         "maintainer": "Dmitrii",
         "oem": "Zuk",
         "device": "Zuk z2 plus",
-        "filename": "voltage-1.5-z2_plus-20220506-0541-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/z2_plus/voltage-1.5-z2_plus-20220506-0541-OFFICIAL.zip/download",
-        "timestamp": 1651815614,
-        "md5": "2b7788a2f2501e12065f2587e8b49ae7",
-        "size": 823351492,
-        "version": "1.5"
+        "filename": "voltage-1.6-z2_plus-20220611-1401-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/z2_plus/voltage-1.6-z2_plus-20220611-1401-OFFICIAL.zip/download",
+        "timestamp": 1654956070,
+        "md5": "6f1157bedf42a136c4352a4f18269cbf",
+        "size": 844495318,
+        "version": "1.6"
     }
   ]
 }
