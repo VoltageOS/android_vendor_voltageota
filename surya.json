@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Mezaque (Trickbot199)",
+        "maintainer": "Mezaque_Sílver",
         "oem": "xiaomi",
         "device": "Poco X3 NFC",
-        "filename": "voltage-1.5-surya-20220505-1846-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.5-surya-20220505-1846-OFFICIAL.zip/download",
-        "timestamp": 1651776390,
-        "md5": "daf4a7dcae5286404a4e28c425c7cd66",
-        "size": 1233633953,
-        "version": "1.5"
+        "filename": "voltage-1.6-surya-20220612-0531-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.6-surya-20220612-0531-OFFICIAL.zip/download",
+        "timestamp": 1655010529,
+        "md5": "01fbe5b05e6c8dd6b345c73b38079458",
+        "size": 1146183226,
+        "version": "1.6"
     }
   ]
 }
