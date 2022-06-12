@@ -1,3 +1,18 @@
+VoltageOS 1.6
+Build Date : 12/06/2022
+ -  Disable encryption
+ -  Tweak display color compositions
+ -  Add MiSound scenes
+ -  Droped Implement Clear Speaker
+ -  Some audio fixes
+ -  Update RIL
+ -  swtich to AOSP surfaceflinger
+ -  Update blobs V12.5.7.0.RJGMIXM
+ -  Droped firmware inclusion
+ -  Update maintainer name
+ -  Upstreamed kernel to v4.14.282
+ -  IMP Note : Clean flash is required because of unencrypted build
+
 VoltageOS 1.5
 Build Date : 05/05/2022
  -  Initial Android 12.1 | L build
