@@ -1,3 +1,25 @@
+VoltageOS 1.6
+Build Date : 13/06/2022
+
+Device Changelog:
+• Enabled Always on display (disable by default)
+• Set Google autofill service to default (so you domt have to)
+• Adapt 12L status bar height 
+• Max WFD resolution to 720p
+• Adapt status bar height to NoCutoutOverlay
+
+Notes- 
+For dirty flash- 
+Flash ROM zip and reboot to system
+Disable the "Apps" app
+Reboot to recovery and flash Gapps
+Reboot
+
+For clean flash-
+Flash ROM zip + Gapps
+Format Data 
+Reboot
+
 VoltageOS 1.5
 Build Date : 10/05/2022
 
