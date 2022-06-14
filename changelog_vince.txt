@@ -1,0 +1,31 @@
+VoltageOS 1.6
+Build Date : 14/06/2022
+
+
+• Device Changelog :-
+* Unitrix kernel 4.9.317 by default 
+* Switch to latest RavenFP 
+* Fix deprecated power profile items
+* Disabled ART debug
+* Optimised Surfaceflinger
+* Set correct partiton for build.prop as old ones are deprecated
+* Adapt 12L status bar height 
+* Disable debug.sf.latch.unsignaled in order to prevent qs lags
+* Switch to SkiaGL 
+* Tuned Zram and set size to 2gb
+* Dropped lmkd props
+* Fix fingerprint wake-up animation
+* Added offline charging LED indicator
+* Many animation fixes
+* Tuned thermal engine performance
+* Allowed some missing Google services permissions
+* Switch Audio Hal to v7
+* Boost performance during BootUP
+
+
+• Notes :-
+* Clean flash necessary 
+* Initial official build
+* Use latest recovery 
+* NikGapps recommended (12L)only
+
