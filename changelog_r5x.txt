@@ -1,3 +1,16 @@
+Device Side Changes - 1.6
+
+× Upstreamed Graveyard Kernel To 4.14.282
+× Updated Most Blobs From CAF LA.UM.9.11.r1-04500-NICOBAR.0
+×>Dropped Useless Oppo Specific Blobs
+× Fixed Lockscreen Charging Information 
+× Migrated to Health 2.1 HAL 
+× Cleaned Up Many Vendor Interfaces
+× Switched to a New Perf Init 
+× Fixed NFC For '5s' Variant
+× Enabled GPS GLONASS
+× Many More Optimizations Under The Hood
+
 Device Side Changes - 1.5
                                                           
 × Initial Android 12L
