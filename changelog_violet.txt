@@ -1,3 +1,16 @@
+Voltage OS 1.6
+- Update max visible system icons
+- Set statusbar top padding to 0 for landscape
+- Fix CNE indicator exemption role 
+- Enable QPower and Deep sleep at the same time 
+- Relax WiFi re-association RSSI thresholds
+- Smarter decisions on whether to use a 2Ghz or 5Ghz AP
+- Enable display protected contents in SF
+- Fixed low mic volume
+- Disable blur on app launch 
+- Address telephony denials
+- Uprev IRadio HAL to 1.5
+
 Voltage OS 1.5
 - Appled a boost after fp is authenticated
 - Removed Gcam Go
