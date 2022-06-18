@@ -1,13 +1,23 @@
+VoltageOS 1.6
+Build Date : 18/06/2022
+ - Increase earpiece volume.
+ - Fix night light, invert colour and dim light. 
+ - minor bug fixes
+
+ - IMP Note :
+     - If you are dirty flashing then remember to flash    gapps also. 
+     - decryped by default
+     - kernel 4.4.302
+
 VoltageOS 1.5
 Build Date : 05/05/2022
  - Initial Android 12.1 | L build 
  - Fix call recording.
  - Fix gesture navigation.
  - fix some denials
+
  - IMP Note :
      - Kindly clean flash as this is a12.1 build and dont use ota for this time
-     - decryped by default
-     - kernel 4.4.302
 
 VoltageOS 1.3 Hotfix
 Build Date : 12/01/2022
