@@ -1,3 +1,10 @@
+VoltageOS 1.6-Hotfix
+Build Datw: 19/06/2022
+ -Fixed Chrome and Hotstar crashing and added missing drm blobs
+ -Fixed Speaker Audio crack and improve audio output
+ -Fixed Speaker Audio output dead at first boot
+ -Switched to SkyWalker Kernel
+
 VoltageOS 1.6
 Build Date: 12/06/2022
  -Update Wifi,Time Service and thermal blobs from ddv_sprout
