@@ -1,3 +1,10 @@
+VoltageOS 1.6
+Build Date : 19/06/2022
+  • Fixed Padding
+  • Fixed Fp enrolling icon position
+  • Driver Updated
+  • misc improvements
+
 VoltageOS 1.5
 Build Date : 06/05/2022
   • Initial Official Build
@@ -6,4 +13,4 @@ Build Date : 06/05/2022
   • alioth: Overlays: Enable burn-in protection for status/navbar
   • sm8250-common: props: Disable vsync for CPU rendered Apps
   • sm8250-common: Add kpti=off to boot command line
-  • Misc Improvements
+  • Misc Improvements 
