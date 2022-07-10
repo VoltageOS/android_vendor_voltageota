@@ -1,3 +1,20 @@
+VoltageOS 1.7
+Build Date : 10/07/2022
+- few bug fixes
+
+=======================
+
+Notes- 
+For dirty flash- 
+-Flash ROM zip and reboot to system 
+  -Disable the "Apps" app 
+  -Reboot to recovery and flash Gapps 
+  -Reboot
+
+ - decryped by default
+ - kernel 4.4.302
+=======================
+
 VoltageOS 1.6
 Build Date : 18/06/2022
  - Increase earpiece volume.
@@ -6,8 +23,7 @@ Build Date : 18/06/2022
 
  - IMP Note :
      - If you are dirty flashing then remember to flash    gapps also. 
-     - decryped by default
-     - kernel 4.4.302
+    
 
 VoltageOS 1.5
 Build Date : 05/05/2022
