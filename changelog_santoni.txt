@@ -1,3 +1,13 @@
+VoltageOS 1.7
+Build Date : 10/07/2022
+ - Blob updates from LA.UM.9.6.3.r1-06200-89xx.0
+ - Upstream media hal to LA.UM.10.6.2.r1-02200-89xx.0
+ - Add moto dolby from OP9 Pro
+ - Force disable IORAPD as it consumes more ram & google has decided to remove it with a13
+ - Cleanup un-used overlays and move some of them to correct location.
+ - Fixed Qs System info and addressed sepolicy for the same.
+ - Silence clang warnings during kernel compile  
+
 VoltageOS 1.6
 Build Date : 11/06/2022
  - Remove Xiaomi Parts
