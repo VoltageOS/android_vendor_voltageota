@@ -1,3 +1,29 @@
+VoltageOS 1.7
+Build Date : 10/07/2022
+
+Device Changelog:
+• Dropped Always on display (Dunno why i did it in the first place)
+• Fix deprecated power profile items
+• wifi: Smarter decisions on whether to use 2/5Ghz AP
+• props: Set the maximum WFD resolution to 1080p@30
+• Dropped IFAA
+• Fixed scroll lag in many apps, such as Twitter
+• Decommonised device and vendor tree
+• sensor.ssc from DDV_sprout 
+• Updated DRM & DIRAC related blobs from miui 12.5.3 global
+
+Notes- 
+For dirty flash- 
+Flash ROM zip and reboot to system
+Disable the "Apps" app
+Reboot to recovery and flash Gapps
+Reboot
+
+For clean flash-
+Flash ROM zip + Gapps
+Format Data 
+Reboot
+
 VoltageOS 1.6
 Build Date : 13/06/2022
 
