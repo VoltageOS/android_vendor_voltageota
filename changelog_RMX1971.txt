@@ -1,3 +1,18 @@
+Device Side Changes - 1.7
+
+* Added July security patch
+
+* Updated Kernel to 4.9.322-KharaMe5Pro
+
+* Added more presets to Kharame Dirac (Bass booster, Balanced, Live, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble)
+
+* Set GPU idle timeout to 64 ms
+
+* Update brightness configs from aosp
+
+* Improved overall smoothness
+
+
 Device Side Changes - 1.4
 
 * Updated to Raven February FP
