@@ -1,3 +1,37 @@
+VoltageOS 1.7
+Build Date : 10/07/2022
+- Disabled zram writeback 
+- Implemented HBM (High Brightness Mode)
+- Added DC Dimming tile  
+- Added HBM tile
+- Fixed DC Dimming
+- Implemented refresh rate per app
+- Updated Kcal preview image 
+- Sorted and cleanedup the system properties 
+- Reduced the list of pinned acdb files 
+- Updated the s5kgw3 camera libraries from MIUI v13.0.4.0 RKFINXM
+- Switched to the AOSP's default fingerprint service 
+- Updated blobs from MIUI v13.0.8.0 
+- Import stock audio_policy_engine_stream_volumes.xml 
+- Set the maximum music group volume to 15 
+- Set status_bar_padding_top to 5dp
+- Fixed status bar padding on landscape
+
 Voltage OS 1.6
 - Initial Official Build
 - Vantom Kernel inbuilt
+
+Notes- 
+Clean Flash
+- Take a Back-up of your data
+- Reboot to recovery
+- Flash latest firmware 
+- Flash  ROM
+- Flash Gapps 
+- Format data
+- Reboot to system
+
+Dirty Flash/Update ROM
+- Flash the ROM
+- Flash Gapps 
+- Wipe Cache/Dalvik
