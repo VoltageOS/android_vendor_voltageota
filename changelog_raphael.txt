@@ -1,3 +1,18 @@
+VoltageOS 1.7
+Build Date : 10/07/2022
+ - Switch to Soviet Star r3.1 dont flash any other kernel else you will face lag
+ - Removed commonized IFAA, MTD service & Lights, switch back to device tree side impl.
+ - Fixed charging led notification led not working
+ - Force disable IORAPD as it eats more ram & google is removing it completely in a13
+ - Force remove refrash rate tile for kernels which support < 60hz refresh rate as i dont support smooth display in device tree.
+ - Add missing DRM blobs and completely remove old drm 1.0
+ - Sync vendor with device tree add missing blobs.
+ - Add missing permission for xiaomi parts, removed Dirac from parts.
+ - Many miscellaneous improvements & minor bugs fixes
+ - Those who want encryption can now use EFE and enjoy decryption in recovery be aware this is FBEv1 follow flashing guide on xda, All credits to @Pranav-Talmale for fixing a12 decryption on FBEv1.
+ - Voltage will always come with decryption no need to flash any DFE zips, if users want encryption they can flash EFE.
+ - Added support for Smart Pixel also please be aware you wont be able to use udfps if you enable smart pixel this is present since smart pixel was introduced in roms from a11 times so dont cry that udfps not working with smart pixel.
+
 VoltageOS 1.6
 Build Date : 11/06/2022
  - Switch from Infinity to Soviet Star kernel
