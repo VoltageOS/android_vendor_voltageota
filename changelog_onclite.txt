@@ -1,3 +1,16 @@
+VoltageOS 1.7
+Build date : 11/07/2022
+ - Switched Pixel Power HALS and thermals.
+ - Added thermals profiles in device settings.
+ - Set audio to fluence to fix voice recorder & mic buzz.
+ - Fixed screen record lag.
+ - Improved sinsperf.
+ - Introduced Libperfmgr improves performance and reduces lag.
+
+Notes:
+ - Sinsperf+ Kernel by default.
+ - Safetynet passes by default.
+
 VoltageOS 1.6
 Build Date : 18/06/2022
  - June Security Patch
