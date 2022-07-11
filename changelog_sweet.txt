@@ -6,14 +6,7 @@ Build Date : 10/07/2022
 - Added HBM tile
 - Fixed DC Dimming
 - Implemented refresh rate per app
-- Updated Kcal preview image 
-- Sorted and cleanedup the system properties 
-- Reduced the list of pinned acdb files 
-- Updated the s5kgw3 camera libraries from MIUI v13.0.4.0 RKFINXM
-- Switched to the AOSP's default fingerprint service 
-- Updated blobs from MIUI v13.0.8.0 
-- Import stock audio_policy_engine_stream_volumes.xml 
-- Set the maximum music group volume to 15 
+- Updated Kcal preview image  
 - Set status_bar_padding_top to 5dp
 - Fixed status bar padding on landscape
 
