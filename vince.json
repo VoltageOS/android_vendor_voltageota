@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Ritvik Chandel (@harami_here)",
+        "oem": "Xiaomi",
+        "device": "Redmi 5 Plus",
+        "filename": "voltage-1.7-vince-20220713-1913-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/vince/voltage-1.7-vince-20220713-1913-OFFICIAL.zip/download",
+        "timestamp": 1657739560,
+        "md5": "182947dc3b0b4dd3704547bd7104b44e",
+        "size": 856071531,
+        "version": "1.7"
+    }
+  ]
+}

@@ -1,6 +1,15 @@
+VoltageOS 1.7
+Build Date : 14/07/2022
+
+• Device Changelog :-
+* New Device tree
+* Added libperfmgr (Pixel Power Hal)
+* Unitrix Kernel 4.9.323 by default
+* Fix Screen record lag
+* fix statusbar padding
+
 VoltageOS 1.6
 Build Date : 14/06/2022
-
 
 • Device Changelog :-
 * Unitrix kernel 4.9.317 by default 
@@ -22,10 +31,9 @@ Build Date : 14/06/2022
 * Switch Audio Hal to v7
 * Boost performance during BootUP
 
-
 • Notes :-
-* Clean flash necessary 
-* Initial official build
+* OTA available
+* Can be dirty flashed over prvious build 
 * Use latest recovery 
 * NikGapps recommended (12L)only
 
