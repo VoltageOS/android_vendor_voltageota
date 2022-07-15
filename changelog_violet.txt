@@ -1,3 +1,10 @@
+Voltage OS 1.7
+- Display icon beside thermal profiles
+- Fix gps proxy app package name
+- Remove deprecated TARGET_USES_QTI_CAMERA_DEVICE
+- Switch SchedTune to UClamp
+- Change default GPU idle timeout to 60ms
+
 Voltage OS 1.6
 - Update max visible system icons
 - Set statusbar top padding to 0 for landscape
