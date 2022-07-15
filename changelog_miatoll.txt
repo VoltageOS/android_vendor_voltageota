@@ -1,0 +1,6 @@
+VoltageOS 1.7
+Build Date : 14/07/2022
+ - Initial Official Build
+ - Updated FP to raven July
+ - Added overlays for QS System info
+ - Dropped QTI Thermal 2.0 HALs

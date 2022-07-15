@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Sayan Sarkar (@SKORPION_29)",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 9 Pro",
+        "filename": "voltage-1.7-miatoll-20220715-1638-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-1.7-miatoll-20220715-1638-OFFICIAL.zip/download",
+        "timestamp": 1657902992,
+        "md5": "90d9430da65e6a2f9a9a66ed960a5eba",
+        "size": 1233116924,
+        "version": "1.7"
+    }
+  ]
+}
