@@ -1,3 +1,9 @@
+VoltageOS 1.7
+Build Date : 19/07/2022
+  • sm8250-common: Compile HWUI for performance
+  • switched to nokernel
+  • misc improvements
+
 VoltageOS 1.6
 Build Date : 19/06/2022
   • Fixed Padding
