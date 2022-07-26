@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "",
+        "oem": "",
+        "device": "",
+        "filename": "voltage-1.7-guacamoleb-20220726-1307-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/guacamoleb/voltage-1.7-guacamoleb-20220726-1307-OFFICIAL.zip/download",
+        "timestamp": 1658840789,
+        "md5": "003c6936cc7fc2d37bd4848a3914de49",
+        "size": 1145102703,
+        "version": "1.7"
+    }
+  ]
+}
