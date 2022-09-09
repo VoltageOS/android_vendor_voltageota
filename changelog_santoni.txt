@@ -1,3 +1,11 @@
+VoltageOS 1.8-EOL
+Build Date : 09/09/2022
+ - Merge CAF tag LA.UM.10.6.2.r1-02200-89xx.0 in media hal
+ - Use threaded GLES render engine
+ - Improve Memory Managment
+ - Enable QS System Info
+ - Drop deprecated overlays
+
 VoltageOS 1.7
 Build Date : 10/07/2022
  - Blob updates from LA.UM.9.6.3.r1-06200-89xx.0
