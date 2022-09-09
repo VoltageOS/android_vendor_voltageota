@@ -1,3 +1,27 @@
+Device Side Changes - 1.8-EOL
+
+× Upstreamed Kernel To 4.14.292
+× Switched To Simple Low Memory Killer
+× Highly Tuned & Undervolt GPU
+× Enabled Aggressive DeepSleep
+× Fixed Various Memory Leaks specially Camera
+× Optimized Console FrameBuffer Rate
+× Fixed Slow Charging While Display Is On
+× Enabled USB Force FastCharge By Default
+× Update Power HAL & PowerHint From Pixel
+× Fixed DT2W Toggle
+× Fixed Realme 5s HDR+
+× Addressed Some More Denials
+× Fully Fixed Auxillary Cameras
+× Fixed GPS Accuracy For Asia (Now Lightning Fast)
+× Fixed Screen Tear On Text Scrolling
+× Disabled Phantom Process Monitoring
+× Disabled Post Render CleanUp
+× Fixed Lag On YouTube 1440p/2k Video Playback
+× Boosted Mic Volume Input System Wide & UserSpace
+× RealmeDirac: Adapt To SnowCone UI And Update Strings
+× Many More Improvements Under The Hood
+
 Device Side Changes - 1.6
 
 × Upstreamed Graveyard Kernel To 4.14.282
