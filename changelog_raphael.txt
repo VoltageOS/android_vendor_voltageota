@@ -1,3 +1,24 @@
+VoltageOS 1.8 EOL
+Build Date : 09/09/2022
+ - Kang IMS system blobs from Redmi/alioth/alioth:12/RKQ1.200826.002/V13.0.3.0.SKHCNXM:user/release-keys
+ - Fixed native carrier video calling works only on google dialer
+ - Xiaomi Parts : Added back Dirac
+ - Xiaomi Parts : Dirac fixes, Handle more error for dirac
+ - Xiaomi Parts : Introduce haptic feedback level adjustment
+ - Xiaomi Parts : Vibrate when changing haptic feedback level
+ - Xiaomi Parts : Don't explicitly set android:theme for activities
+ - Audio config misc improvements
+ - Enable Volte support for few Indo carriers
+ - Allow rmt_storage to acquire wakelocks correctly
+ - Fix ctl.interface_start logspam by dropping vendor.qti.hardware.cacert hal from manifest
+ - Add missing entries for vendor.qti.data.factory in manifest
+ - Add missing entry for com.dsi.ant in manifest and import ant blob from Miui 12.5.6.0
+ - Improve haptic feedback for calls and message by configuring vibrator kernel nodes for QTI vibrator HAL
+ - Fixed audio in chrome with soundcloud
+ - Disable redir_party_num
+ - Unpin updatable media and launcher from memory
+ - Build nxpnfclegacy hal & address its sepolicy
+
 VoltageOS 1.7
 Build Date : 10/07/2022
  - Switch to Soviet Star r3.1 dont flash any other kernel else you will face lag
