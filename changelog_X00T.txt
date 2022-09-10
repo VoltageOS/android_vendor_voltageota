@@ -1,3 +1,10 @@
+VoltageOS 1.8-EOL
+Build Date: 10/09/2032
+ -Updated WFD, Graphics, Post Processing, Listen, Keymaster, Media Blobs from LA.UM.9.2.r1-03500-SDMxx0.0
+ -Compiled with TRB Clang 16.0
+ -Switch to OSS camera HAL
+ -Add back Doze
+
 VoltageOS 1.7
 Build Date: 10/07/2022
  -Fully Rebased trees
