@@ -1,3 +1,7 @@
+Voltage OS 1.8 EOL
+- Kernel rebased + upstreamed to latest linux stable and caf tag
+- fixed some minor issues
+
 Voltage OS 1.7
 - Kernel bumped to LA.UM.9.1.r1-12000-SMxxx0.QSSI13.0
 - Updated Wireguard to v1.0.20220627 
