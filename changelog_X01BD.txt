@@ -1,19 +1,30 @@
-VoltageOS 1.7
-Build Date : 10/07/2022
-- few bug fixes
-
-=======================
+VoltageOS 1.8
+Build Date : 10/09/2022
+ - fix stereo dual mic
+ - fix Headphones without mic
+ - Fix jittery UI during screen recorder
+ - Fix gcam video stabilization
+ - update blobs
+ - reduce RAM usage and increase smoothness in the UI
+ - remove occasional jank in few animations
+ - Fix deep sleep
+ 
+ =======================
 
 Notes- 
 For dirty flash- 
--Flash ROM zip and reboot to system 
-  -Disable the "Apps" app 
+  -Flash ROM zip and reboot to system 
   -Reboot to recovery and flash Gapps 
   -Reboot
 
  - decryped by default
  - kernel 4.4.302
 =======================
+
+
+VoltageOS 1.7
+Build Date : 10/07/2022
+ - few bug fixes
 
 VoltageOS 1.6
 Build Date : 18/06/2022
