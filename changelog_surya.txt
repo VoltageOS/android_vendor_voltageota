@@ -1,3 +1,15 @@
+VoltageOS 1.8 EOL
+Build Date : 10/09/2022
+ -  Enable encryption
+ -  Update blobs V12.5.8.0.RJGMIXM
+ -  Droped Qcom WFD
+ -  Add Clear Speaker back
+ -  Add Dirac Soud QS Tile back
+ -  Add LCD HBM and CABC QS Tile back
+ -  Fixed digital printing animation
+ -  Droped support for Hi-Fi
+ -  Upstreamed kernel to v4.14.290 thank (subhajeetmuhuri)
+
 VoltageOS 1.6
 Build Date : 12/06/2022
  -  Disable encryption

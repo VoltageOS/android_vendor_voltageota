@@ -4,12 +4,12 @@
         "maintainer": "Mezaque_Sílver",
         "oem": "xiaomi",
         "device": "Poco X3 NFC",
-        "filename": "voltage-1.6-surya-20220612-0531-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.6-surya-20220612-0531-OFFICIAL.zip/download",
-        "timestamp": 1655010529,
-        "md5": "01fbe5b05e6c8dd6b345c73b38079458",
-        "size": 1146183226,
-        "version": "1.6"
+        "filename": "voltage-1.8-EOL-surya-20220910-1318-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/surya/voltage-1.8-EOL-surya-20220910-1318-OFFICIAL.zip/download",
+        "timestamp": 1662815778,
+        "md5": "ae8b7a49edbb0fa3363f13136b133686",
+        "size": 1160258216,
+        "version": "1.8"
     }
   ]
 }
