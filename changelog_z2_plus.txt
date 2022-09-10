@@ -1,2 +1,7 @@
+1.8
+update graphic blobs from LA.UM.10.6.2.r1-01600-89xx.0 
+some misc audio hal changes
+
+1.7
 temp switch to 3.18 kernel
 permissive
