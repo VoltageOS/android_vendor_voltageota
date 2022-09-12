@@ -4,12 +4,12 @@
         "maintainer": "Aditya Singh (afterallafk)",
         "oem": "Xiaomi",
         "device": "Redmi 7",
-        "filename": "voltage-1.7-onclite-20220711-0622-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/onclite/voltage-1.7-onclite-20220711-0622-OFFICIAL.zip/download",
-        "timestamp": 1657520469,
-        "md5": "132dbdac34164d6563c44ee5fe5383d0",
-        "size": 1058715924,
-        "version": "1.7"
+        "filename": "voltage-1.8-EOL-onclite-20220912-0641-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/onclite/voltage-1.8-EOL-onclite-20220912-0641-OFFICIAL.zip/download",
+        "timestamp": 1662964837,
+        "md5": "a6cc4444018e83e52b1322cbb96db5c2",
+        "size": 1070450709,
+        "version": "1.8"
     }
   ]
 }
