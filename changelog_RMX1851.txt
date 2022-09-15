@@ -1,0 +1,25 @@
+Device Side Changes - 1.7
+
+*Enabled smart charging
+*Added smooth motion prop
+*updated dexpreopt 
+*enhancement to windows manager shell (Less jitter in system ui while in pip mode )
+*misc changes to HWUI (More smoothnes in UI)
+*Added WIFI aware support
+*switched to skiaglthreaded render
+*enabled rich-communication service (RCS)
+*disabled sdm rotator downscaler
+*enable UXE & prefetch OFR (Better responsiveness in ui)
+*drops soundtrigger (fixed google assistant voice issue)
+*added stagefright_omx libraries from vndk 30
+*added offload gapless support in audio
+*disable zygote preforking
+*enabled the AAC frame control
+*Enable TWS plus feature support
+*Add support for low power adaptive control feature
+*Disallow aux cam usage for Telegram / Telegram X
+*Enable LPRX by default (it was disabled before)
+*Enable all codec2 components with their normal ranks
+*miscellaneous changes regarding Bluetooth even added suport for Qualcomm TrueWireless™ Stereo
+*Added transcoding related property
+*Optimized art props
