@@ -4,12 +4,12 @@
         "maintainer": "Sayan Sarkar (@SKORPION_29)",
         "oem": "Xiaomi",
         "device": "Redmi Note 9 Pro",
-        "filename": "voltage-1.7-miatoll-20220715-1638-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-1.7-miatoll-20220715-1638-OFFICIAL.zip/download",
-        "timestamp": 1657902992,
-        "md5": "90d9430da65e6a2f9a9a66ed960a5eba",
-        "size": 1233116924,
-        "version": "1.7"
+        "filename": "voltage-1.8-EOL-miatoll-20220915-1446-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-1.8-EOL-miatoll-20220915-1446-OFFICIAL.zip/download",
+        "timestamp": 1663253144,
+        "md5": "b48c5ec9408846a4ad382e44eea7f7b6",
+        "size": 1245224510,
+        "version": "1.8"
     }
   ]
 }
