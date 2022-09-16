@@ -1,3 +1,26 @@
+Voltage OS 1.8 EOL
+- Switch to QTI Bluetooth stack 
+- configs: Do not balance msm_drm and kgsl-3d0 IRQs 
+- Remove TARGET_ENABLE_MEDIADRM_64 
+- Uprev IRadio version to 1.5 
+- Add vendor prefix to camera persist file type 
+- Label additional usb related wakeup nodes 
+- Extend vendor_toolbox permissions to files in persist 
+- WifiOverlay: Update from sweet V13.0.8.0.SKFMIXM
+- Move Netflix property to vendor 
+- Add compress recording configurations
+- gps: Update configs from sweet V13.0.8.0.SKFMIXM 
+- gps: Update to LA.UM.9.1.r1-11200-SMxxx0.0 
+- Label new telephony properties 
+- Drop QCOM WFD 
+- Sort blobs list /w sort-blobs-list.py 
+- Add gnss seccomp_policy
+- Update blobs from 07100 QSSI
+- Update blobs from Redmi Note 10 Pro V13.0.8.0.SKFMIXM
+- Improve statusbar padding
+- Set zramsize size to 50% of the total memory
+- Fixed ViLTE
+
 Voltage OS 1.7
 - Display icon beside thermal profiles
 - Fix gps proxy app package name
