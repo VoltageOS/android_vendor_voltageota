@@ -1,0 +1,6 @@
+VoltageOS 2.0
+Build Date : 13/11/22
+ - Initial build
+ - November Security Patch
+ - Kernel upstreamed to 4.14.299 + LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0
+ - Fixed some bugs and added more new bugs :D
