@@ -1,0 +1,5 @@
+VoltageOS 2.0
+Build Date : 13/11/2022
+ - Initial Build
+
+Bugs : Parallel Space
