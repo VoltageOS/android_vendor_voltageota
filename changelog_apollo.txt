@@ -1,0 +1,4 @@
+VoltageOS 2.0
+Build Date : 11/11/22
+ - Initial build
+ - Fixed Wired Ear/Headphones

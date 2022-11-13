@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "adeveloper79",
+        "oem": "Xiaomi",
+        "device": "apollo",
+        "filename": "voltage-2.0-apollo-20221111-1206-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/apollo/voltage-2.0-apollo-20221111-1206-OFFICIAL.zip/download",
+        "timestamp": 1668168374,
+        "md5": "abd7ecbdd142616aaf49c2b22b4e5b1b",
+        "size": 1282060704,
+        "version": "2.0"
+    }
+  ]
+}
