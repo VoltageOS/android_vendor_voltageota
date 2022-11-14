@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Karthik",
+        "oem": "Realme",
+        "device": "Realme X3/SuperZoom",
+        "filename": "voltage-2.0-x3-20221114-0756-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/x3/voltage-2.0-x3-20221114-0756-OFFICIAL.zip/download",
+        "timestamp": 1668412482,
+        "md5": "eda32e48bb02a525430efba4af1f6189",
+        "size": 908012923,
+        "version": "2.0"
+    }
+  ]
+}
