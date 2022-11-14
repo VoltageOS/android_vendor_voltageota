@@ -1,0 +1,6 @@
+VoltageOS 2.0
+Build Date : 14/11/22
+ - Initial A13 build
+ - November Security Patch
+ - Kernel upstreamed to 4.14.299 
+ - Updated blobs from from miui_SWEETGlobal_V13.0.14.0.SKFMIXM
