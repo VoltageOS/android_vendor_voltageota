@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Cykeek",
+        "oem": "Realme",
+        "device": "Realme 3 Pro",
+        "filename": "voltage-2.0-RMX1851-20221117-1555-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1851/voltage-2.0-RMX1851-20221117-1555-OFFICIAL.zip/download",
+        "timestamp": 20221117,
+        "md5": "06a66cfc73c14ae31e9b2ec330233d80",
+        "size": 1029851414,
+        "version": "2.0"
+    }
+  ]
+}
