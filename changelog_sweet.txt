@@ -1,4 +1,10 @@
 VoltageOS 2.0
+Build Date : 20/11/22
+- Fixed extra dim and night light
+- Updated blobs from  sweet V13.0.15.0.SKFEUXM
+- Added dirac logo 
+- Removed HighTouchPollingRate 
+
 Build Date : 14/11/22
  - Initial A13 build
  - November Security Patch
