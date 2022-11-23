@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Mezaque Sílver",
+        "oem": "xiaomi",
+        "device": "Xiaomi 11 Lite 5G NE",
+        "filename": "voltage-2.0-lisa-20221123-1026-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/lisa/voltage-2.0-lisa-20221123-1026-OFFICIAL.zip/download",
+        "timestamp": 1669198992,
+        "md5": "c03e91e02c0fa5eaff9239989e51d790",
+        "size": 1381321911,
+        "version": "2.0"
+    }
+  ]
+}

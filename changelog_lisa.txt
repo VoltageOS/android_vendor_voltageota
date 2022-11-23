@@ -1,0 +1,4 @@
+VoltageOS 2.0
+Build Date : 23/11/22
+ - Initial build
+ - November Security Patch
