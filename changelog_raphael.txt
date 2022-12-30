@@ -1,5 +1,25 @@
+VoltageOS 2.1
+Build Date : 30/12/2022
+ - Fix apn not getting selected by default
+ - Drop deprecated Bluetooth configs and switch to props as per a13
+ - Fix Incoming calls not getting displayed and just ringing
+ - Fix outgoing calls not ringing on few sim operators
+ - Remove blur completely from tree as Google said : blurs are expensive on resources, Fix's stutters in ui
+ - Enable volte/vowifi for movistar
+ - Remove haptic feedback level adjustment and move to new aosp vibration level overlay
+ - Xiaomi parts fix compilation after QPR1 merge
+ - Cleanup useless log spams
+ - Enable zygote critical window
+
+ * Kernel : Alchemy 4.14.190
+ > Fresh clean kernel based on latest clo tag LA.UM.9.1.r1-12900-SMxxx0.0
+ > Power: supply: import fast charging driver from nabu
+ > Remove useless cepheus drivers to reduce overall size
+ > Fixed games stuck in low fps bug.
+ > Kick LMKD, fixes apps getting kicked out of memory, recents stuck after multitaksking
+ > Fix Clang 16 compile errors compiled using TRB Clang 16
+ > Significantly improve battery life & deep sleep compared to previous build.
+
 VoltageOS 2.0
 Build Date : 13/11/2022
  - Initial Build
-
-Bugs : Parallel Space
