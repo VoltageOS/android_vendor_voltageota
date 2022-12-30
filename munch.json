@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Pranav-Talmale (@raphael_alpha)",
+        "oem": "Xiaomi",
+        "device": "POCO F4",
+        "filename": "voltage-2.1-munch-20221230-0218-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/munch/voltage-2.1-munch-20221230-0218-OFFICIAL.zip/download",
+        "timestamp": 1672366547,
+        "md5": "069982ad8dec3fd02696d38230ad5aa5",
+        "size": 1468094704,
+        "version": "2.1"
+    }
+  ]
+}
