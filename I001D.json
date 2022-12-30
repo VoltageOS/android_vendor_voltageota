@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "StudioKeys",
+        "oem": "Asus",
+        "device": "ROG Phone II",
+        "filename": "voltage-2.1-I001D-20221230-1408-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/I001D/voltage-2.1-I001D-20221230-1408-OFFICIAL.zip/download",
+        "timestamp": 1672409162,
+        "md5": "0f0af0e4357b1022eec845a8fd32f628",
+        "size": 1115447199,
+        "version": "2.1"
+    }
+  ]
+}
