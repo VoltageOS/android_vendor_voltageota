@@ -1,3 +1,19 @@
+VoltageOS 2.1
+Build Date: 31/12/22
+- Cleaned tree
+- Merged latest CAF tags in kernel
+- Added OnePlus Dolby
+- Imported OzoProcessing from MIUI Alioth 13.0.7.0 EU 
+- Fixed some lags in UI
+- Imported Missing Media Codecs
+- Disallow aux cam usage for Zoom
+- Remove package cache on early boot 
+- Disabled VSync for CPU rendered apps 
+- Imported Device Settings
+- Adjusted status bar padding
+- Labeled some wakeup nodes
+- Addressed some denials
+
 VoltageOS 2.0
 Build Date : 20/11/22
 - Fixed extra dim and night light
