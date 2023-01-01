@@ -1,0 +1,16 @@
+VoltageOS 2.1
+Build Date : 01/01/2023
+ - Initial A13 kernel 4.19 build
+ - Camera Improvements
+ - Radio stack from S62pro
+ - Update blobs from LA.UM.10.2.1.r1-03400-sdm660.0 
+ - Fixed performance degrade after Dec patch
+ - power-libperfmgr from android-13.0.0_r3
+ - Switch to AIDL Light HAL
+ - Update media configs from LA.UM.11.2.1.r1-02600-sdm660.0
+ - Notch measures from stock
+ - Offline charging LED indicator
+ - etc. (Check git for more)
+
+ * Kernel : SouthWest 2.11.6
+
