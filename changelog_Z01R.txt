@@ -1,3 +1,3 @@
-VoltageOS 2.0
-Build Date : 13/11/22
- - Initial build
+VoltageOS 2.1
+Build Date : 29/12/22
+ - No Changes
