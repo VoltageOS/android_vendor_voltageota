@@ -1,3 +1,11 @@
+VoltageOS 2.2
+Build Date : 18/01/2023
+ - Update aptX blobs from Pixel 7 Pro
+ - Update Adreno blobs to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+ - Migrate to AIDL ClearKey DRM HAL
+ - Fixed UDFPS on AOD
+ - Update usb init scripts from stock
+
 VoltageOS 2.1
 Build Date : 30/12/2022
  - Initial Build
