@@ -1,3 +1,22 @@
+VoltageOS 2.2
+Build Date : 18/01/2023
+Device Side :
+ - Use kryo485 cpu architecture
+ - Suppress xtra-daemon libcdfw logspam
+ - Fix 5GHz hotspot
+ - Fix AAPT config
+ - Supress some ims logging
+ - Removed useless lmkd props
+ - Disabled Skia tracing by default
+ - Disable Async MTE on System Server
+
+Vendor side :
+ - Kang libcdfw_remote_api blob from davinci
+
+Kernel Side :
+ - Added Exfat/sdfat driver v2.4.5 from Samsung (Fixes usb otg formatted with exfat partitioning to be able to mounted & used)
+ - Fixed an issue where stereo audio was not being played from right side of loudspeaker
+
 VoltageOS 2.1
 Build Date : 30/12/2022
  - Fix apn not getting selected by default
