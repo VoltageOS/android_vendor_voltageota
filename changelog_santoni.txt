@@ -1,3 +1,9 @@
+VoltageOS 2.2
+Build Date : 18/01/2023
+ - Fix bluetooth calling
+ - Disable Skia tracing by default
+ - Disable Async MTE on System Server
+
 VoltageOS 2.1
 Build Date : 30/12/2022
  - Initial build
