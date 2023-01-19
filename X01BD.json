@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Khirendra",
+        "oem": "Asus",
+        "device": "Max pro m2",
+        "filename": "voltage-2.2-X01BD-20230119-1251-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/X01BD/voltage-2.2-X01BD-20230119-1251-OFFICIAL.zip/download",
+        "timestamp": 1674132597,
+        "md5": "23e26602705079f52d441269bb7520fc",
+        "size": 1029508204,
+        "version": "2.2"
+    }
+  ]
+}

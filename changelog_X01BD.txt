@@ -1,0 +1,8 @@
+VoltageOS 2.2
+Build Date : 18/01/2023
+ - Initial Build
+ 
+NOTE:
+ - Decrypted by default
+ - Clean flash recommended 
+ - kernel 4.4.302
