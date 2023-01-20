@@ -1,3 +1,17 @@
+VoltageOS 2.2
+Build Date : 20/01/2023
+ - Disable framework ZSL
+ - Kang QSSI IMS libs from alioth
+ - Address Camera sepolicy denials
+ - Reduce max visible notification icons to 4
+ - Adjust statusbar start and end paddings for 13 
+ - Widevine is L1 now
+ - Extend buffer size to 256kb for offload playback
+ - shims: Respect non-static member function calls
+ - Update some blobs from LA.UM.9.2.1.r1-08700-sdm660.0
+ 
+  * Kernel : SouthWest 2.11.9
+ 
 VoltageOS 2.1
 Build Date : 01/01/2023
  - Initial A13 kernel 4.19 build

@@ -4,12 +4,12 @@
         "maintainer": "Shridhan Varadkar",
         "oem": "xiaomi",
         "device": "lavender",
-        "filename": "voltage-2.1-lavender-20230101-1611-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/lavender/voltage-2.1-lavender-20230101-1611-OFFICIAL.zip/download",
-        "timestamp": 1672589479,
-        "md5": "6d0d11865af684e335a82ec569bf1f22",
-        "size": 1114264511,
-        "version": "2.1"
+        "filename": "voltage-2.2-lavender-20230120-1340-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/lavender/voltage-2.2-lavender-20230120-1340-OFFICIAL.zip/download",
+        "timestamp": 1674221876,
+        "md5": "cd6fda70155fd9862548ee87e1823feb",
+        "size": 1118033770,
+        "version": "2.2"
     }
   ]
 }
