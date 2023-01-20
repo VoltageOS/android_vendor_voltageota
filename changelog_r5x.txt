@@ -1,5 +1,12 @@
+VoltageOS 2.2
+Build Date : 20/01/23
+ - LMKD Optimizations
+ - Addressed Some More Denials
+ - Show QCOM Baseband In About Phone
+
+
 VoltageOS 2.1
-Build Date : 02/03/23
+Build Date : 02/01/23
  - Upstreamed Kernel To 4.14.302
  - Fixed Wi-Fi Display
  - Fixed Offline Charging For All Variants
