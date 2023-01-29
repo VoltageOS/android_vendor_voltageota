@@ -1,3 +1,11 @@
+VoltageOS 2.2
+Build Date : 19/01/23
+- Switched to Azure kernel
+- Update private build description from MiUI V12.5.1.0 QFHCNXM
+- audio: Use QCOM AudioFX implementation for sw effects
+- Updated blobs Redmi Note 10 Pro V13.0.12.0.SKFMIXM
+- Droped a615 GPU firmware 
+
 VoltageOS 2.0
 Build Date : 16/11/22
  - Initial A13 build
