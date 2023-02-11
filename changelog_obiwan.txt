@@ -1,0 +1,4 @@
+VoltageOS 2.3
+- Initial Release Build
+- Uses Source-built graphics stack
+- Uses bottom port as default one
