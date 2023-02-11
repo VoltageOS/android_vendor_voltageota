@@ -1,3 +1,18 @@
+VoltageOS 2.3
+Build Date : 12/02/2023
+ - Address no-sound issue in some apps and games
+ - Address sound popping issue in some games
+ - Switch to MIUI colour profiles
+ - Fix problem where flashing gapps after dirty flash led to play store stopping
+ - Improve HBM
+ - Build kernel with clang 17
+ - Bring back VoWifi menu
+ - Add smartpixels
+ - Add logo for Mi Sound Enhancer
+ - Disable notification light and notification LED related customistaion
+ - Lock AOD to 60 Hz
+ - Other misc. improvements and tuning
+
 VoltageOS 2.2
 Build Date : 18/01/2023
  - Switch to n0kernel
