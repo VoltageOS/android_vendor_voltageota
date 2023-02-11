@@ -1,0 +1,5 @@
+VOS 2.3
+complete rework of kernel
+cleaned up vendor
+fixed some sepolicy issues
+known issues: airplane mode cause reboot
