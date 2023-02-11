@@ -1,3 +1,12 @@
+VoltageOS 2.3
+Build Date : 11/02/23
+ - Add passthrough implementation for a2dp
+ - Add QTI health implementation
+ - Clean useless camera blobs
+ - Setup fingerprint hal for egis properly
+ - Maybe More Which My Lazyness Is Not Allowing To Recall
+
+
 VoltageOS 2.2
 Build Date : 20/01/23
  - LMKD Optimizations
