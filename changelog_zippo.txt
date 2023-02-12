@@ -1,3 +1,11 @@
+VoltageOS 2.3
+Build Date : 12/02/23
+- February Security Patch
+- Switched to TRB Clang 17
+- Kernel upstream to v4.14.305
+- Wifi Drivers upstream to LA.UM.9.1.c11-48400-SMxxx0.QSSI13.0
+- Fixed some bugs and added new bugs
+
 VoltageOS 2.2
 Build Date : 21/01/23
 - January Security Patch

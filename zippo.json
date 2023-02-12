@@ -4,12 +4,12 @@
         "maintainer": "kanstmablason",
         "oem": "Lenovo",
         "device": "Lenovo Z6 Pro",
-        "filename": "voltage-2.2-zippo-20230121-1431-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/zippo/voltage-2.2-zippo-20230121-1431-OFFICIAL.zip/download",
-        "timestamp": 1674314104,
-        "md5": "92d86b149f33794670dd86fe023282ee",
-        "size": 1158877945,
-        "version": "2.2"
+        "filename": "voltage-2.3-zippo-20230211-1215-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/zippo/voltage-2.3-zippo-20230211-1215-OFFICIAL.zip/download",
+        "timestamp": 1676217524,
+        "md5": "32519f15e0b36530276dad1261f8d2aa",
+        "size": 1168503965,
+        "version": "2.3"
     }
   ]
 }
