@@ -1,3 +1,13 @@
+VoltageOS 2.3
+Build Date : 12/02/2023
+ - Enable WPA2 to WPA3 auto-upgrade
+ - Enable wpa3 security feature for hotspot
+ - Tune zram performance
+ - fix deep sleep issue when bluetooth headset is connected
+ - Update Charger Blob from LA.UM.9.2.r1-03500-SDMxx0.0
+ - Built with Zeus Kernel, HMP with UV,stock frequency, debloated a lot of stuff and 
+   cleanedup a lot of unwanted stuffs and many tweaks added with it
+
 VoltageOS 2.2
 Build Date : 22/01/2023
  - Disable kpti
