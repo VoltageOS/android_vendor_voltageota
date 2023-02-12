@@ -1,3 +1,20 @@
+VoltageOS 2.3
+Build Date : 12/02/2023
+Device Side :
+ - Fix Nfc not working
+ - Fix Statusbar burnin protection not shifting icons
+ - Fix Wired headphone buttons not working
+ - Fix Fingerprint AOD on/off animations 
+ - Adjust statusbar paddings
+ - parts: remove un-used thermal leftover icons
+ - Address many sepolicy denails
+
+Kernel Side :
+ - Merge CAF tag LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+ - Compiled using TheRagingBeast TRB clang 17
+ - Backport LLVM Binutils support
+ - Qcacld add time slice duty cycle
+
 VoltageOS 2.2
 Build Date : 18/01/2023
 Device Side :
