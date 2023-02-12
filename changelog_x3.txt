@@ -1,3 +1,13 @@
+VoltageOS 2.3
+Build Date : 12/02/2023
+ - Supports both Rui 2.0 & 3.0 vendors
+ - Fixed Fingerprint enrollment in Rui 3.0 vendor
+ - gralloc: enable universal bandwith compression
+ - Remove obsolete debug.sf.disable_backpressure
+ - Remove package cache on early boot
+ - Disable SF client composition cache
+ - Kernel: Dropped MGLRU,SLMK and switched to ALMK
+
 VoltageOS 2.0
 Build Date : 14/11/22
  - Initial A13 build(Based on c08 vendor)
