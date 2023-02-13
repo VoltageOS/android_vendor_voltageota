@@ -1,3 +1,12 @@
+VoltageOS 2.3
+Build Date: 13/02/23
+- Updated blobs from sweet V13.0.17.0.SKFEUXM
+- Adjusted status bar round corners and status bar padding
+- Removed references to a2dp module 
+- sepolicy: add permission to request health/sensor data
+- Improved scrolling
+- sepolicy: Addressed some denials
+
 VoltageOS 2.2
 Build Date: 19/01/23
 - Switch gEnablePowerSaveOffload to 5 
