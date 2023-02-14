@@ -1,8 +1,16 @@
+VoltageOS 2.3
+Build Bate : 14/02/2023
+ - fix google auto connect
+ - no more changes 
+
 VoltageOS 2.2
 Build Date : 18/01/2023
  - Initial Build
+
+==============
  
 NOTE:
  - Decrypted by default
- - Clean flash recommended 
  - kernel 4.4.302
+
+==============
