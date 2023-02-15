@@ -1,19 +1,6 @@
-VoltageOS 2.1
-Build Date : 02/01/2023
-- Disable wifi background scanning 
-- Revamped CPU nodes for Better active drain After A13
-- A2DP enable AAC-VBR by default 
-- Enable the pre-rendering feature
-- Enable VoLTE and VoWIFI for all carriers 
-- Force triple frame buffers 
-- Disable kpti 
-- Add proper support for 5GHz hotspot 
-- Mark WifiOverlay as coreApp 
-- Enable more DPM features
-- Enable 2.4GHz channel bonding 
-- Mount cgroup 
-- Disable sdm rotator downscaler 
-- enable vsync and disable backpressure 
-- Define multiple vibration intensity levels config for T
-- Miscellanous changes on dalvik heap for 3 gb & 4gb variants devices
-- Enable RealmeGameMode for more gayming performance 
+VoltageOS 2.3
+Build Date : 15/02/2023
+- Disable wifi background scanning (Reverted)
+- Miscellanous changes on dalvik heap for 4 gb & 6gb variants devices
+- Added Meraki Kernel (huge thanks to @mrfox2003)
+- Fixed smoothness (Thanks to rishi)
