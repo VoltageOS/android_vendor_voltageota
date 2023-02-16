@@ -1,6 +1,14 @@
+VoltageOS 2.3
+Build Date : 16/02/2023
+ - Fix bluetooth calling
+ - Disable bluetooth enhanced SCO connection
+ - Fix Wifi dosent work after turning off hotspot
+ - Compiled using TheRagingBeast TRB clang 17
+ - Bump zram max_comp_streams to 8
+ - Update multiple vibration strength levels overlay
+
 VoltageOS 2.2
 Build Date : 18/01/2023
- - Fix bluetooth calling
  - Disable Skia tracing by default
  - Disable Async MTE on System Server
 
