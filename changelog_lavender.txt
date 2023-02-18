@@ -1,3 +1,10 @@
+VoltageOS 2.3
+Build Date : 18/02/2023
+ - thermal-hal: Fix QTI thermal crashing system on boot
+ - Enable GL comp backpressure 
+
+  * Kernel : SouthWest 2.12.3
+  
 VoltageOS 2.2
 Build Date : 20/01/2023
  - Disable framework ZSL
