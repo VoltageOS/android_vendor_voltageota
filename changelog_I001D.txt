@@ -1,3 +1,9 @@
+VoltageOS 2.3
+Build Date : 18/02/2023
+ - Introduce SafailNet to pass SafetyNet on Permissive
+
+Credits to all the testers who helped to release the build whilst having my device at repairs
+
 VoltageOS 2.2
 Build Date : 18/01/2023
  - Update aptX blobs from Pixel 7 Pro
