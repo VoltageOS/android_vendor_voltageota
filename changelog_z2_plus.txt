@@ -1,3 +1,8 @@
+VOS 2.4
+Switch radio to qcrild
+patch qcrild to work with config 1.0
+improved performance
+
 VOS 2.3
 complete rework of kernel
 cleaned up vendor
