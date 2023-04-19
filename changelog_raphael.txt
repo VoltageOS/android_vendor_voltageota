@@ -1,3 +1,23 @@
+VoltageOS 2.4
+Build Date : 19/04/2023
+Device Side :
+ - Update CarrierConfig from star V14.0.6.0.TKACNXM
+ - Enable Wide Color Gamut support
+ - Remove old udfps overlays
+ - Enable debug.sf.auto_latch_unsignaled 
+ - Address many sepolicy denials
+ - Drop old fm board flags
+
+Vendor Side :
+ - Import blobs from MIUI V12.5.2.0
+ - Update rest blobs from  msmnile : LA.UM.9.1.r1-12900-SMxxx0.0 
+ - Update system_ext blobs from qssi : LA.QSSI.13.0.r1-09400.01-qssi.0
+ - Update media_c2 blobs from : Google Coral TP1A.221005.002.B2
+ - Update cleanedup samsung data calibration from MIUI V12.5.6.0 
+
+Kernel Side :
+ - Merge tag LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0
+
 VoltageOS 2.3
 Build Date : 12/02/2023
 Device Side :
