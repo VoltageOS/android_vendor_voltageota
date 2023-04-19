@@ -1,7 +1,12 @@
-VoltageOS 2.2
-Build Date : 18/01/23
- - Added back Double Tap to Wake
+VoltageOS 2.4
+ - Update CNE/DPM/IMS/QMI/RIL stack from CAF
+ - Media configs switched to CAF from Xiaomi
+ * Be Sure to reflash the latest Renice After ROM
 
 VoltageOS 2.3
 Build Date : 11/02/2023
  - Switched to Enforcing
+
+VoltageOS 2.2
+Build Date : 18/01/23
+ - Added back Double Tap to Wake
