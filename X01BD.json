@@ -4,12 +4,12 @@
         "maintainer": "Khirendra",
         "oem": "Asus",
         "device": "Max pro m2",
-        "filename": "voltage-2.3-X01BD-20230214-1047-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/X01BD/voltage-2.3-X01BD-20230214-1047-OFFICIAL.zip/download",
-        "timestamp": 1676286478,
-        "md5": "1d176c8905e9cb75e351802b1df72bc5",
-        "size": 1039786368,
-        "version": "2.3"
+        "filename": "voltage-2.4-X01BD-20230420-0424-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/X01BD/voltage-2.4-X01BD-20230420-0424-OFFICIAL.zip/download",
+        "timestamp": 1681768424,
+        "md5": "8a81146204f6d96b460164c1f2b79c3e",
+        "size": 1004426792,
+        "version": "2.4"
     }
   ]
 }
