@@ -2,3 +2,22 @@ VoltageOS 2.0
 Build Date : 23/11/22
  - Initial build
  - November Security Patch
+
+VoltageOS 2.4
+Build Date : 20/04/23
+ - Clean flash is highly recommended
+ - Added support for OnePlus Dolby Atmos
+ - Update power profile
+ - Updated blobs from MIUI V14.0.2.0.TKOMIXM
+ - Switch to vendor-defined color modes
+ - Drop Dirac and MiSound Scenes
+ - Added refresh rate control to screen options
+
+Notes: 
+ - Vanilla build
+ - Required firmware: Latest Global FW
+ - MIUI camera included by default
+
+Credts:
+ ° ghostrider-reborn para Kernel e a maioria dos commits de correção de bug
+ ° All Lisa Developers
