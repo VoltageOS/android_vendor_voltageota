@@ -19,5 +19,5 @@ Notes:
  - MIUI camera included by default
 
 Credts:
- ° ghostrider-reborn para Kernel e a maioria dos commits de correção de bug
+ ° ghostrider-reborn for Kernel and most bug fix commits
  ° All Lisa Developers
