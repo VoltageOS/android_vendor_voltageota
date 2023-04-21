@@ -1,3 +1,15 @@
+VoltageOS 2.4
+Build Date : 21/04/2023
+ - Based on RUI 3 vendor(RUI 2.0 vendor not supported)
+ - Updated fingerprint hal from oplus 
+ - Updated blobs from RMX2085_11_F.04
+ - Updated surfaceflinger pin for A12
+ - Re-configure CPU variant in favour of kryo485
+ - Enable R8 optimizations for SystemUI & system_server
+ - Force set vendor.display.idle_time to 0
+ - Rebased kernel over LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0 and
+   many tweaks enabled
+
 VoltageOS 2.3
 Build Date : 12/02/2023
  - Supports both Rui 2.0 & 3.0 vendors

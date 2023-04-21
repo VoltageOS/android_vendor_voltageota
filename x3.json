@@ -4,12 +4,12 @@
         "maintainer": "Karthik",
         "oem": "Realme",
         "device": "Realme X3/SuperZoom",
-        "filename": "voltage-2.3-x3-20230212-0603-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/x3/voltage-2.3-x3-20230212-0603-OFFICIAL.zip/download",
-        "timestamp": 1676181782,
-        "md5": "cce9fb66172081df229faee079823e0e",
-        "size": 1011071958,
-        "version": "2.3"
+        "filename": "voltage-2.4-x3-20230421-0643-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/x3/voltage-2.4-x3-20230421-0643-OFFICIAL.zip/download",
+        "timestamp": 1682059201,
+        "md5": "9efa332b03f604e8fa116f55e0e3d225",
+        "size": 868088465,
+        "version": "2.4"
     }
   ]
 }
