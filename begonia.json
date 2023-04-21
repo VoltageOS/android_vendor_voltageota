@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Sai Krishna",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 8 Pro",
+        "filename": "voltage-2.4-begonia-20230421-0514-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/begonia/voltage-2.4-begonia-20230421-0514-OFFICIAL.zip/download",
+        "timestamp": 1682054050,
+        "md5": "1a0cfa581c71511643a57be3638d4418",
+        "size": 1359085530,
+        "version": "2.4"
+    }
+  ]
+}

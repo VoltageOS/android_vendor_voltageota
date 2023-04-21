@@ -1,0 +1,15 @@
+VoltageOS 2.4
+Build Date : 21/04/2023
+ - Initial Official Build
+ - Added LTE+ (enabled by default)
+ - FMRadio Added
+ - Fixed LED Notification Light While in Charging 
+ - Telegram Cam Fixed (most of clients too)
+ - Random Reboots got Fixed
+ - Smoothness Improved
+ - Fixed Bootanimation Lag
+ - Dex-preopt more Telegram Clients
+ 
+ Kernel side changes:
+ - Upstream to 4.14.311
+ - Battery backup improvements  
