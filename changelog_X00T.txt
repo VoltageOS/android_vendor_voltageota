@@ -1,3 +1,13 @@
+VoltageOS 2.4
+Build Date : 21/04/2023
+ - Remove no longer needed aptX blobs and Enable aptX(HD) offload
+ - Disable handling audio direction changes on IMS calls
+ - Enable ro.hwui.render_ahead and set it to 20 frames
+ - Explicitly disable AVB
+ - Remove debugfs
+ - Remove racey printk setups
+ - Enable R8 optimizations for SystemUI & system_server
+
 VoltageOS 2.3
 Build Date : 12/02/2023
  - Enable WPA2 to WPA3 auto-upgrade
