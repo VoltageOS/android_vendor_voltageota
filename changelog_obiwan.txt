@@ -1,3 +1,11 @@
+VoltageOS 2.4
+- Fixed 5G issues for good
+- Fixed UDFPS Flashbang
+- Removed 160hz support
+- Revamp AsusParts UI to Android 12 and later style
+- Fixed Grey out of UDFPS on authentication
+- Uses bottom port as default one on both recovery and system 
+
 VoltageOS 2.3
 - Initial Release Build
 - Uses Source-built graphics stack

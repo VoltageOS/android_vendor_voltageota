@@ -4,12 +4,12 @@
         "maintainer": "StudioKeys",
         "oem": "Asus",
         "device": "ROG Phone 3",
-        "filename": "voltage-2.3-obiwan-20230211-1406-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/obiwan/voltage-2.3-obiwan-20230211-1406-OFFICIAL.zip/download",
-        "timestamp": 1676124358,
-        "md5": "bb1c216bb106d21ccbe5a53add53e3ea",
-        "size": 1283519018,
-        "version": "2.3"
+        "filename": "voltage-2.4-obiwan-20230422-0613-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/obiwan/voltage-2.4-obiwan-20230422-0613-OFFICIAL.zip/download",
+        "timestamp": 1682143973,
+        "md5": "328fe194d03b4f849ca0150bef6b11c1",
+        "size": 1250271959,
+        "version": "2.4"
     }
   ]
 }
