@@ -1,7 +1,12 @@
-VoltageOS 2.1
-Build Date : 29/12/22
+VoltageOS 2.4
+Build Date : 22/04/2023
  - No Changes
 
 VoltageOS 2.3
 Build Date : 12/02/2023
  - Fingerprint Fixed
+ 
+VoltageOS 2.1
+Build Date : 29/12/22
+ - No Changes
+
