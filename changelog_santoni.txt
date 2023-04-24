@@ -1,5 +1,6 @@
 VoltageOS 2.4
-Build Date : 23/04/2023
+Build Date : 24/04/2023
+ - Disable Bluetooth APCF Extended features
  - Removed bluetooth Aptx blobs as of Android 13 QPR2, AOSP Bluetooth APEX supports aptX/aptX HD
 
 VoltageOS 2.3
