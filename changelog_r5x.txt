@@ -1,3 +1,25 @@
+VoltageOS 2.4
+Build Date : 26/04/23
+ - Added RealmeParts
+ - Sync LMKD values from RMX3197 A13
+ - Enable ro.hwui.render_ahead and set it to 20 frames
+ - Force Fast Charge upto 3000mA
+ - Disable Skia tracing by default
+ - Converted all overlays to rro_overlays also dropped deprecated ones
+ - Ship with latest Cgroup and Task_profiles
+ - Move many services to task_profiles ServiceCapacityLow
+ - Update Google Hotword permissions
+ - Add hwui props from stock RUI 2.0
+ - Update Camera props fom stock
+ - Disable useless LMKD stats logging
+ - Switch to new GNSS stack
+ - Disable Wi-Fi RX wakelock feature
+ - Switch to powersave governor on system battery saver and on-charging mode
+ - Disable boost Prefer idle on system battery saver mode
+ - Disabled many useless loggings
+ - Maybe More Which My Lazyness Is Not Allowing To Recall
+
+
 VoltageOS 2.3
 Build Date : 11/02/23
  - Add passthrough implementation for a2dp
