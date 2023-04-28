@@ -1,3 +1,8 @@
+VoltageOS 2.4
+Build Date : 28/04/2023
+ - Built aptX blobs from source
+ - SafailNet to pass SafetyNet
+
 VoltageOS 2.3
 Build Date : 18/02/2023
  - Introduce SafailNet to pass SafetyNet on Permissive

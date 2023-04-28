@@ -4,12 +4,12 @@
         "maintainer": "StudioKeys",
         "oem": "Asus",
         "device": "ROG Phone II",
-        "filename": "voltage-2.3-I001D-20230218-0834-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/I001D/voltage-2.3-I001D-20230218-0834-OFFICIAL.zip/download",
-        "timestamp": 1676709240,
-        "md5": "db954fe1931839c1e7cd000557602e3d",
-        "size": 1118517180,
-        "version": "2.3"
+        "filename": "voltage-2.4-I001D-20230428-1618-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/I001D/voltage-2.4-I001D-20230428-1618-OFFICIAL.zip/download",
+        "timestamp": 1682698620,
+        "md5": "2ef702ccccffe07e6b4ba224c19acb69",
+        "size": 1085207454,
+        "version": "2.4"
     }
   ]
 }
