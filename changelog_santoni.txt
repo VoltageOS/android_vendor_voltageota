@@ -1,3 +1,7 @@
+VoltageOS 2.5
+Build Date : 06/05/2023
+ - Enable ro.hwui.render_ahead prop & set it to 20 frames
+
 VoltageOS 2.4
 Build Date : 24/04/2023
  - Disable Bluetooth APCF Extended features

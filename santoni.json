@@ -4,12 +4,12 @@
         "maintainer": "Pranav Temkar (@PptOo7)",
         "oem": "Xiaomi",
         "device": "Redmi 4x",
-        "filename": "voltage-2.4-santoni-20230424-0430-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/santoni/voltage-2.4-santoni-20230424-0430-OFFICIAL.zip/download",
-        "timestamp": 1682310485,
-        "md5": "cd7171bf6e6a48a15252866c737552ba",
-        "size": 880452380,
-        "version": "2.4"
+        "filename": "voltage-2.5-santoni-20230506-0915-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/santoni/voltage-2.5-santoni-20230506-0915-OFFICIAL.zip/download",
+        "timestamp": 1683364368,
+        "md5": "594e3e145b50d14c06ad4971ea0d3de9",
+        "size": 880746001,
+        "version": "2.5"
     }
   ]
 }
