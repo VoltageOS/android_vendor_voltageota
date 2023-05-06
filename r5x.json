@@ -4,12 +4,12 @@
         "maintainer": "MAdMiZ",
         "oem": "Realme",
         "device": "Realme 5 Series (r5x)",
-        "filename": "voltage-2.4-r5x-20230425-1552-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-2.4-r5x-20230425-1552-OFFICIAL.zip/download",
+        "filename": "voltage-2.5-r5x-20230506-0523-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/r5x/voltage-2.5-r5x-20230506-0523-OFFICIAL.zip/download",
         "timestamp": 20230425-1552,
-        "md5": "0bc6ecc509e53c27aaa5351e1d9c8bb1",
-        "size": 1335827011,
-        "version": "2.4"
+        "md5": "444ad1fb551479f84c2736d26b7ec38b",
+        "size": 1317905834,
+        "version": "2.5"
     }
   ]
 }

@@ -1,3 +1,20 @@
+VoltageOS 2.5
+Build Date : 06/05/2023
+ - Clean up many useless /rootdir services
+ - Force Disabled Some Useless GMS Components
+ - Drop prebuilt AptX Blobs
+ - Fixed Microphone Audio Input Volume
+ - Set CPU Boost duration to 140 ms
+ - Set swappiness to 30
+ - Register All Available CPU Frequencies To Powehint
+ - Reduce Boost Durarion to 1250 ms
+ - Addressed Some Waakelocks
+ - Fixed Camera lags
+ - Remove DumpState Support From Power HAL
+ - Set LTE+ threshold bandwidth to 0
+ - Disable Notification LED settings
+
+
 VoltageOS 2.4
 Build Date : 26/04/23
  - Added RealmeParts
