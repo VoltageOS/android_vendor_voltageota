@@ -1,3 +1,21 @@
+VoltageOS 2.5
+Build Date : 06/05/2023
+Device Side :
+ - Remove DCI-P3 color adjustment and back to previous color configs as users felt colors were washed out
+ - Build source side perf 2.2 hal
+ - Rebase Media C2 stack, remove old configs and import from coral
+
+Vendor Side :
+ - Rebase whole vendor tree from scratch
+ - Miui blobs from : raphael-user 11 RKQ1.200826.002 V12.5.6.0.RFKCNXM release-keys
+ - Ok Google Hotword & DRM blobs from : raphael-user 11 RKQ1.200826.002 V12.5.2.0.RFKMIXM release-keys
+ - Media C2 blobs from : coral-user 13 TP1A.221005.002.B2-9382335 release-keys
+ - Display (Postprocessing), Graphics (Adreno), Graphics (Vulkan), Graphics (SDM), Media blobs from : LA.UM.9.1.r1-12900-SMxxx0.0 msmnile
+ - Qssi Ims blobs from : Redmi/alioth/alioth:12/RKQ1.200826.002/V13.0.3.0.SKHCNXM:user/release-keys
+
+Kernel Side :
+ - Merge CLO tag LA.UM.9.1.r1-13500-SMxxx0.QSSI13.0
+
 VoltageOS 2.4
 Build Date : 19/04/2023
 Device Side :
