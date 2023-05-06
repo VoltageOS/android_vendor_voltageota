@@ -1,7 +1,13 @@
-VoltageOS 2.0
-Build Date : 23/11/22
- - Initial build
- - November Security Patch
+VoltageOS 2.5
+Build Date : 05/05/23
+ - Updated blobs from MIUI V14.0.3.0.TKOMIXM
+ - Some audio improvements
+ - Updated vendor security pet for January 1, 2023
+
+Notes: 
+ - Vanilla build
+ - Required firmware: Latest Global FW
+ - MIUI camera included by default
 
 VoltageOS 2.4
 Build Date : 20/04/23
@@ -21,3 +27,8 @@ Notes:
 Credts:
  ° ghostrider-reborn for Kernel and most bug fix commits
  ° All Lisa Developers
+
+VoltageOS 2.0
+Build Date : 23/11/22
+ - Initial build
+ - November Security Patch

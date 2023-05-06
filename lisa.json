@@ -2,14 +2,14 @@
   "response": [
     {
         "maintainer": "Mezaque Silver (M3zaque)",
-        "oem": "Xiaomi",
-        "device": "Xiaomi 11 Lite 5g NE",
-        "filename": "voltage-2.4-lisa-20230420-1539-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/lisa/voltage-2.4-lisa-20230420-1539-OFFICIAL.zip/download",
-        "timestamp": 1682004949,
-        "md5": "2f35ece9a598929954582aeb40fd2f51",
-        "size": 1434197587,
-        "version": "2.4"
+        "oem": "xiaomi",
+        "device": "Xiaomi 11 Lite 5G NE",
+        "filename": "voltage-2.5-lisa-20230505-1716-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/lisa/voltage-2.5-lisa-20230505-1716-OFFICIAL.zip/download",
+        "timestamp": 1683306911,
+        "md5": "c2da74587aed6c3457be41e7ece9f39f",
+        "size": 1434203234,
+        "version": "2.5"
     }
   ]
 }
