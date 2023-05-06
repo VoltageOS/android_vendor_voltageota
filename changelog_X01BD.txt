@@ -1,3 +1,10 @@
+VoltageOS 2.5
+Build Date : 06/05/2023
+ - Disable handling audio direction changes on IMS calls.
+ - Tune zram performance.
+ - fix deep sleep issue when bluetooth headset is connected.
+ - cleanedup a lot of unwanted stuffs and many tweaks added with it.
+
 VoltageOS 2.4
 Build Date : 20/04/2023
  - no changes
@@ -5,7 +12,6 @@ Build Date : 20/04/2023
 VoltageOS 2.3
 Build Bate : 14/02/2023
  - fix google auto connect
- - no more changes 
 
 VoltageOS 2.2
 Build Date : 18/01/2023
