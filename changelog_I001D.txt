@@ -1,3 +1,9 @@
+VoltageOS 2.5
+Build Date : 06/05/2023
+ - Fixed DRM issues
+ - Switched to AOSP WFD
+ - Fix flash issues on TWRP
+
 VoltageOS 2.4
 Build Date : 28/04/2023
  - Built aptX blobs from source
