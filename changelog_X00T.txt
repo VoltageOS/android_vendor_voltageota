@@ -1,3 +1,12 @@
+VoltageOS 2.5
+Build Date: 06/05/2023
+ - Resolve vmallocinfo denial
+ - Fix hyper orange night light
+ - Remove unneeded NFC packages
+ - Set /proc/sys/vm/swappiness to a lower value of 30
+ - Revert Force enable mobile network settings v2 
+ - Disable wifi firmware debugging
+
 VoltageOS 2.4
 Build Date : 21/04/2023
  - Remove no longer needed aptX blobs and Enable aptX(HD) offload
