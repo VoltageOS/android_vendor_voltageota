@@ -1,3 +1,9 @@
+VoltageOS 2.5
+ - Added friendly pocketmode (https://github.com/maytinhdibo/battery-friendly-pocketmode)
+ - Fixed the CameraAPI issue by banking apps and some camera apps not able to work correctly due to multiple camera IDs
+ - Fixed DTW on AOD
+ * Be Sure to reflash the latest Renice After ROM update
+
 VoltageOS 2.4
  - Update CNE/DPM/IMS/QMI/RIL stack from CAF
  - Media configs switched to CAF from Xiaomi
