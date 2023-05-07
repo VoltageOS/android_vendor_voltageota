@@ -4,12 +4,12 @@
         "maintainer": "Cykeek",
         "oem": "Realme",
         "device": "Realme 3 Pro",
-        "filename": "voltage-2.4-RMX1851-20230424-0306-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1851/voltage-2.4-RMX1851-20230424-0306-OFFICIAL.zip/download",
-        "timestamp": 1682305558,
-        "md5": "33024e9f679b190f7bf30618e07e4890",
-        "size": 1131473890,
-        "version": "2.4"
+        "filename": "voltage-2.5-RMX1851-20230507-1331-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/RMX1851/voltage-2.5-RMX1851-20230507-1331-OFFICIAL.zip/download",
+        "timestamp": 1683466266,
+        "md5": "8423300ca7658d8ebe1e380435b648b0",
+        "size": 1131826598,
+        "version": "2.5"
     }
   ]
 }
