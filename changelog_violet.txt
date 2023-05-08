@@ -1,3 +1,14 @@
+VoltageOS 2.5
+Build Date : 08/05/23
+- Update to LA.UM.9.1.r1-12900-SMxxx0.0
+- Remove prebuilt aptX libraries 
+- Update blobs from Redmi Note 10 Pro V14.0.1.0.TKFMIXM 
+- Move BT profiles props to vendor 
+- Drop component overrides 
+- Move qti_whitelist.xml to /system_ext 
+- Updated vendor blobs from LA.UM.9.1.r1-12900-SMxxx0.0
+- Updated system blobs from  LA.QSSI.13.0.r1-09400.01-qssi.0
+
 VoltageOS 2.3
 Build Date : 18/02/23
 - Added MIUI Camera
