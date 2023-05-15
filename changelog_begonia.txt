@@ -1,3 +1,21 @@
+VoltageOS 2.5
+Build Date : 14/05/2023
+-Synced with latest source
+-Gallery & clock apps added by default
+-Added VIPER4A FX
+-Removed unsupported NFC interfaces
+-Updated NFC hal to 1.2
+-Switched to Revamped FM Radio
+-Fixed HDR Color Issue
+-Fixed rebooting when clicking combined single tile
+-Fixed QS panel lag
+
+Kernel Changelog:
+-Upstreamed kernel to v4.14.314
+-Optimize try_to_wake_up for local wakeups
+-Use kthreads instead of workqueues to allow more control over mali
+-Lower gpu latency
+
 VoltageOS 2.4
 Build Date : 21/04/2023
  - Initial Official Build
