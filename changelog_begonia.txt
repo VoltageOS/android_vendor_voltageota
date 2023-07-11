@@ -1,3 +1,19 @@
+VoltageOS 2.6
+Build Date : 11/07/2023
+-synced with latest source
+-Removed some bloatware
+-Added bessloudness
+-Added missing HDR props
+-Silence few logspam
+-colours in reading mode fixed
+ 
+Kernel Changelog:
+-Upstreamed kernel to v4.14.320
+-Nova kernel as base(Thanks to @Abdul7852)
+-Imporved idle drain 
+-Enabled few internet ports 
+
+
 VoltageOS 2.5
 Build Date : 14/05/2023
 -Synced with latest source
