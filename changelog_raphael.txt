@@ -1,3 +1,22 @@
+VoltageOS 2.6
+Build Date : 11/07/2023
+Device Side :
+ - Fixed Weird colors back to old qdcm calib file.
+ - Build Camera packages from source.
+ - Reduce CamX logspam
+ - Fixed Screen off udfps not working after qpr3 merge.
+ - Remove device side xiaomi parts page of DC dimming & High Brightness Mode.
+ - Build Live Display with auto HBM & Antiflicker.
+ - Add missing vendor symlinks.
+ - Disable backpressure.
+
+Vendor Side :
+ - Update Charger, IMS (QSSI), Perf & Thermal blobs from Poco X3 Pro vayu_global-user 13 TKQ1.221013.002 V14.0.3.0.TJUMIXM release-keys
+ - Add missing blobs from raphael-user 11 RKQ1.200826.002 V12.5.6.0.RFKCNXM release-keys
+
+Kernel Side :
+ - Merge CAF/CLO tag LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0  
+
 VoltageOS 2.5
 Build Date : 06/05/2023
 Device Side :
