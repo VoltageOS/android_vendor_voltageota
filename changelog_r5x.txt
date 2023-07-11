@@ -1,3 +1,47 @@
+VoltageOS 2.6
+Build Date : 11/07/2023
+
+ - powerhint: Enable F2FS background GC
+ - rootdir: Use s2idle instead of deep
+ - Enable Kprofiles and Auto_Kprofiles
+ - fingerprint: Drop LOG_VERBOSE
+ - fingerprint: Use pragma once
+ - lights: CHECK -> CHECK_EQ copy pasta
+ - Switch to AIDL HAL for android.hardware.memtrack
+ - Build missing C2 media codecs
+ - rootdir: Remove unnecessary configurations
+ - Import msm_irqbalance from LA.UM.9.12.r1-15200.02-SMxx50.0
+ - displayconfig: Add brightness ramp rate
+ - audio: Remove hw_acc effect
+ - props: Disable Async MTE on System Server
+ - media: Add attribute name for SW encoder
+ - audio:Remove dynamic attributes from APS config
+ - audio: Set valid output channel mask for earpiece
+ - media: Tune perf xml based on measured FPS
+ - props: Nuke LMKD flags (Switch to in-kernel SLMK)
+ - rootdir: Do not balance msm_drm and kgsl_3d0 IRQs
+ - Uprev Sound trigger HAL to v2.3
+ - Move BT props to /vendor
+ - gps: Implement xtra-daemon control via property
+ - rootdir: Increase ZRAM size to 60% of RAM size
+ - rootdir: Remove on charger state CPUs
+ - audio: Import Viper4Android and remove Dolby
+ - rootdir: Remove max ZRAM compression streams setting
+ - overlay: Enable performant auth feature
+ - gps: Implement xtra-daemon control via property
+ - rootdir: Increase ZRAM size to 60% of RAM size
+ - rootdir: Remove on charger state CPUs
+ - audio: Import Viper4Android
+ - rootdir: Remove max ZRAM compression streams setting
+ - init: Better use the device model
+ - treewide: Cleanup iorap props and sepolicy
+ - configs/powerhint: List more latest unlocked CPU frequencies
+ - configs/powerhint: Set 500ms timeout for interaction boosts
+ - configs/powerhint: Drop interaction boost for big cores
+ - rro_overlay: Disable AOD
+ - props: Disable debug.enable_hwc_vds
+
+
 VoltageOS 2.5
 Build Date : 06/05/2023
  - Clean up many useless /rootdir services
