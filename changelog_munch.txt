@@ -1,3 +1,15 @@
+VoltageOS 2.6
+Build Date : 07/11/2023
+ - Address low mic sound issue
+ - Address QS lags on expanded QS
+ - Add DC dimming (Settings -> Display -> DC Dimming)
+ - Tuneup powerhint
+ - Switch back to AOSP color modes
+ - Add kprofiles (Settings -> Battery -> KProfiles)
+ - Update to MIUI 14 Blobs
+ - Nexus Kernel built with TRB Clang 16
+ - Other misc. improvements and tuning
+
 VoltageOS 2.3
 Build Date : 12/02/2023
  - Address no-sound issue in some apps and games
