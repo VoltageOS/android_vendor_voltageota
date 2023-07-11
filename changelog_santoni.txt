@@ -1,3 +1,8 @@
+VoltageOS 2.6
+Build Date : 11/07/2023
+ - Enable performant auth feature.
+ - Fix fingerprint unlock after qpr3 merge.
+
 VoltageOS 2.5
 Build Date : 06/05/2023
  - Enable ro.hwui.render_ahead prop & set it to 20 frames
