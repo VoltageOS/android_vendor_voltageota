@@ -1,3 +1,8 @@
+VOS 2.6
+silence some logging
+upstreamed kernel to .337
+added experimental undervolt
+
 VOS 2.4
 Switch radio to qcrild
 patch qcrild to work with config 1.0
