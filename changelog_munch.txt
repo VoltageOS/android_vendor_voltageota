@@ -1,3 +1,7 @@
+VoltageOS 2.6 HOTFIX
+Build Date : 08/11/2023
+ - Address QS lags on expanded QS
+
 VoltageOS 2.6
 Build Date : 07/11/2023
  - Address low mic sound issue
