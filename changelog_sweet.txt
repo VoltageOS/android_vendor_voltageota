@@ -1,3 +1,36 @@
+VoltageOS 2.6
+Build Date: 12/07/23
+- Labeled wakeup node
+- Updated blobs from sweet V14.0.3.0.TKFEUXM
+- Disabled continuous transaction tracing on all build types
+- Moved BT profiles props to vendor 
+- Labeled certain Xiaomi specific property labels
+- Allowed rild to read default_prop 
+- fixed some wifi denials
+- Removed duplicate mixer paths 
+- Disabled Skia tracing by default 
+- Fixed IMS symlink as per dynamic partitions
+- Kanged libspl.so from LA.UM.9.1.r1-12900-SMxxx0.0
+- Disabled SurfaceFlinger EGL image tracking 
+- Imported missing audio & sensor libraries
+- Allowed recovery to access /sys/fs/pstore/*
+- Fixed white corners on lockscreen
+- Removed vbmeta_system from fstab 
+- Updated hotword blobs from V14.0.2.0.TKFMIXM 
+- Imported sound trigger from sunfish 
+- Allowed SF to read firmware 
+- Removed non-existent modules 
+- Set 120Hz frame rate multiple threshold
+- Imported XiaomiParts from lisa device tree
+- Enabled refresh rate controls (Under Display section)
+- Enabled content detection for refresh rate switching 
+- Relax timers for automatic refresh rate switching
+- Updated Audio HIDL to 7.1 
+- Fixed some log spams
+- Upstreamed kernel to 4.14.320
+- Updated vibration patterns 
+- Added missing DRM dependencies 
+
 VoltageOS 2.5
 Build Date: 06/05/23
 - Fixed HDR on Netflix
