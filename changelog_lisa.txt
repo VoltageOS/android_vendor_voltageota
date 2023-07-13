@@ -1,3 +1,15 @@
+VoltageOS 2.6
+Build Date : 13/07/23
+ - Update IMS blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
+ - Performance improvements
+ - Droped support for OnePlus Dolby Atmos
+ - Back Dirac and MiSound Scenes
+
+Notes: 
+ - Vanilla build
+ - Required firmware: Latest Global FW for for bluetooth to work properly
+ - MIUI camera included by default
+
 VoltageOS 2.5
 Build Date : 05/05/23
  - Updated blobs from MIUI V14.0.3.0.TKOMIXM
