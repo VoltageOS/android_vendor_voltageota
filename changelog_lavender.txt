@@ -1,3 +1,17 @@
+VoltageOS 2.6
+Build Date : 15/07/2023
+ 
+- Multiple blobs Updated from SLD_sprout
+- Switch to lavender ADSP, CDSP and audio firmware instead of jasmine 
+- Updated Radio stack, Bluetooth, GPS related blobs and configs from SLD_sprout
+- Update GPS half from LA.UM.9.2.r1-03700-SDMxx0.0
+- CarrierConfig overlay from SLD_sprout
+- Sensor.ssc from PL2
+- Thermal from lavender V11.0.5.0
+- Include dtbo.img
+
+ * Kernel : NekoKernel-Lite 4.4.302
+
 VoltageOS 2.3
 Build Date : 18/02/2023
  - thermal-hal: Fix QTI thermal crashing system on boot
