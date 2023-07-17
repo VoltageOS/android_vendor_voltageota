@@ -1,5 +1,5 @@
 #!/bin/bash
-#put script in VoltageOS source folder, make executable (chmod +x createupdate.sh) and run it (./createupdate.sh)
+#put script in VoltageOS source folder, make executable (chmod +x createjson.sh) and run it (./createjson.sh)
 
 #modify values below
 #leave blank if not used
@@ -18,7 +18,7 @@ if [ -f $script_path/$device.json ]; then
   rm $script_path/$device.json
 fi
 
-linenr=`grep -n "ro.system.build.date.utc" $buildprop | cut -d':' -f1`
+linenr=`grep -n "ro.build.date.utc" $buildprop | cut -d':' -f1`
 timestamp=`sed -n $linenr'p' < $buildprop | cut -d'=' -f2`
 zip_only=`basename "$zip_name"`
 md5=`md5sum "$zip_name" | cut -d' ' -f1`
