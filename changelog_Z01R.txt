@@ -1,3 +1,7 @@
+VoltageOS 2.6
+Build Date : 14/07/2023
+ - No Changes
+ 
 VoltageOS 2.5
 Build Date : 12/05/2023
  - No Changes
