@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "StudioKeys",
+        "oem": "Xiaomi",
+        "device": "Xiaomi Mi 11x/Poco F3/Redmi K40",
+        "filename": "voltage-2.6-alioth-20230803-0826-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/alioth/voltage-2.6-alioth-20230803-0826-OFFICIAL.zip/download",
+        "timestamp": 1691051162,
+        "md5": "536cbfd2ff1f1531ab0304eb2c9a2335",
+        "size": 1469207484,
+        "version": "2.6"
+    }
+  ]
+}

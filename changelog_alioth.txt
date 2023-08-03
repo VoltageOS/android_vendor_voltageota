@@ -1,3 +1,5 @@
-VoltageOS 2.1
-Build Date : 31/12/2022
-- Initial a13  Build
+VoltageOS 2.6
+Build Date : 03/08/2023
+- Initial Build
+- Includes Dolby and MiCams
+- N0 Kernel by default
