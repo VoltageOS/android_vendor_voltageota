@@ -4,12 +4,12 @@
         "maintainer": "Karthik",
         "oem": "Asus",
         "device": "Asus Zenfone Max Pro M1",
-        "filename": "voltage-2.5-X00T-20230506-0253-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/X00T/voltage-2.5-X00T-20230506-0253-OFFICIAL.zip/download",
-        "timestamp": 1683341441,
-        "md5": "e1cda4592316f517171a5c0e9b0a3bce",
-        "size": 977200066,
-        "version": "2.5"
+        "filename": "voltage-2.7-X00T-20230811-1022-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/X00T/voltage-2.7-X00T-20230811-1022-OFFICIAL.zip/download",
+        "timestamp": 1691749285,
+        "md5": "ded88ff84e5d9ea0f056eae942ee81ac",
+        "size": 1003091270,
+        "version": "2.7"
     }
   ]
 }

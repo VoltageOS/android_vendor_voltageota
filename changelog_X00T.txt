@@ -1,3 +1,7 @@
+VoltageOS 2.7
+Build Date: 11/08/2023
+ - Synced with Aug Patch
+
 VoltageOS 2.5
 Build Date: 06/05/2023
  - Resolve vmallocinfo denial
