@@ -1,3 +1,17 @@
+VoltageOS 2.7
+Build Date : 12/08/2023
+-Added FW & TWRP
+-Added Flash Cam(aperture)
+-TG Cam fixed for all clients
+-Disabled mtk_pq
+-Added more dex optimization flags
+-Updated Fingerprint to MIUI V12.5.8.0
+-Add missing volte and wifi calling props
+-add nodes to hide Magisk in banking apps
+-Enable zram writeback job scheduler
+-Silence few IMS Logs
+
+
 VoltageOS 2.6
 Build Date : 11/07/2023
 -synced with latest source
