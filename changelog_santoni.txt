@@ -1,3 +1,7 @@
+VoltageOS 2.7
+Build Date : 12/08/2023
+ - Build GrapheneOS Camera app instead of Flash ( Aperture ) as videos are dark.
+
 VoltageOS 2.6
 Build Date : 11/07/2023
  - Enable performant auth feature.
