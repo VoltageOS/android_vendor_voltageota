@@ -1,3 +1,6 @@
+VoltageOS 2.7
+- No device side changes.
+
 VoltageOS 2.6
 - Friendly pocketmode is removed as it was having a negative effect
 * Be Sure to reflash the latest Renice After ROM update
