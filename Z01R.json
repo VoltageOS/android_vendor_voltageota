@@ -4,12 +4,12 @@
         "maintainer": "adeveloper79",
         "oem": "ASUS",
         "device": "Z01R",
-        "filename": "voltage-2.6-Z01R-20230714-0713-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/Z01R/voltage-2.6-Z01R-20230714-0713-OFFICIAL.zip/download",
-        "timestamp": 1689318707,
-        "md5": "d711280f42f5798dba61350efc737df1",
-        "size": 955943286,
-        "version": "2.6"
+        "filename": "voltage-2.7-Z01R-20230813-0600-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/Z01R/voltage-2.7-Z01R-20230813-0600-OFFICIAL.zip/download",
+        "timestamp": 1691906246,
+        "md5": "5c3a137a77daba87707a32e817423eb5",
+        "size": 958297839,
+        "version": "2.7"
     }
   ]
 }
