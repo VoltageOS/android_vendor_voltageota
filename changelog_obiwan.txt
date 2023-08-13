@@ -1,3 +1,6 @@
+VoltageOS 2.7 
+- Switched to Flash (Aperture) cams with all lenses by default
+
 VoltageOS 2.6
 - Fixed Calls on SIM2 not being routed to speaker
 - Set default Refresh Rate to 120hz and 60 hz on Keyguard
