@@ -1,3 +1,25 @@
+VoltageOS 2.7
+Build Date : 14/08/2023
+
+ - Upstreamed and improved kernel
+ - Add support for RMX1919
+ - Update Most Blobs from LA.UM.9.11.r1-04500-NICOBAR.0
+ - Update Adreno drivers from LAHAINA 21000 
+ - Use component-override to configure sunfish Bluetooth
+ - Import SVIConfig From RMX1911EX_11.C.83_1830_202211301527
+ - sepolicy: Allow zygote to access unix_stream_socke
+ - sepolicy: Allow mediaserver to read vendor media prop
+ - manifest: add Graphics allocator entry in vintf
+ - rro_overlay: Allow media UID process to access CameraServiceProxy
+ - rro_overlay: Remove bluetooth values from power_profile.xml
+ - rro_overlay: Enable auto-power-save modes
+ - rro_overlay: Add cpuTempDivider value
+ - rro_overlay: Set config_battCurrentDivider
+ - rro_overlay: Configure Flash camera overlays
+ - rro_overlay: Disable proximity check before pulsing
+ - Many more improvements under the hood
+
+
 VoltageOS 2.6
 Build Date : 11/07/2023
 
