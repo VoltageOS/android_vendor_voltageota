@@ -1,3 +1,29 @@
+VoltageOS 2.7
+Build Date : 14/08/2023
+ - Fixed status bar glitches 
+ - Enabled Refresh Rate QS tile
+ - Switched BtAudio to HIDL
+ - Disabled zram writeback 
+ - Set the maximum WFD resolution to 720p@30
+ - Moved cameraAuxPackageAllowList to system.prop 
+ - Updated blobs from V14.0.5.0.TKFEUXM
+ - gps: tuned down debug log to error only 
+ - Added back per app maximum refresh rate 
+ - Kanged sf props from pixel(raven)
+ - Update GPS blobs and configs from hanoip S2RIS32.32-20-7-7
+ - Addressed citsensorservice denials
+ - Added missing nfc entries in manifest
+ - Updated system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0 (IMS,RIL,DPM)
+ - Updated CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0 
+ - Updated OzoProcessing from MIUI V14.0.5.0.TKFEUXM 
+ - Disabled wifi firmware debugging
+ - Merged latest CAF tags in kernel
+ - Upstreamed kernel to 4.14.322
+ - Fixed some log spams
+ - Added back Leica camera and fixed banking app issues caused by it
+ - Used QCOM implementation for audio effects 
+ - Added missing seccomp policies 
+
 VoltageOS 2.6
 Build Date: 12/07/23
 - Labeled wakeup node
