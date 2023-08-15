@@ -1,3 +1,11 @@
+VoltageOS 2.7
+Build Date : 14/08/23
+ - Clean flash is highly recommended
+ - Required firmware: Latest Global FW V14.0.4.0.TKOMIXM
+ - Updated stock blobs V14.0.4.0.TKOMIXM
+ - Droped OnePlus Dolby Atmos
+ - Miui camera not included
+
 VoltageOS 2.6
 Build Date : 13/07/23
  - Update IMS blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
