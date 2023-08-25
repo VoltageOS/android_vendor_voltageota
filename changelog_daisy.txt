@@ -3,6 +3,29 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== VoltageOS-v2.7 - 25 Aug 2023 =====
+- K4.9 Panda 24082023
+- 17860ca1 - daisy: Fix operation not supported on transport endpoint (steadfasterX)
+- d1aea381 - daisy: prop: Disable fdsan by default. (Pierre-Hugues Husson)
+- 48d871b2 - daisy: Nuke hispeed garbage (TogoFire)
+- a0d3062b - daisy: sha1sum dirac_resource from los-19.1 (TogoFire)
+- cc318089 - daisy: sha1sum libdirac_capiv2ext from clover (Amitava Mitra)
+- d0686f6d - daisy: sepolicy: Allow system_server to get app_zygote pgid (Chenyang Zhong)
+- a0ff8bdf - daisy: ueventd: Add missing permissions for fpc sysfs node (Nanhumly)
+- bacde93d - daisy: SEPolicy: Silence a WCNSS denial (Adarsh-MR)
+- f2d53741 - daisy: sepolicy: Label wifi hal property (GhostMaster69-dev)
+- e3dced2c - daisy: Import audio_io_policy.conf from CLO (Michael Bestas)
+- 4bb0a079 - Revert "daisy: dont build QTI power hal" (TogoFire)
+- 8ac8aed8 - daisy: overlay: Config Flash camera (TogoFire)
+- 119cbd9b - daisy: overlay: Configure Aperture camera (LuK1337)
+- f1735cab - daisy: prop: Set ro.hwui.render_ahead to 20 (Niranjan BR)
+- 9eb0e246 - daisy: init: Use marlin Q fingerprint (DeviousFusion)
+- 25fb3f84 - daisy: overlay: Power profile audio & video support (Mike Ma)
+- bc7a82ec - daisy: wifi: Drop persistent_reconnect (haran)
+- 0527381 - msm8953-common: Add missing dirac_resource from los-19.1 (TogoFire)
+- c827ed3 - msm8953-common: Add missing libdirac_capiv2ext from clover (Amitava Mitra)
+
+
 ===== VoltageOS-v2.6 - 14 Jul 2023 =====
 - K4.9 Panda 14072023
 - d3f0e1790 - daisy: voltage-ify official (TogoFire)

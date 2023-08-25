@@ -4,12 +4,12 @@
         "maintainer": "TogoFire",
         "oem": "Xiaomi",
         "device": "Mi A2 Lite",
-        "filename": "voltage-2.6-daisy-20230714-1715-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/daisy/voltage-2.6-daisy-20230714-1715-OFFICIAL.zip/download",
-        "timestamp": 1689344183,
-        "md5": "04f7b3bf6318b205ae6175acb90ec550",
-        "size": 801474223,
-        "version": "2.6"
+        "filename": "voltage-2.7-daisy-20230824-2254-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/daisy/voltage-2.7-daisy-20230824-2254-OFFICIAL.zip/download",
+        "timestamp": 1692917601,
+        "md5": "bf56c095ba31bfd2fc50638d0f2f792a",
+        "size": 803430996,
+        "version": "2.7"
     }
   ]
 }
