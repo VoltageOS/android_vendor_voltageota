@@ -1,3 +1,17 @@
+VoltageOS 2.8-EOL
+Build Date : 19/09/2023
+-FW & TWRP Included
+-Added charging control(Lineage health)
+-Added PowerOffAlarm 
+-Added ANX Camera 
+-Fixed FM Playback issue
+-Fixed Instagram low quality video bug
+-Enabled apk fs-verity
+-Disabled zram writeback job scheduler
+-Status bar Padding fixed
+-Charging info in lockscreen fixed
+-Vibration Strength decreased
+
 VoltageOS 2.7
 Build Date : 12/08/2023
 -Added FW & TWRP
