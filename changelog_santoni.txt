@@ -1,3 +1,7 @@
+VoltageOS 2.8-EOL
+Build Date : 19/09/2023
+ - Build LineageOS Health Hal (LineagOS implementation of smart charging).
+
 VoltageOS 2.7
 Build Date : 12/08/2023
  - Build GrapheneOS Camera app instead of Flash ( Aperture ) as videos are dark.
