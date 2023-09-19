@@ -1,3 +1,14 @@
+VOS 2.8
+upstreamed kernel
+added stune boost
+added some other boosts
+fixed airplane reboot
+fixed other random reboots
+improved system stability and smoothness
+possibly fixed telephony issue for some users
+fixed encryption
+other misc fixes
+
 VOS 2.6
 silence some logging
 upstreamed kernel to .337
