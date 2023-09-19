@@ -1,0 +1,4 @@
+VoltageOS 2.8-EOL
+Build Date: 19/09/2023
+
+- Initial official release
