@@ -1,3 +1,13 @@
+VoltageOS 2.8-EOL
+Build Date : 19/09/2023
+ - Enable Qualcomm TrueWireless Stereo
+ - Add support for low power adaptive control feature
+ - Use FUSE passthrough by default
+ - Update Dolby Configs from MIUI
+ - Introduce Lineage Health HAL for Charging Controls
+ - Fixed some sepolicy denials
+ - Misc changes and fixes
+
 VoltageOS 2.7
 Build Date : 14/08/2023
  - Fixed status bar glitches 
