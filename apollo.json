@@ -4,12 +4,12 @@
         "maintainer": "adeveloper79",
         "oem": "Xiaomi",
         "device": "apollo",
-        "filename": "voltage-2.7-apollo-20230813-0513-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/apollo/voltage-2.7-apollo-20230813-0513-OFFICIAL.zip/download",
-        "timestamp": 1691903406,
-        "md5": "498fd190c7295e1129f1cdcfe99bb30b",
-        "size": 1406326898,
-        "version": "2.7"
+        "filename": "voltage-2.8-EOL-apollo-20230920-0406-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/apollo/voltage-2.8-EOL-apollo-20230920-0406-OFFICIAL.zip/download",
+        "timestamp": 1695182794,
+        "md5": "37ffd6d6140c9793645df17e0bf2b868",
+        "size": 1413102896,
+        "version": "2.8"
     }
   ]
 }
