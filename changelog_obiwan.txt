@@ -1,3 +1,6 @@
+VoltageOS 2.8-EOL
+- Update blobs and fix misc issues
+
 VoltageOS 2.7 
 - Switched to Flash (Aperture) cams with all lenses by default
 
