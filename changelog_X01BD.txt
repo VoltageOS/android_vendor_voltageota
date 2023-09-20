@@ -1,3 +1,7 @@
+VoltageOS 2.8
+Build Date : 20/09/2023
+ - some minor bug fixes
+
 VoltageOS 2.7
 Build Date : 13/08/2023
  - fix rounded corners
