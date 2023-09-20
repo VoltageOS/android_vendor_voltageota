@@ -10,7 +10,18 @@ Build Date : 19/09/2023
 -Disabled zram writeback job scheduler
 -Status bar Padding fixed
 -Charging info in lockscreen fixed
--Vibration Strength decreased
+-Haptic Strength decreased
+-Set swappiness to 60
+-Enabled VoLTE for Nepal Telecom
+
+Kernel Changelog:
+-Upstreamed kernel to v4.14.325
+-Nova kernel as base(Thanks to @Abdul7852)
+-fixed wifi disconnections
+-slmk: dynamically set min_free and timeout values
+-abort suspend if wakeup present
+-fix cpufreq memory leaks
+
 
 VoltageOS 2.7
 Build Date : 12/08/2023
