@@ -1,3 +1,10 @@
+VoltageOS 2.8-EOL
+Build Date : 19/09/23
+ - Required firmware: Latest Global FW V14.0.6.0.TKOMIXM
+ - Updated stock blobs V14.0.6.0.TKOMIXM
+ - Miui camera included
+ - Small audio improvements
+
 VoltageOS 2.7
 Build Date : 14/08/23
  - Clean flash is highly recommended
