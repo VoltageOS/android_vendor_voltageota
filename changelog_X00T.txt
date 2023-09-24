@@ -1,3 +1,8 @@
+VoltageOS 2.8-EOL
+Build Date: 23/09/2023
+ - Fix adb turns on after reboot every time.
+ - Build Lineage Health HAL
+
 VoltageOS 2.7
 Build Date: 11/08/2023
  - Synced with Aug Patch
