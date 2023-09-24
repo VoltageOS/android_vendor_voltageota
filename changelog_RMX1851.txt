@@ -1,17 +1,14 @@
-VoltageOS 2.5
-Build Date : 13/07/2023
-- Cleanup device source 
-- Disable backpressure prop ( causes lags )
-- Fix 24bit audio playback 
-- Always report max cpu freq to some games
-- Enable performant auth feature 
-- Miscellaneous changes in Media codecs
-- Miscellaneous changes in sepolicies
-- Slightly boosted GPU for smooth QS panel
-- Enable AOSP surfaceflinger
-- Set Window animation/transition scale to 100% 
-- Enable BT low power adaptive control feature 
-- Increase ZRAM size to 60% of Ram size 
-- Drop libhidl & build vendor variant 
-- Import more codeaurora Qti permissions
-- Import GPS blobs from RMX1851_11_F.06
+VoltageOS 2.8-EOL
+Build Date : 24/09/2023
+- Miscellaneous changes in msmirqbalance
+- Updated ADSP blobs from C.18
+- Allow system process to read and write to power node
+- Updated Bluetooth and thermal blobs to C.18
+- Add missing seccomp policies
+- Resolve sepolicies spams
+- Add Codec2 HAL services
+- cleanup overlays
+- Lowered down Wi-Fi Debugging
+- Added smoothness hacks from Pixel
+- Added Oneplus Dolby from Oneplus 9RT
+- Miscellaneous changes in voice call recording ACDB IDs
