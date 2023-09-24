@@ -1,2 +1,5 @@
+VoltageOS 2.8-HOTFIX
+ - Camera Output fix
+ 
 VoltageOS 2.8
  - Initial Build
