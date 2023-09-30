@@ -3,6 +3,18 @@ Build type: Monthly
 Device: Mi A2 Lite (daisy)
 Device maintainer: @TogoFire
 
+===== VoltageOS-v2.8-EOL - 30 Sept 2023 =====
+- K4.9 Panda (r56) 22092023 
+- KProfiles 6.0.0
+- ViPER4Android FX Redesign v5.2
+- c1445db07 - daisy: Disable the Significant Motion Detector (dianlujitao)
+- 908a84c8b - daisy: overlay: Remove config_enableAutoPowerModes (CyberWalkMaN)
+- cdd5a4d6e - daisy: set default dialer package name (mukesh22584)
+- dbd07605b - daisy: rootdir: Setup all the sub-system as related (Georg Veichtlbauer)
+- 6a198e367 - daisy: Build Lineage Health HAL (Michael Bestas)
+- 4f9611062 - daisy: sepolicy: Kprofiles: Up to kp-6.0.0 (Dakkshesh)
+- d9a38c6d4 - daisy: Set vendor.post_boot.parsed=1 (Michael Bestas)
+
 ===== VoltageOS-v2.7 - 25 Aug 2023 =====
 - K4.9 Panda 24082023
 - 17860ca1 - daisy: Fix operation not supported on transport endpoint (steadfasterX)
