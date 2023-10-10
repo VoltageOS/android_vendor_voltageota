@@ -4,12 +4,12 @@
         "maintainer": "Pranav Talmale (@raphael_alpha)",
         "oem": "Xiaomi",
         "device": "POCO F4",
-        "filename": "voltage-2.6-munch-20230712-1016-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/munch/voltage-2.6-munch-20230712-1016-OFFICIAL.zip/download",
-        "timestamp": 1689156867,
-        "md5": "9ca5ac6c230e58979793f7eae8f441e5",
-        "size": 1488449573,
-        "version": "2.6"
+        "filename": "voltage-2.8-EOL-munch-20230919-1001-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/munch/voltage-2.8-EOL-munch-20230919-1001-OFFICIAL.zip/download",
+        "timestamp": 1695117614,
+        "md5": "b6cedfca20124399a38d407c63bc2b3c",
+        "size": 1494176619,
+        "version": "2.8"
     }
   ]
 }
