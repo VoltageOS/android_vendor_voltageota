@@ -4,12 +4,12 @@
         "maintainer": "Pranav Temkar",
         "oem": "Xiaomi",
         "device": "Redmi K20 Pro",
-        "filename": "voltage-2.8-EOL-raphael-20230919-0341-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/raphael/voltage-2.8-EOL-raphael-20230919-0341-OFFICIAL.zip/download",
-        "timestamp": 1695094773,
-        "md5": "f75ff2efd50727ee517f46b4d1f140f8",
-        "size": 1423207032,
-        "version": "2.8"
+        "filename": "voltage-3.0-raphael-20231208-1419-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/raphael/voltage-3.0-raphael-20231208-1419-OFFICIAL.zip/download",
+        "timestamp": 1702044912,
+        "md5": "f793e86668dc7ee5cb389b4c43edbd98",
+        "size": 1460926804,
+        "version": "3.0"
     }
   ]
 }
