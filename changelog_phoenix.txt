@@ -1,0 +1,15 @@
+VoltageOS 3.0
+Build Date: 20/12/2023
+Device side :
+ - Initial Build
+ - Permissive and Decrypt
+
+Vendor side :
+ - Blobs from 13700 CAF Tag
+ - Update some blobs from Sweet
+
+Kernel side :
+ - Rebased to LA.UM.9.1.r1-14900-SMxxx0.QSSI14.0
+ - Just Drivers build
+ - Compiled using The Raging Beast TRB Clang 18
+ - TRB Optimizations
