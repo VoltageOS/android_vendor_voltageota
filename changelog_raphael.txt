@@ -1,3 +1,17 @@
+VoltageOS 3.1
+Build Date: 13/01/2024
+Device side :
+ - Xiaomi parts: Ambient display: Pickup fixed.
+ - Disable display refresh rate override (Fix some apps scroll in 30 fps if video is played).
+ - Silence some Nfc logspam.
+ - Fixed a bug where udfps wont work when night light was enabled.
+
+Vendor side :
+ - Added some missing blobs from raphael-user 11 RKQ1.200826.002 V12.5.2.0.RFKMIXM release-keys.
+
+Kernel side :
+ -  Merged CAF/CLO tag LA.UM.9.1.r1-15500-SMxxx0.QSSI14.0
+
 VoltageOS 3.0
 Build Date: 08/12/2023
 Device side :
