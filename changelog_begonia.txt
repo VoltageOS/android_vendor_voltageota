@@ -1,3 +1,16 @@
+VoltageOS 3.1
+Build Date: 14/01/2024
+- Shifted to Hardware Encryption(Beanpod)
+- Sensors Log Spam suppressed
+- Fixed 30FPS stuck in some apps like YT,chrome 
+- Enable usage of dex2oat64
+- Suppressed some Sepolicy Denails
+
+Kernel Changelog:
+- Upstreamed kernel to v4.14.336
+- Enabled CONFIG_USB_CONFIGFS_F_UVC (Device as Web cam)
+- Some misc improvements
+
 VoltageOS 3.0 
 Build Date: 10/12/2023 
 - Initial A14 Build
