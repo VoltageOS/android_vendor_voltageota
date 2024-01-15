@@ -4,12 +4,12 @@
         "maintainer": "Tejas Patil & Joshi",
         "oem": "Xiaomi",
         "device": "Poco X2",
-        "filename": "voltage-3.0-phoenix-20231220-0604-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/phoenix/voltage-3.0-phoenix-20231220-0604-OFFICIAL.zip/download",
-        "timestamp": 1703052263,
-        "md5": "271da7334ffe9bae0f80bdcaebde331b",
-        "size": 1405782653,
-        "version": "3.0"
+        "filename": "voltage-3.1-phoenix-20240115-0518-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/phoenix/voltage-3.1-phoenix-20240115-0518-OFFICIAL.zip/download",
+        "timestamp": 1705295484,
+        "md5": "e97c2ca61eb244f6c434d5ec65b75369",
+        "size": 1421188856,
+        "version": "3.1"
     }
   ]
 }

@@ -1,3 +1,18 @@
+VoltageOS 3.1
+Build Date: 15/01/2024
+Device side :
+ - Cleanup Build Flags
+ - Will stay permissive and decrypt now and future releases as well.
+
+Vendor side :
+ - 
+
+Kernel side :
+ -  Rebased to CAF/CLO tag LA.UM.9.1.r1-15500-SMxxx0.QSSI14.0
+ -  Disable more logspam and debugs
+ -  Charging stability instead of pumping
+ -  DTB fixes and more...
+
 VoltageOS 3.0
 Build Date: 20/12/2023
 Device side :
