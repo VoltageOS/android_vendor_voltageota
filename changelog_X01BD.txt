@@ -1,40 +1,10 @@
 VoltageOS 2.8
-Build Date : 20/09/2023
- - some minor bug fixes
-
-VoltageOS 2.7
-Build Date : 13/08/2023
- - fix rounded corners
- - minor bug fixes
-
-VoltageOS 2.6
-Build Date : 12/07/2023
- - fixed some camera bugs
- - minor bug fixes
-
-VoltageOS 2.5
-Build Date : 06/05/2023
- - Disable handling audio direction changes on IMS calls.
- - Tune zram performance.
- - fix deep sleep issue when bluetooth headset is connected.
- - cleanedup a lot of unwanted stuffs and many tweaks added with it.
-
-VoltageOS 2.4
-Build Date : 20/04/2023
- - no changes
-
-VoltageOS 2.3
-Build Bate : 14/02/2023
- - fix google auto connect
-
-VoltageOS 2.2
-Build Date : 18/01/2023
- - Initial Build
+Build Date : 16/01/2024
+ - Initial build
 
 ==============
- 
 NOTE:
- - Decrypted by default
- - kernel 4.4.302
-
+ - kernel 4.19
+ - decrypted by default
+ - cleqn dlash recommended
 ==============
