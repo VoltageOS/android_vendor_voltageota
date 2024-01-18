@@ -1,3 +1,20 @@
+VoltageOS 3.1
+Build Date: 18/01/2024
+- Disabled unspecialized app process pool
+- Fixed lag while accessing recents
+- Sepolicy: Replaced isolated_app with isolated_app_all
+- Removed some camera-daemon commands
+- parts: Add {navigation,video} thermal profiles
+- parts: Refactor ClearSpeakerFragment code
+- Updated public libraries from MIUI V14.0.9.0.TKFEUXM
+- sepolicy: Labeled public libraries
+- Imported missing blobs
+- Fixed PowerOffAlarm
+- Updated blobs from MIUI V14.0.9.0.TKFEUXM
+- Updated MIUI Camera from MIUI V14.0.9.0.TKFEUXM
+- Updated fingerprint from MIUI V14.0.9.0.TKFEUXM
+- Upstreamed kernel to 4.14.336
+
 VoltageOS 3.0 
 Build Date: 09/12/2023 
   - Initial A14 Build
