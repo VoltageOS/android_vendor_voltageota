@@ -1,5 +1,26 @@
+VoltageOS 3.2
+Build Date : 11/02/2024
+Device Side :
+ - Build missing telephony packages from source
+ - Update Carrier Config overlay from LA.QSSI.14.0.r1-11100-qssi.0
+ - Dont build useless packages needed by qcom wfd
+ - Add Notification & Battery LED capabilities overlay
+ - Use the common device compatibility matrix from QCOM
+ - Remove duplicate cellBroadcastAppLinks overlay
+
+Vendor Side :
+ - Update Display (SDM & Postprocessing), Graphics (Adreno & Vulkan) & Media blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+ - Add some missing blobs from MIUI V12.5.2.0
+
+Kernel Side :
+ - Merge CAF/CLO tag LA.UM.9.1.r1-15800-SMxxx0.QSSI14.0 
+ - Built with The Raging Beast TRB Clang 19
+ - Fixed Kernel version info showing HIP path as /dev/null
+
+-----------------------------------------------------------
+
 VoltageOS 3.1
-Build Date: 13/01/2024
+Build Date : 13/01/2024
 Device side :
  - Xiaomi parts: Ambient display: Pickup fixed.
  - Disable display refresh rate override (Fix some apps scroll in 30 fps if video is played).
@@ -12,8 +33,10 @@ Vendor side :
 Kernel side :
  -  Merged CAF/CLO tag LA.UM.9.1.r1-15500-SMxxx0.QSSI14.0
 
+-----------------------------------------------------------
+
 VoltageOS 3.0
-Build Date: 08/12/2023
+Build Date : 08/12/2023
 Device side :
  - Initial Build
 
@@ -26,3 +49,5 @@ Kernel side :
  - Merged CAF/CLO tag LA.UM.9.1.r1-14900-SMxxx0.QSSI14.0
  - Backport Full LLVM Binutils support
  - Compiled using The Raging Beast TRB Clang 18
+
+-----------------------------------------------------------
