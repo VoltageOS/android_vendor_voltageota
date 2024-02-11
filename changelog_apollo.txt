@@ -1,3 +1,6 @@
+VoltageOS 3.2
+- Android 14
+
 VoltageOS 2.8
 - Enabled Charging Control
 
