@@ -4,12 +4,12 @@
         "maintainer": "Sai Krishna",
         "oem": "Xiaomi",
         "device": "Redmi Note 8 Pro",
-        "filename": "voltage-3.1-begonia-20240114-1525-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/begonia/voltage-3.1-begonia-20240114-1525-OFFICIAL.zip/download",
-        "timestamp": 1705245852,
-        "md5": "4461a3fcab4873dc4fca9a8b60ad8066",
-        "size": 1703339149,
-        "version": "3.1"
+        "filename": "voltage-3.2-begonia-20240211-0957-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/begonia/voltage-3.2-begonia-20240211-0957-OFFICIAL.zip/download",
+        "timestamp": 1707645186,
+        "md5": "a348c11f5aa578d08f4bda396793099a",
+        "size": 1715380133,
+        "version": "3.2"
     }
   ]
 }

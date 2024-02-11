@@ -1,3 +1,12 @@
+VoltageOS 3.2
+Build Date: 11/02/2024
+- Added Notification & Battery LED capabilities Support
+- Fixed MTK EngineerMode crashes
+- Nuked Useless packages
+- Improved UI/UX performance
+- Suppressed DRM log spam
+- Some misc improvements
+
 VoltageOS 3.1
 Build Date: 14/01/2024
 - Shifted to Hardware Encryption(Beanpod)
