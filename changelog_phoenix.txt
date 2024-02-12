@@ -1,4 +1,15 @@
-VoltageOS 3.1
+VoltageOS 3.2
+Build Date: 11/02/2024
+Device side :
+ - 
+
+Vendor side :
+ - Use QCOM audio effects blobs
+
+Kernel side :
+ -  
+ 
+ VoltageOS 3.1
 Build Date: 15/01/2024
 Device side :
  - Cleanup Build Flags
