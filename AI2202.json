@@ -4,12 +4,12 @@
         "maintainer": "adeveloper79",
         "oem": "ASUS",
         "device": "AI2202",
-        "filename": "voltage-2.8-EOL-AI2202-20230924-0533-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/AI2202/voltage-2.8-EOL-AI2202-20230924-0533-OFFICIAL.zip/download",
-        "timestamp": 1695533459,
-        "md5": "47d31901cc3b1b5637310b405772a9ff",
-        "size": 1240396083,
-        "version": "2.8"
+        "filename": "voltage-3.2-AI2202-20240212-1131-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/AI2202/voltage-3.2-AI2202-20240212-1131-OFFICIAL.zip/download",
+        "timestamp": 1707737470,
+        "md5": "aec25e62a7973367d02bb5f3ac83f0d9",
+        "size": 1300346635,
+        "version": "3.2"
     }
   ]
 }

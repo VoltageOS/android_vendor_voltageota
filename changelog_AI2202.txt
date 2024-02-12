@@ -1,3 +1,7 @@
+VoltageOS 3.2
+ - Android 14
+    *  May have some random jitters
+
 VoltageOS 2.8-HOTFIX
  - Camera Output fix
  
