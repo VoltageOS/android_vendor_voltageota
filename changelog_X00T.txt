@@ -1,3 +1,7 @@
+VoltageOS 3.2
+Build Date: 13/02/2024
+ - Initial a14 Build and based on 4.19 kernel
+
 VoltageOS 2.8-EOL
 Build Date: 23/09/2023
  - Fix adb turns on after reboot every time.
