@@ -1,4 +1,14 @@
-VoltageOS 2.8
+VoltageOS 3.2
+Build Date : 13/012/2024
+ - Add Notification & Battery LED capabilities overlay.
+ - Switced to Google Panther FP.
+ - Build Lineage Health HAL.
+ - Fixed Google fast pair for wireless buds or other bluetooth devices which supports it.
+ - Import power_profile.xml From UL-ASUS_X00T-WW-17.2017.2006.429-user.
+ - Fixed cam interface on vilte calls.
+ - upstreamed kernel to 4.19.305.
+
+VoltageOS 3.1
 Build Date : 16/01/2024
  - Initial build
 
@@ -6,5 +16,5 @@ Build Date : 16/01/2024
 NOTE:
  - kernel 4.19
  - decrypted by default
- - cleqn dlash recommended
+ - clean flash recommended
 ==============
