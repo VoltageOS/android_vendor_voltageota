@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "xtra_sharif (Shridhan Varadkar)",
+        "oem": "Redmi",
+        "device": "Redmi Note 12 5G / POCO X5 5G",
+        "filename": "voltage-3.2-stone-20240214-1448-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/stone/voltage-3.2-stone-20240214-1448-OFFICIAL.zip/download",
+        "timestamp": 1707921818,
+        "md5": "002450b4960171ed1f11f44cda9d6a78",
+        "size": 1095504005,
+        "version": "3.2"
+    }
+  ]
+}

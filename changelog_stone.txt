@@ -1,0 +1,4 @@
+VoltageOS 3.2
+ - Android 14 initial release
+    *  May have some random jitters
+    *  DT2W not working
