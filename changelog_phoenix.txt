@@ -1,4 +1,16 @@
 VoltageOS 3.2
+Build Date: 14/02/2024
+Device side :
+ - SeLinux enforcing
+ - Rebranded init and Fingerprint
+
+Vendor side :
+ - 
+
+Kernel side :
+ - Enable auditing for SeLinux logs
+ 
+ VoltageOS 3.2
 Build Date: 11/02/2024
 Device side :
  - 
