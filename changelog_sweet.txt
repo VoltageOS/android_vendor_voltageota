@@ -1,3 +1,14 @@
+VoltageOS 3.2
+Build Date: 19/02/2024
+- Checkout power profile from MIUI V14.0.9.0.TKFEUXM
+- Checkout powerhint configuration from Pixel 4A
+- Defined missing HAL's
+- Patch to allow rmt_storage service to aquire wakelock
+- sepolicy: allow vendor_init to set vendor_bluetooth_prop
+- sepolicy: Address citsensorservice denials
+- Import missing DRM & TUI blobs
+- sepolicy: Label some RIL property
+
 VoltageOS 3.1
 Build Date: 18/01/2024
 - Disabled unspecialized app process pool
