@@ -1,0 +1,11 @@
+VoltageOS 3.2
+Build Date: 27/02/2024
+
+- Added refresh rate tile in qs
+- Fix lockscreen Charging info
+- Added more known codename for porsche ( fixes twrp/ofox detection )
+- Enable Wi-Fi Display support
+- Miscellaneous changes in refresh rate support
+- Added more smoothness and battery optimisation related changes
+- Build some missing Wi-Fi interfaces hals
+- Import stock carrier config from C.22
