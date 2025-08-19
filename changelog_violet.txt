@@ -1,43 +1,16 @@
-VoltageOS 4.5-EOL
-Build Date: 14/06/2025
+VoltageOS 5.0
+Build Date: 19/08/2025
 Device Side:
-- Added Additional Camera Framerates In Aperture
-- Fixed Yellow-Tinted Screen Bug
-- Implemented Torch Light Control
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.4
-Build Date: 18/05/2025
-Device Side:
-- Fixed Ringer QS Tile Crash
-- Added Miui Camera
-- Updated Dolby Blobs
-
-Build Date: 17/05/2025
-Device Side:
-- Disabled FRP
-- Switched To NCM USB Tethering
+- Moved Back To RNDIS For USB Tethering
+- Dropped Torch Light Control
+- Fully Functional Miui Camera By Default
+- Disabled zRAM Writeback
+- Enabled New UFFD-based GC For ART
+- Increased Swappiness To 80
+- Switched To Common AIDL IR Service
 
 Kernel Side:
-- Up To LTS 4.14.356 & Openela rc 1
-- Disabled CONFIG_NFC_NQ For Faster Boot
-- Imported uvc From android16-6.12
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.3
-Build Date: 20/04/2025
-Device Side:
-- Initial Release
-- Added OnePlus Dolby
-- Based On LineageOS Trees
-- Added Device As Webcam
-
-Kernel Side:
-- Comes With Nebula Kernel
-- Lowered Reclaim Segment and Threshold
-- Tweaked Memory Pressure For 4GB RAM Devices
-- Set Swappiness To 80
-- Lowered The Non-Hugetlbpage Pageblock Size To Reduce Scheduling Delays
-- Many More Changes From LineageOS SM6150 Kernel
+- Silenced Some Log Spams
+- Reduced Watermark Scaling Factor To 15
+- Backported TLB Enhancements And Memory-Management Fixes From Upstream
+- Removed SPF (Secure Playback Framework)
