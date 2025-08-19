@@ -1,97 +1,12 @@
-VoltageOS 4.5-EOL
-Build Date: 14/06/2025
+VoltageOS 5.0
+Build Date: 19/08/2025
 Device Side:
-- Miscallaneous Changes In Network
-- Enabled Battery Cycle Count
+- Added Device As Webcam (which works)
+- Fixed Audio Related Issues & Call Sound Issues (including no ringtone while using headphones)
+- Fixed Sound Crackling
+- Fully Functional Miui Camera By Default
+- Fixed Performance Regression In Games (😭)
 
 Kernel Side:
-- Comes With Latest (r05) Nebula Kernel Without KernelSU
+- Comes With Nebula Kernel (r05.1) Without KernelSU
 - Read Changelog Here - https://raw.githubusercontent.com/dev-sm6375/kernel_xiaomi_sm6375/refs/heads/changelog/changelog.txt 
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.4
-Build Date: 18/05/2025
-Device Side:
-- Fixed Ringer QS Tile Crash
-- Updated Dolby Blobs
-
-Build Date: 17/05/2025
-Device Side:
-- Initial QPR 2 Build
-- Switched To AIDL bootctrl HAL
-- Fixed AOD Brightness At 55%
-- Fixed Display Flickering Problem While Toggling Night Light
-- Updated Adreno Blobs to 530.54
-- Fixed Most Network Instabilities
-- Switched To NCM USB Tethering
-- Re-added Charging Control
-
-Kernel Side:
-- Comes With Latest Nebula Kernel Without KernelSU
-- Read Changelogs Here - https://github.com/dev-sm6375/kernel_xiaomi_sm6375/releases/tag/r03 
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.2
-Build Date: 09/02/2025
-Device Side:
-- Added OnePlus Dolby
-- Disabled Turbulence Noise
-- Addressed Some Sepolicy Denials
-- Disabled FRP
-- Fixed Inaccurate Brightness Bar
-- Many Under The Hood Changes
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.1
-Build Date: 19/01/2025
-Device Side:
-- Removed Lineage Health HAL (Charging Control)
-- Allowed Games To Use 120 FPS
-- Switched To OSS IR HAL
-
-Vendor Side:
-- Updated Blobs From Hyper OS1.0.12.0.TKCMIXM
-
-Kernel Side:
-- Comes With Latest Positron Kernel Without KernelSU
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.0.1
-Build Date: 07/12/2024
-Device Side:
-- Brought Back Smart Pixels
-- Dropped Xiaomi Parts' Thermal Settings
-- Addressed Some More Sepolicy Denials
-- Enabled Doze Mode
-- Added Refresh Rate QS Tile
-
-Vendor Side:
-- Updated Blobs From Hyper OS1.0.11.0.TKCMIXM
-
------------------------------------------------------------------------------------------------
-
-VoltageOS 4.0
-Build Date: 09/11/2024
-Device side:
-- Initial A15 Release
-- Switched To Prebuilt Audio HAL
-- Used lz4 For Zram
-- Dropped Xiaomi Parts' Doze Settings
-- Removed Software OMX Blobs
-- Addressed Some Sepolicy Denials
-- Improved Brightness (Like It Was On Old Roms)
-- Device Is Certified Out Of The Box
-- Removed Smart Pixels (Temporary)
-- Removed Overlay For Battery Health 
-- Many Under The Hood Changes
-
-Vendor Side:
-- Updated Blobs From Hyper OS1.0.9.0.TKCMIXM
-
-Kernel Side:
-- Comes With Latest Positron Kernel Without KernelSU
-- DTBO Is Built From Source And Inlined Into DTB
