@@ -1,3 +1,8 @@
+VoltageOS 5.0
+Build Date : 04/09/25
+ - Latest security patch 
+ - Updated Blobs from S911BXXS8DYG5
+
 VoltageOS 4.2
 Build Date : 08/02/25
  - Latest security patch 

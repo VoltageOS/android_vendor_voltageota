@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Mezaque Silver(guckesh)",
+        "maintainer": "Mezaque Silver (guckesh)",
         "oem": "SAMSUNG",
         "device": "Galaxy S23",
-        "filename": "voltage-4.2-dm1q-20250208-1205-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/dm1q/voltage-4.2-dm1q-20250208-1205-OFFICIAL.zip/download",
-        "timestamp": 1739016160,
-        "md5": "75fc0180bceb19def17a3d8bae9141e9",
-        "size": 1728140555,
-        "version": "4.2"
+        "filename": "voltage-5.0-dm1q-20250904-2227-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/dm1q/voltage-5.0-dm1q-20250904-2227-OFFICIAL.zip/download",
+        "timestamp": 1757024673,
+        "md5": "095253ee4800259de80ddc581b7b83ab",
+        "size": 1791946929,
+        "version": "5.0"
     }
   ]
 }
