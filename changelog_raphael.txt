@@ -1,5 +1,18 @@
 -----------------------------------------------------------
 
+VoltageOS 5.1
+
+Build Date : 25/09/2025
+
+Device Side :
+ - Migrate to AIDL Live Display
+ - Address some SE-Linux Denials
+
+Kernel Side :
+ - Reduce various logspams 
+
+-----------------------------------------------------------
+
 VoltageOS 5.0
 
 Build Date : 19/08/2025
