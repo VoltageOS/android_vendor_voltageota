@@ -1,68 +1,20 @@
-VoltageOS 4.2
-Build Date: 08/02/2025
+-----------------------------------------------------------
 
-Device
-- Moved WfdCommon boot jar declaration to vendor
-- Removed MiuiCamera
-- Added OnePlus Dolby 
-- Disabled QS media player turbulence 
-Kernel
-- fs: Lower reclaim segment and threshold
-- Set swappiness to 80
-- Few optimizations to mm
-- Introduced SCHED_CASS
+VoltageOS 5.1
 
+Build Date: 25/09/2025
 
+- Droped msm_irqbalance
+- overlay: adjust status_bar_padding_start
+- Lowered swappiness to 70
+- sepolicy: fixed denials related to diag_device
+- Set VENDOR_SECURITY_PATCH To PLATFORM
+- sepolicy: Allow camera hal to call system_server
+- Added sepolicy for diag-router and guard it for user build only
+- Removed unnecessary HAL entries from FCM
+- Added vendor.lineage.health V2
+- Migrated to AIDL LiveDisplay hal
+- Updated WFD system blobs from dada OS2.0.217.0.WOCMIXM
+- power: Boost GPU when EXPENSIVE_RENDERING hints are parsed
 
-VoltageOS 4.1
-Build Date: 19/01/2025
-
-Device
-- Switched to AOSP encryption 
-- Enabled elfchecks for camera libs
-- Enable elfchecks for libwfdaac_vendor
-- Enable frame pacing for smoother visual performance
-- Uprev aidl power hal to 5
-- Mark CNE symlink target as required package
-- Update display flags & packages
-- Remove OMX audio codecs
-- Switch to common lights HAL
-- wifi: Disable DFS master capability
-- wifi: Enable WPA3/SAE
-- wifi: Enable SoftAP on indoor channel
-Kernel
-- Rebased over Latest LOS kernel 
-- Set pelt half-life to 16
-- Introducd SBalance IRQ balancer
-- Added IR-SPI driver
-
-
-
-VoltageOS 4.0.1
-Build Date: 07/12/2024
-
-- Enabled Doze mode
-- Enabled VoLTE and VoWiFi by default 
-- Fixed sepolicy denial
-- Disabled VSync for CPU rendered apps
-- Updated power_profile from MIUI14
-- Enabled ro.audio.monitorRotation
-- Switched to LOS based kernel (Thanks to popoASM & Clarence)
-
-
-
-VoltageOS 4.0
-Build Date: 09/11/2024
-
-- Initial Android 15 release
-- Switched to AIDL thermal HALs
-- Miui camera inbuilt
-- OSS audio
-- Enabled ELF checks
-- Fixed fp indicator position 
-- Fixed mic issues in Meta apps
-- Disabled surround sound 
-- Enabled deep buffer playback for media
-- Used 24bit pulse-code modulation for deep buffer playback
-- Synced with latest Kinesis omega kernel
-- Some under the hood changes 
+-----------------------------------------------------------
