@@ -1,5 +1,23 @@
+-----------------------------------------------------------
+
+VoltageOS 5.1
+
+Build Date: 25/09/2025
+
+Device Side:
+- Fixed Apps That Require Diag, Such As Network Signal Guru
+- Misc. Changes
+
+Kernel Side:
+- Comes With Nebula Kernel (r06) Without KernelSU
+- Read Changelog Here - https://raw.githubusercontent.com/dev-sm6375/kernel_xiaomi_sm6375/refs/heads/changelog/changelog.txt 
+
+-----------------------------------------------------------
+
 VoltageOS 5.0
+
 Build Date: 19/08/2025
+
 Device Side:
 - Added Device As Webcam (which works)
 - Fixed Audio Related Issues & Call Sound Issues (including no ringtone while using headphones)
@@ -10,3 +28,5 @@ Device Side:
 Kernel Side:
 - Comes With Nebula Kernel (r05.1) Without KernelSU
 - Read Changelog Here - https://raw.githubusercontent.com/dev-sm6375/kernel_xiaomi_sm6375/refs/heads/changelog/changelog.txt 
+
+-----------------------------------------------------------
