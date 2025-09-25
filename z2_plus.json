@@ -2,8 +2,8 @@
   "response": [
     {
         "maintainer": "Dmitrii",
-        "oem": "Zuk",
-        "device": "Zuk z2 plus",
+        "oem": "ZUK",
+        "device": "Z2 Plus",
         "filename": "voltage-3.5-z2_plus-20240722-1112-OFFICIAL.zip",
         "download": "https://sourceforge.net/projects/voltage-os/files/z2_plus/voltage-3.5-z2_plus-20240722-1112-OFFICIAL.zip/download",
         "timestamp": 1721646574,
