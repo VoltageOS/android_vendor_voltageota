@@ -1,3 +1,9 @@
+VoltageOS 5.1
+Build Date: 30/09/2025
+- Fixed some ui lags
+- Updated Dolby
+- Enabled idle timer with kernel support
+
 VoltageOS 5.0
 Build Date: 19/08/2025
 Device Side:
