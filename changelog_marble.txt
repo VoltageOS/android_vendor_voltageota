@@ -1,3 +1,8 @@
+VoltageOS 5.1
+Build Date : 02/10/2025
+- Fixed some ui lags
+- misc changes
+
 VoltageOS 5.0
 Build Date : 22/08/2025
 - Initial Build
