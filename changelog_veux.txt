@@ -1,5 +1,24 @@
 -----------------------------------------------------------
 
+VoltageOS 5.2
+
+Build Date: 13/10/2025
+
+Device Side:
+- Ringtones Now Play Correctly Through Bluetooth / Wired Headphones Along With The Speaker Instead Of Only The Speaker
+- Added Picture Adjustment Setting
+- Added New Material Expressive Design In Dolby Atmos App
+- Disabled Proximity Usage During Doze
+- Disabled Pocket Lock (it didn't use to work anyway)
+- Cleaned Up Unused Blobs
+- Misc. Changes
+
+Kernel Side:
+- Comes With Nebula Kernel (r07) Without KernelSU
+- Read Changelog Here - https://raw.githubusercontent.com/dev-sm6375/kernel_xiaomi_sm6375/refs/heads/changelog/changelog.txt 
+
+-----------------------------------------------------------
+
 VoltageOS 5.1
 
 Build Date: 25/09/2025
