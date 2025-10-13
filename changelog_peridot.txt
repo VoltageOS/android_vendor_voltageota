@@ -1,0 +1,39 @@
+VoltageOS 5.2
+Build Date: 12/10/2025
+- Initial Official Build for peridot
+- Update Vendor Blobs from OS2.0.205.0.VNPMIXM
+- Build Kernel From Source
+- Fix Audio for fs19xx codec
+- Improve Autobrightness
+- Configure brightness increase/decrease rampstate
+- Setup DeviceAsWebcam
+- Set HQ Mode by default for DeviceAsWebcam
+- Backport USB Gadget from mainline
+- Build Pixel Thermal HAL
+- Import thermal-engine-v2 from oneplus waffle
+- Move CPU/GPU thermal configs to thermal-engine
+- Rework CPU/GPU Throttling values
+- Drop vsync phase offsets as durations
+- Import WFD Blobs from dada
+- Build AIDL NFC HAL From source
+- Build AIDL IR HAL From source
+- Setup HTSR Via AIDL Touch HAL
+- Fix alerts not playing on phone with BT connected
+- Boost cpu_dma_latency on launch
+- Declare WiFi Aware support to WiFi HAL
+- Add dual AP/STA to wifi hal interface combinations
+- Disable ART Debug
+- Disable Display Drivers Debug
+- Switch to Lineage Health/Fastcharge HALs
+- Enable vonr for all carriers where toggle is supported
+- Disable FRP
+- Move CPU freq control from Powerhint to a simple DCVS Boost driver
+- Build Kprofiles
+- Build New External parts app (including display saturation, per-app saturation, clear speaker, DC Dimming)
+- Add boeffla wakelock blocker driver
+- Block some wakeclocks to impove deepsleep
+- Merge tag 6.1.152 from CLO
+- Enable RCU LAZY ALL configs
+- Upstream LZ4 to v1.10.0
+- Set LZ4 As default ZRAM Comp algorithm
+- And some other misc changes and optimization
