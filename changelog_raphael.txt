@@ -1,5 +1,26 @@
 -----------------------------------------------------------
 
+VoltageOS 5.2
+
+Build Date : 15/10/2025
+
+Device Side :
+ - Override kernel BPF version to 5.4.299
+ - Reconfigure Cpu architecture removed dotprod
+ - Added overlay for showing cpu & battery temperature on AOD
+
+Kernel Side :
+ - Backport & Upstream BPF patches
+ - Improved overall stablity with improvements in SOT & benchmark scores from 5.1 release
+ - Reduced heating.
+
+Important Note :
+
+This build can be dirty flashed if coming from 5.1
+Any dirty flash below 5.1 will result in bootloop so clean flash is mandatory if you flash from versions below 5.1
+
+-----------------------------------------------------------
+
 VoltageOS 5.1
 
 Build Date : 25/09/2025
