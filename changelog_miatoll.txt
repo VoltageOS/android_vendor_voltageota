@@ -1,5 +1,19 @@
 -----------------------------------------------------------
 
+VoltageOS 5.2
+
+Build Date: 17/10/2025
+
+- Cleaned-up audio configs
+- Fixes sound Bluetooth calls
+- Fixed WhatsApp audio note issue
+- Downscaled task snapshots to 70%
+- set config_wallpaperMaxScale to 1
+- Fixed deviceaswebcam
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.1
 
 Build Date: 25/09/2025
