@@ -1,3 +1,8 @@
+VoltageOS 5.2
+Build Date: 21/10/2025
+- Addressed wakeup denials
+- Lower swappiness to 70
+- audio: Remove FM Tuner from audio input devices
 VoltageOS 5.1
 Build Date: 30/09/2025
 - Fixed some ui lags
