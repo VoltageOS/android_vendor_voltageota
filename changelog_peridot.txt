@@ -1,3 +1,44 @@
+VoltageOS 5.3
+Build Date: 17/11/2025
+Device:
+- Update Vendor Blobs From OS2.0.206.0.VNPMIXM
+- Bump ViperFX To v8.0
+- Setup More Agressive CPU Throttling
+- Add super fastcharge mode
+- Add support for torch light control
+- Add some missing media properties
+- Add HTSR Tile
+- Fix AOD Flickering
+- Build more audio blobs from source
+- Disable RescueParty
+- Drop DC Dimming for now
+- Drop support for SDR Dimming
+- Drop msm_performance module
+- Rework Settings Animations
+- Set minimum HWC SF duration to 8.4ms
+- Label some wakeup nodes and more selinux denials
+- Some other misc changes and optimization
+Kernel:
+- Merge tag 'ASB-2025-10-06_14-6.1' from ACK
+- Merge tag 'KERNEL.PLATFORM.3.0.r1-12600-kernel.0 from CLO
+- Merge tag 'LA.VENDOR.14.3.0.r1-22300-lanai.QSSI16.0' of wlan and securemsm
+- Rework fastcharge control logic
+- Decrease launch boost duration on kprofile 2
+- implement input handler for cpu boost, only kick within 5s of input
+- boeffla_wl_blocker: Block hal_bluetooth_lock wakelock
+- Enable more net/ip/ttl configs
+- Enable TTL Fixation
+- Enforce ulps suspend for display drivers
+- Enable more TCP Algorithm's
+- Set 300hz tick rate
+- Set Westwood as default TCP
+- Drop MSM_performance module
+- Enable and use power efficient Workingqueues
+- Force apps to use TCP_NODELAY
+- Speedup cache entry creation for mbcache
+
+-----------------------------------------------------------
+
 VoltageOS 5.2
 Build Date: 12/10/2025
 - Initial Official Build for peridot
