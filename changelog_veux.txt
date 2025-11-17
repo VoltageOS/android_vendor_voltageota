@@ -1,5 +1,20 @@
 -----------------------------------------------------------
 
+VoltageOS 5.3
+
+Build Date: 17/11/2025
+
+Device Side:
+- Fixed Animation Lags In Settings
+- Moved To The QTI Driver For PN557 NFC
+- Moved To AOSP USB V2 Audio HAL
+- Raised Little Cluster Frequency A Little
+
+Kernel Side:
+- Comes With Positron Kernel (20251109) Without KernelSU
+
+-----------------------------------------------------------
+
 VoltageOS 5.2
 
 Build Date: 13/10/2025
