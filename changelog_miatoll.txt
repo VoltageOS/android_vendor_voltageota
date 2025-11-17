@@ -1,5 +1,16 @@
 -----------------------------------------------------------
 
+VoltageOS 5.3
+
+Build Date: 17/11/2025
+
+- Imported open/close animation
+- Switched to Prebuilt Audio Hals
+- Fixed some nfc,wfd & npu denials
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.2
 
 Build Date: 17/10/2025

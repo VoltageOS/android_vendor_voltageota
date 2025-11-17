@@ -4,12 +4,12 @@
         "maintainer": "iHSAN",
         "oem": "Xiaomi",
         "device": "Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite / POCO M2 Pro",
-        "filename": "voltage-5.2-miatoll-20251017-0758-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-5.2-miatoll-20251017-0758-OFFICIAL.zip/download",
-        "timestamp": 1760687378,
-        "md5": "19bd82edaf2ffe3c6bc2f975970add91",
-        "size": 1788807158,
-        "version": "5.2"
+        "filename": "voltage-5.3-miatoll-20251117-0059-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/miatoll/voltage-5.3-miatoll-20251117-0059-OFFICIAL.zip/download",
+        "timestamp": 1763341085,
+        "md5": "c08f1d7c4996f79ff5cf6918b10bb596",
+        "size": 1806909940,
+        "version": "5.3"
     }
   ]
 }
