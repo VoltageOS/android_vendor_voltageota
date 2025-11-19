@@ -1,3 +1,9 @@
+VoltageOS 5.3
+Build Date : 19/11/2025
+- updated blobs from diting OS2.0.204.0.VLFMIXM & marble OS2.0.210.0.VMRMIXM
+- Suppress some selinux denials
+- misc audio & other changes
+
 VoltageOS 5.1
 Build Date : 02/10/2025
 - Fixed some ui lags
