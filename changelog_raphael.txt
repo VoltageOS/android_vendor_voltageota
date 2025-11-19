@@ -1,5 +1,24 @@
 -----------------------------------------------------------
 
+VoltageOS 5.3
+
+Build Date : 19-11-2025
+
+Device Side :
+
+ - Fix a bug where the incoming call ringtone or alarms are not played through the loudspeaker when Earphones or Bluetooth devices are connected.
+ - Update CarrierConfig from nabu OS1.0.6.0.TKXMIXM
+ - Build QTI Thermal AIDL HAL
+ - Build libqti_vndfwk_detect.vendor
+ - Suppress some selinux denials
+ - Remove obsolete SurfaceFlinger properties & refactor display props
+
+Vendor Side :
+
+ - Import missing blob vendor/bin/ssgqmigd from Raphael MIUI V12.5.2.0.RFKMIXM
+
+-----------------------------------------------------------
+
 VoltageOS 5.2
 
 Build Date : 15/10/2025
@@ -13,11 +32,6 @@ Kernel Side :
  - Backport & Upstream BPF patches
  - Improved overall stablity with improvements in SOT & benchmark scores from 5.1 release
  - Reduced heating.
-
-Important Note :
-
-This build can be dirty flashed if coming from 5.1
-Any dirty flash below 5.1 will result in bootloop so clean flash is mandatory if you flash from versions below 5.1
 
 -----------------------------------------------------------
 
