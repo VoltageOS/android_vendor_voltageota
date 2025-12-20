@@ -2,6 +2,13 @@
 
 VoltageOS 5.3
 
+Build Date: 20/12/2025
+
+Device Side:
+- Fixed SystemUI Crash When Alarm Or Ringtone Rings While Connected To Bluetooth
+- Moved Dolby Slider To M3 SliderPreference
+- Enabled The New Auto Network Selection UI
+
 Build Date: 17/11/2025
 
 Device Side:
