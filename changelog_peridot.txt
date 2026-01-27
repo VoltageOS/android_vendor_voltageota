@@ -1,3 +1,48 @@
+VoltageOS 5.5
+Build Date: 27/01/2026
+WARNING: CLEAN FLASH IS MANDATORY FROM THIS BUILD
+Device:
+- Update Vendor Blobs And Firmware From OS2.0.208.0.VNPMIXM
+- Include Firmware for now
+- Include Leica Camera and Stock QR Scanner app
+- Switch to Stock Graphics blobs Stack
+- Switch to QTI AIDL Thermal HAL and Stock thermal-engine
+- Build opensource soundtrigger HAL
+- Build some more display related blobs from source
+- Build keymint strongbox and weaver from source
+- Ship Stock KmInstallKeybox
+- Allow High Frame Rate for Miui Camera
+- Add some popular game packages to sched_lib_name
+- Add support of hiding device product name
+- Add support of .mod_device hides
+- Enable STA-SAP-P2P concurrency
+- Move keyguard text above udfps icon
+- Drop more proprietary blobs (Including unused, useless and debug blobs)
+- Drop `COLOR_MODE_AUTOMATIC`
+- Fix Flashlight with Camera App
+- Fix wrong temp in CPU Info overlay
+- Some other misc changes and optimization
+Kernel:
+- Merge tag 'KERNEL.PLATFORM.3.0.r1-13000-kernel.0' of https://git.codelinaro.org/clo/la/kernel/qcom
+- Merge tag 'ASB-2026-01-05_14-6.1' of https://android.googlesource.com/kernel/common
+- Merge tag 'LA.VENDOR.14.3.0.r1-22800-lanai.QSSI15.0' of wlan and dataipa
+- Merge tag 'AUDIO.LA.9.0.r1-08900-lanai.0' of audio-kernel-ar
+- Merge tag 'CAMERA.LA.4.0.r2-09200-lanai.0' of camera-kernel
+- Merge tag 'DISPLAY.LA.4.0.r2-09900-lanai.0' of display-drivers
+- Merge tag 6.1.159 of https://android.googlesource.com/kernel/common
+- force min clamps to 0 on battery kprofile mode
+- disable lazy rcu on performance kprofile mode
+- add support for gpu kick registration
+- Reduce fair scheduler latency
+- import mq-deadline changes from linux 6.6
+- Add LRNG v57 support
+- Spoof kernel name for GMS to 6.1.118-android14-11-ga3b9c44908dd-ab13320413
+- pineapple-thermal: add back cpu cooling map
+- increase linux,cma from 32M to 128M
+- tweak kprofile precommit boosting behavior
+
+-----------------------------------------------------------
+
 VoltageOS 5.3
 Build Date: 17/11/2025
 Device:
