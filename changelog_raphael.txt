@@ -1,5 +1,41 @@
 -----------------------------------------------------------
 
+VoltageOS 5.5
+
+Build Date : 28/01/2026
+
+Device Side :
+ - Fixed random reboots
+ - Fixed Wifi Display (Screen cast)
+ - Removed new udfps, single & double tap to wake
+ - Back to old udfps and dt2w implementation
+ - Migrate to AIDL Live Display Sysfs
+ - Disable high performance transitions
+ - Disable the property debug.sf.enable_gl_backpressure
+ - Drop Adaptive Display color mode
+ - Covert doze brightness value from int to float
+ - Build android.hardware.soundtrigger@2.2-impl from source
+ - Address some selinux denials
+ - Xiaomi Parts Popup Motor Camera updated with following changes for A16 Qpr 2
+  * Move to PreferenceFragmentCompat
+  * Fully migrate to AndroidX
+  * Convert for M3E support
+  * Apply Expressive theme
+
+Vendor Side :
+ - Patch some blobs to depend on libtinyxml2-v34.so
+ - Remove android.hardware.soundtrigger@2.2-impl prebuilt blobs (Say goodbye to screen off ok google)
+ - Regenerate vendor blobs with latest extract util changes
+
+Kernel Side :
+ - Fixed DC Dimming and High Brightness mode disabling after udfps unlock
+ - Rename DC Dimming node to work with Live Display Sysfs
+ - Goodix gt9886 driver implement Report fp_state to sysfs (udfps on aod) with old udfps impl
+ - Goodix gt9886 driver implement double_tap node using expose TP features to userspace
+ - Upstream with LineageOS qcom common sm8150 changes
+
+-----------------------------------------------------------
+
 VoltageOS 5.3
 
 Build Date : 19-11-2025
