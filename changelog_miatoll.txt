@@ -1,5 +1,19 @@
 -----------------------------------------------------------
 
+VoltageOS 5.5
+
+Build Date: 27/01/2026
+
+- Dropped MiuiCamera
+- Switched to UCLAMP boosting
+- Imported task_profiles.json
+- Synced task profiles with Android 16
+- Disabled high performance transitions
+- Dropped debug.sf.disable_client_composition_cache
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.3
 
 Build Date: 17/11/2025
