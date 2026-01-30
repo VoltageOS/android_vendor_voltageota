@@ -1,3 +1,7 @@
+VoltageOS 5.5
+Build Date : 30/01/2026
+- Initial QPR2 Build
+
 VoltageOS 5.3
 Build Date : 19/11/2025
 - updated blobs from diting OS2.0.204.0.VLFMIXM & marble OS2.0.210.0.VMRMIXM
