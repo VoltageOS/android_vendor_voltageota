@@ -1,5 +1,18 @@
 -----------------------------------------------------------
 
+VoltageOS 5.5
+
+Build Date: 02/02/2026
+
+Device Side:
+- Updated Blobs From OS1.0.13.0.TKCEUXM (December Vendor Security Patch)
+
+Kernel Side:
+- Updated To ASB-2025-12-01_11-5.4, android11-5.4-lts
+- Added close_range And epoll_pwait2 Backport
+
+-----------------------------------------------------------
+
 VoltageOS 5.3
 
 Build Date: 20/12/2025
