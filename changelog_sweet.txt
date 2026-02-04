@@ -1,3 +1,12 @@
+VoltageOS 5.5
+Build Date: 04/02/2026
+- sepolicy: remove redundent nfc denials and labels
+- sepolicy: Label aware properties
+- Enable USB and skin temperature warnings
+- Switch to common QTI USB init scripts
+- Setup DeviceAsWebcam
+- display: Disable the property debug.sf.enable_gl_backpressure
+
 VoltageOS 5.3
 Build Date: 27/11/2025
 - Disabled slow blur effect to avoid laggish blur effect
