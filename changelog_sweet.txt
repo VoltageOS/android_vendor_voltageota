@@ -1,4 +1,9 @@
 VoltageOS 5.5
+Build Date: 05/02/2026
+- fixed hotspot not working 
+- updated kernel 
+
+VoltageOS 5.5
 Build Date: 04/02/2026
 - sepolicy: remove redundent nfc denials and labels
 - sepolicy: Label aware properties
