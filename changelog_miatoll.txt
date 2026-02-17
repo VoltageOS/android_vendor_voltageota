@@ -1,5 +1,19 @@
 -----------------------------------------------------------
 
+VoltageOS 5.6
+
+Build Date: 17/02/2026
+
+- Added MiuiCamera back
+- Added Support for Torch light strength control
+- kernel: Upstreamed UCLAMP patches
+- Kernel: Disbaled some loggings
+- Kernel: Disabled some not needed configs
+
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.5
 
 Build Date: 27/01/2026
