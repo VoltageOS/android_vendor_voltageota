@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 5.6
+
+Build Date : 18/02/2026
+
+Device Side :
+ - Align proprietary files list with LineageOS Xiaomi sm8250-common
+
+Vendor Side :
+ - Regenerate blobs with new proprietary files list changes
+
+-----------------------------------------------------------
+
 VoltageOS 5.5
 
 Build Date : 28/01/2026
