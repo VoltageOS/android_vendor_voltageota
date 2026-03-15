@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 5.7
+
+Build Date: 15/03/2026
+
+Device Side:
+- Fixed kernel flashing in default recovery
+
+Kernel Side:
+- Comes With Positron Kernel (20260301) Without KernelSU
+
+-----------------------------------------------------------
+
 VoltageOS 5.6
 
 Build Date: 17/02/2026
