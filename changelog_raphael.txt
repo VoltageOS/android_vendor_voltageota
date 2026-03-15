@@ -1,5 +1,18 @@
 -----------------------------------------------------------
 
+VoltageOS 5.7
+
+Build Date : 15/03/2026
+
+Device Side :
+ - Remove fwk-detect lib from PRODUCT_PACKAGES
+ - Migrate to QTI USB Gadget AIDL HAL
+ - Move usage of USB MTP/PTP functionality with USB F_FS driver
+ - Pick up USB configurations from QCOM
+ - Address sepolicy denials
+
+-----------------------------------------------------------
+
 VoltageOS 5.6
 
 Build Date : 18/02/2026
