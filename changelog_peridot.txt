@@ -1,3 +1,45 @@
+VoltageOS 5.7
+Build Date: 24/03/2026
+Device:
+- Update Vendor Blobs and Firmware from OS3.0.5.0.WNPMIXM
+- Import Qcom perf boosts and use it with msm_performance
+- Bring back msm_performance
+- Bring back QSPM HAL
+- Configure zram using fstab.zram instead of using post boot scripts
+- Fix FP Authentication with 2 and more fingerprints added
+- Add a wrapper for sensors.qsh.so
+- Enable Pocket Mode Sensor
+- Implement per-app kprofile modes
+- Implement dynamic per-app thermal profiles
+- Reapply last used thermal mode after screen is off
+- Increase Launch boosts duration to 5ms
+- Import GPU boosts Into powerhint
+
+Kernel:
+- Merge tag 'LA.VENDOR.14.3.0.r1-22800-lanai.QSSI15.0' of wlan, dataipa modules
+- Merge tag 'DISPLAY.LA.4.0.r2-09900-lanai.0' of display-drivers
+- Merge tag 'CAMERA.LA.4.0.r2-09200-lanai.0' of camera-kernel
+- Merge tag 'AUDIO.LA.9.0.r1-08900-lanai.0' of audio-kernel
+- Merge branch 'android14-6.1-lts' of https://android.googlesource.com/kernel/common
+- Refactor Kprofiles
+- Drop Kernel Side CPU/DCVS boosts
+- Integrate Kprofiles into msm_performance
+- Reduce CPU Boosting on Battery Kprofile
+- Implement AdrenoBoost
+- Implement TouchBoost to msm_performance
+- UnderVolt GPU
+- Add 150mhz and 950mhz GPU freq
+- optimize GPU performance with governor improvements
+- Drop all rmnet wakelocks
+- Backport mq-deadline changes from mainline to 6.1
+- devfreq: Reduce polling interval to 50ms
+- thermal_sysfs: Use vmalloc for cooling_device_stats_setup()
+- thermal: lmh_dcvs: Add support for thermal pressure API to notify scheduler
+- msm_lmh_dcvs: update to arch_update_thermal_pressure API
+- arm, arm64: Select CONFIG_SCHED_THERMAL_PRESSURE
+
+-----------------------------------------------------------
+
 VoltageOS 5.5
 Build Date: 27/01/2026
 WARNING: CLEAN FLASH IS MANDATORY FROM THIS BUILD
