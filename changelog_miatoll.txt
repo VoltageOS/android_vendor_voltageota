@@ -1,5 +1,16 @@
 -----------------------------------------------------------
 
+VoltageOS 5.8
+
+Build Date: 19/04/2026
+
+- Switched to AIDL camera HAL
+- powerhint: Tune uclamp bounds for launch and interaction
+- miatoll: Allow to skip failed camera ids from initialization
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.7
 
 Build Date: 16/03/2026
