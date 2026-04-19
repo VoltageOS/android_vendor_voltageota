@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 5.8
+
+Build Date: 19/04/2026
+
+Device Side:
+- Fixed non-working rear camera in WhatsApp and some more apps
+- Updated brightness configs from stallion
+- Fixed some media codec issues
+- Fixed IMEI leak in props
+
+-----------------------------------------------------------
+
 VoltageOS 5.7
 
 Build Date: 15/03/2026
