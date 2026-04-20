@@ -1,5 +1,22 @@
 -----------------------------------------------------------
 
+VoltageOS 5.8
+
+Build Date : 20/04/2026
+
+Device Side :
+ - Fixed an issue where GrapheneOS App store wont auto update gms compat due to fs verity error
+ - No more need to use modded GrapheneOS Apps store, official app store from their github release channel works
+ - Rootdir: fstab.qcom: Enable fsverity for EXT4 /data and /metadata
+ - Enable APK Verity
+
+Note IMP :
+ - Its mandatary to flash my orangefox recovery, official ofox wont be able to decrypt internal storage and you will see only fox folder. So make sure recovery is flashed before flashing rom.
+ - Twrp users who are using efe are also requested to flash my ofox recovery now onwards this is the only recovery you need.
+ - https://sourceforge.net/projects/voltage-os/files/raphael/Recovery/OrangeFox-R11.3-raphael-PptO07-Unofficial.zip/download
+ 
+-----------------------------------------------------------
+
 VoltageOS 5.7
 
 Build Date : 15/03/2026
