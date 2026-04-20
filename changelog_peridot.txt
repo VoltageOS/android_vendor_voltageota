@@ -1,3 +1,26 @@
+VoltageOS 5.8
+Build Date: 20/04/2026
+Device:
+- Build GPS HAL From Source
+- Remove virtual framebuffer
+- Add NonUI/AOD Notifiers
+- Enable bluetooth avrcp controller profile
+- Enable bluetooth sap server profile
+- Enable LE audio offload support property
+- Enable LE Audio swb by default
+- Enable PBAP SIM feature
+- HFP: AG: Enable AptX voice power management property
+- Set "bluetooth.auto_connect_profiles.enabled" to true
+
+Kernel:
+- Bump Chidori Version to v1.5
+- Merge tag 'ASB-2026-04-06_14-6.1' of https://android.googlesource.com/kernel/common
+- Merge branch 'android14-6.1-lts' of https://android.googlesource.com/kernel/common
+- Move Some Xiaomi Specific Modules to separate directory
+- Fix touch delay for goodix/fts panels
+
+-----------------------------------------------------------
+
 VoltageOS 5.7
 Build Date: 24/03/2026
 Device:
