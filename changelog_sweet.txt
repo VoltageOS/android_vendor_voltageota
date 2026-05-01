@@ -1,3 +1,8 @@
+VoltageOS 5.8
+Build Date: 30/04/2026
+- Fixed few log spams
+- Added sepolicy for diagrouter 
+
 VoltageOS 5.7
 Build Date: 22/03/2026
 - Relocate system properties to system.prop

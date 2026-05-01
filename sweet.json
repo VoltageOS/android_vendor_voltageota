@@ -4,12 +4,12 @@
         "maintainer": "Niranjan BR",
         "oem": "Xiaomi",
         "device": "Redmi Note 10 Pro / 10 Pro Max",
-        "filename": "voltage-5.7-sweet-20260322-0802-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/sweet/voltage-5.7-sweet-20260322-0802-OFFICIAL.zip/download",
-        "timestamp": 1774166292,
-        "md5": "9a1c168a062b70b2dee01330736cea6e",
-        "size": 2069612634,
-        "version": "5.7"
+        "filename": "voltage-5.8-sweet-20260427-1553-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/sweet/voltage-5.8-sweet-20260427-1553-OFFICIAL.zip/download",
+        "timestamp": 1777304880,
+        "md5": "1fff8c305c40a5ceb99b49bacebcc654",
+        "size": 2121029815,
+        "version": "5.8"
     }
   ]
 }
