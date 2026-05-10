@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "ZNAIV",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 10",
+        "filename": "voltage-5.9-sunny-20260510-0311-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/sunny/voltage-5.9-sunny-20260510-0311-OFFICIAL.zip/download",
+        "timestamp": 1778382537,
+        "md5": "bbcaebb08e0af85a87a8dda134df0535",
+        "size": 1551548095,
+        "version": "5.9"
+    }
+  ]
+}
