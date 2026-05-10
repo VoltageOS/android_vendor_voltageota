@@ -1,5 +1,19 @@
 -----------------------------------------------------------
 
+VoltageOS 5.9
+
+Build Date : 10/05/2026
+
+Device Side :
+ - Bump kernel BPF version override to 5.10.239
+ - Cleanup un-used media flags
+
+Kernel Side :
+ - LTS: Update to 4.14.357
+ - Backport Bpf from kernel 5.10
+
+-----------------------------------------------------------
+
 VoltageOS 5.8
 
 Build Date : 20/04/2026
