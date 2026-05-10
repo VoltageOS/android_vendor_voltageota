@@ -1,3 +1,21 @@
+VoltageOS 5.9
+Build Date: 10/05/2026
+Device:
+- Update Vendor Blobs And Firmware from OS3.0.6.0.WNPMIXM
+- Drop MIspatializer
+- Drop MiThermald
+- Drop per-app thermal profiles
+- Build QTI AIDL Thermal HAL
+- Fix random gps crash
+- Update sf duration to 12.3ms
+- Adjust thermal limits based on fast charge modes
+
+Kernel:
+- Bump Chidori Version to v1.6
+- Fix wrong thermal zones numbering
+
+-----------------------------------------------------------
+
 VoltageOS 5.8
 Build Date: 20/04/2026
 Device:
