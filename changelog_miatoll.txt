@@ -1,5 +1,15 @@
 -----------------------------------------------------------
 
+VoltageOS 5.9
+
+Build Date: 10/05/2026
+
+- Copy touchscreen firmware to recovery
+- Nothing more
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.8
 
 Build Date: 19/04/2026
