@@ -1,5 +1,20 @@
 -----------------------------------------------------------
 
+VoltageOS 5.9
+
+Build Date: 10/05/2026
+
+Device Side:
+- Updated Miui Camera default and minimal icons
+- Fixed camera when modules like BCR is installed
+- Disabled gestural burnin protection
+- Enabled auto unsignaled latching
+
+Kernel Side:
+- Updated UVC from android16-6.12
+
+-----------------------------------------------------------
+
 VoltageOS 5.8
 
 Build Date: 19/04/2026
