@@ -1,5 +1,22 @@
+-----------------------------------------------------------
+
+VoltageOS 5.9
+
+Build Date: 12/05/2026
+
+Device Side:
+- Enabled auto unsignaled latching
+- Enabled charging control bypass mode
+- Updated work durations from kalama
+- Removed Miui Camera
+- Adjusted status bar padding
+
+-----------------------------------------------------------
+
 VoltageOS 5.0
+
 Build Date: 19/08/2025
+
 Device Side:
 - Moved Back To RNDIS For USB Tethering
 - Dropped Torch Light Control
@@ -14,3 +31,5 @@ Kernel Side:
 - Reduced Watermark Scaling Factor To 15
 - Backported TLB Enhancements And Memory-Management Fixes From Upstream
 - Removed SPF (Secure Playback Framework)
+
+-----------------------------------------------------------
