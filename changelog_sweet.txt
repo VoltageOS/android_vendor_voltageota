@@ -1,3 +1,12 @@
+VoltageOS 5.9
+Build Date: 14/05/2026
+- Updated kernel to 4.14.357
+- Disabled CPU wakeup loggings
+- Introduced Wakelock Governor Driver
+- Disabled adreno driver logging
+- Silenced TCS logging
+- Silenced finger event logs
+
 VoltageOS 5.8
 Build Date: 30/04/2026
 - Fixed few log spams
