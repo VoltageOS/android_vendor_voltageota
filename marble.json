@@ -4,12 +4,12 @@
         "maintainer": "Talha",
         "oem": "Xiaomi",
         "device": "POCO F5",
-        "filename": "voltage-5.8-marble-20260420-1426-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/marble/voltage-5.8-marble-20260420-1426-OFFICIAL.zip/download",
-        "timestamp": 1776695057,
-        "md5": "e9577cae2fbc93f216523d1e5c4aaf55",
-        "size": 2064796053,
-        "version": "5.8"
+        "filename": "voltage-5.9-marble-20260522-0825-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/marble/voltage-5.9-marble-20260522-0825-OFFICIAL.zip/download",
+        "timestamp": 1779438245,
+        "md5": "057e7efd59d4354a22a135108dcc7e4a",
+        "size": 2067079910,
+        "version": "5.9"
     }
   ]
 }

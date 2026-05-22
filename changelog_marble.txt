@@ -1,3 +1,7 @@
+VoltageOS 5.9
+Build Date : 23/05/2026
+- dropped ksu
+
 VoltageOS 5.8
 Build Date : 20/04/2026
 - Misc Changes
