@@ -1,5 +1,22 @@
 -----------------------------------------------------------
 
+VoltageOS 5.10
+
+Build Date : 13/06/2026
+
+Device Side :
+ - Unset TARGET_CPU_ABI2
+ - In media_codecs_performance_c2.xml, add entries for av1 software encoding and decoding
+ - Replace writepid with task_profiles command
+
+Vendor Side :
+ - Patch few blobs, replace writepid with task_profiles command
+
+Kernel Side :
+ - Merge LineageOS common qcom sm8150 kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 5.9
 
 Build Date : 10/05/2026
