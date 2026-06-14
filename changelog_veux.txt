@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 5.10
+
+Build Date: 14/06/2026
+
+Device Side:
+- Fixed some Bluetooth issues when connected to Windows
+
+Kernel Side:
+- Comes With Positron Kernel (20260613) Without KernelSU
+
+-----------------------------------------------------------
+
 VoltageOS 5.9
 
 Build Date: 10/05/2026
