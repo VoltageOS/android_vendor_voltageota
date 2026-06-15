@@ -1,3 +1,30 @@
+VoltageOS 5.10
+Build Date: 16/06/2026
+Device:
+- Update MIUI Camera & QR Scanner from stock OS3.0.6.0.WNPMIXM
+- Relax INTERACTION boost
+- Label More Selinux Denials
+- Move Charging throttling logic to kernel driver
+
+Kernel:
+- Bump Chidori Version to v1.7
+- Merge tag 'ASB-2026-06-01_14-6.1' of https://android.googlesource.com/kernel/common
+- Merge branch 'android14-6.1-lts' of https://android.googlesource.com/kernel/common
+- power: supply: qti_battery_charger: Implement charge limit policy
+- Improve SOFOD Reliability
+- Set BBR as default TCP
+- tcp: Enable ECN negotiation by default
+- kernel: power: faster deepsleep
+- Enable RCU lazy
+- kprobes: implement optprobes
+- kprobes: add support for KPROBES_ON_FTRACE
+- kprobes: Support optimized probes with multiple instruction slots
+- camera-kernel: flash: Handle CAM_FLUSH_REQ in driver commands
+- camera-kernel: flash: Increase CAM_FLASH_MAX_LED_TRIGGERS to 4
+- Various memory, net, scheduler and stability optimization
+
+-----------------------------------------------------------
+
 VoltageOS 5.9
 Build Date: 10/05/2026
 Device:
