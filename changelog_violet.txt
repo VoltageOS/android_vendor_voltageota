@@ -1,5 +1,22 @@
 -----------------------------------------------------------
 
+VoltageOS 5.10
+
+Build Date: 16/06/2026
+
+Kernel Side:
+- Silenced multiple log spams
+- Disabled multiple debugging configs
+- Added and enabled Simple LMK
+- Added and enabled devfreq boost
+- Shortened PELT ramp/delay halflife to 16 ms
+- Faked uname to 5.10 for bpfloader/netbpfload/netd
+- /system/addon.d is now hidden from non-system apps
+- Disabled in-kernel header archive
+- Synced with latest LineageOS sm8150 kernel
+
+-----------------------------------------------------------
+
 VoltageOS 5.9
 
 Build Date: 12/05/2026
