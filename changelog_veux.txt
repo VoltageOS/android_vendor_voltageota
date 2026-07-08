@@ -1,5 +1,16 @@
 -----------------------------------------------------------
 
+VoltageOS 5.11-EOL
+
+Build Date: 08/07/2026
+
+Device Side:
+- Fixed random audio HAL crashes
+- Enabled CameraX extensions support
+- Tuned UFS clkgate and ah8 during boot time
+
+-----------------------------------------------------------
+
 VoltageOS 5.10
 
 Build Date: 14/06/2026
