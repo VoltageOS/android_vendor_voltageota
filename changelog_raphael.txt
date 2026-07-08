@@ -1,5 +1,21 @@
 -----------------------------------------------------------
 
+VoltageOS 5.11-EOL
+
+Build Date : 08/07/2026
+
+Device Side :
+ - Switch to two-stage init mounting
+ - Set FCM level to 7
+ - Compile the kernel without GCC
+
+Kernel Side :
+ - Move to 2 stage init
+ - Add & Enable CONFIG_INITRAMFS_IGNORE_SKIP_FLAG
+ - Merge LineageOS common qcom sm8150 kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 5.10
 
 Build Date : 13/06/2026
