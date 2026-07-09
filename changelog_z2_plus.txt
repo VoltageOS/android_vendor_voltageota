@@ -1,3 +1,10 @@
+VOS 5.11-EOL
+reworked tree
+switched to 4.4 upstreamed kernel
+underclock and undervolt
+thermal config changes
+some misc changes
+
 VOS 3.5
 upstreamed kernel
 switch to QCRIL
