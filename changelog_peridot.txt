@@ -1,3 +1,15 @@
+VoltageOS 5.11-EOL
+Build Date: 18/07/2026
+Device:
+- Stability improvements/misc fixes
+
+Kernel:
+- Bump Chidori Version to v1.8
+Merge branch 'android14-6.1-lts' of https://android.googlesource.com/kernel/common
+Merge tag 'KERNEL.PLATFORM.3.0.r1-13300-kernel.0' of https://git.codelinaro.org/clo/la/kernel/qcom
+
+-----------------------------------------------------------
+
 VoltageOS 5.10
 Build Date: 16/06/2026
 Device:
