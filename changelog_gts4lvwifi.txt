@@ -1,4 +1,0 @@
-VoltageOS 3.3
-Build Date: 27-04-2024
-
-- Initial Official Release

@@ -1,8 +1,0 @@
-VoltageOS 3.4
-Build Date: 12/05/2024
-- Initial build
-
-VoltageOS 3.7
-Build Date: 08/09/2024
-- QPR3 changes
-- Synced with latest source
