@@ -1,5 +1,18 @@
 -----------------------------------------------------------
 
+VoltageOS 6.0
+
+Build Date: 22/08/2026
+
+- Intitial Android-17 build
+- Leica Inbuilt ( Front video mode doesnot work for now )
+- Switched to AOSP WFD
+- Switched back to time_daemon
+- Updated Media stack from V816.0.6.0.TKXMIXM
+
+
+-----------------------------------------------------------
+
 VoltageOS 5.11-EOL
 
 Build Date: 08/07/2026
