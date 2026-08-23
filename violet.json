@@ -4,12 +4,12 @@
         "maintainer": "Frost",
         "oem": "Xiaomi",
         "device": "Redmi Note 7 Pro",
-        "filename": "voltage-5.10-violet-20260616-1024-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-5.10-violet-20260616-1024-OFFICIAL.zip/download",
-        "timestamp": 1781604767,
-        "md5": "49529bf3d3b9fad62eb3b75000071c7a",
-        "size": 1568995662,
-        "version": "5.10"
+        "filename": "voltage-6.0-violet-20260823-0910-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-6.0-violet-20260823-0910-OFFICIAL.zip/download",
+        "timestamp": 1787475391,
+        "md5": "53a553092f75bea8e6472bbdc5e41cd0",
+        "size": 1624561740,
+        "version": "6.0"
     }
   ]
 }

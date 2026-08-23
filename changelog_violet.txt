@@ -1,52 +1,13 @@
 -----------------------------------------------------------
 
-VoltageOS 5.10
+VoltageOS 6.0
 
-Build Date: 16/06/2026
-
-Kernel Side:
-- Silenced multiple log spams
-- Disabled multiple debugging configs
-- Added and enabled Simple LMK
-- Added and enabled devfreq boost
-- Shortened PELT ramp/delay halflife to 16 ms
-- Faked uname to 5.10 for bpfloader/netbpfload/netd
-- /system/addon.d is now hidden from non-system apps
-- Disabled in-kernel header archive
-- Synced with latest LineageOS sm8150 kernel
-
------------------------------------------------------------
-
-VoltageOS 5.9
-
-Build Date: 12/05/2026
+Build Date: 23/08/2026
 
 Device Side:
-- Enabled auto unsignaled latching
-- Enabled charging control bypass mode
-- Updated work durations from kalama
-- Removed Miui Camera
-- Adjusted status bar padding
-
------------------------------------------------------------
-
-VoltageOS 5.0
-
-Build Date: 19/08/2025
-
-Device Side:
-- Moved Back To RNDIS For USB Tethering
-- Dropped Torch Light Control
-- Fully Functional Miui Camera By Default
-- Disabled zRAM Writeback
-- Enabled New UFFD-based GC For ART
-- Increased Swappiness To 80
-- Switched To Common AIDL IR Service
+- Initial A17 QPR0 build
 
 Kernel Side:
-- Silenced Some Log Spams
-- Reduced Watermark Scaling Factor To 15
-- Backported TLB Enhancements And Memory-Management Fixes From Upstream
-- Removed SPF (Secure Playback Framework)
+- Merged latest LOS kernel changes
 
 -----------------------------------------------------------
