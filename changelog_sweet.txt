@@ -1,3 +1,19 @@
+VoltageOS 6.0
+Build Date: 28/08/2026
+- Update WFD system blobs from nezha OS3.0.332.0.XPAMIXM
+- Bump kernel BPF version override to 5.10.239
+- Disable the property debug.sf.enable_gl_backpressure
+- Introduced charging control
+- Updated Dolby
+- Build DSPVolumeSynchronizer
+- Supressed loggings
+- Synced brightness overlay from miui
+- audio: Remove duplicate afe-proxy path definitions
+- Fix excessive wakeups and suspend aborts
+- supply: qcom: Prevent step-chg wakeups when unplugged
+- wakelock: Block rogue userspace polling wakelocks
+- Drastically improved idle battery drain
+
 VoltageOS 5.11-EOL
 Build Date: 17/07/2026
 - Updated work durations from kalama
