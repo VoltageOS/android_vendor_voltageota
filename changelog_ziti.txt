@@ -1,0 +1,9 @@
+VoltageOS v6.0
+Build date: 30/08/2026
+
+- Initial Official release
+- added Oplus camera, Dolby and IR Remote app
+- reduced powerhint HINTs
+- implement haptic primitives
+- allow changing strength of the various vibration effects
+- sync latest qcom/sm8350 kernel changes from upstream
