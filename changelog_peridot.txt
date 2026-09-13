@@ -1,3 +1,42 @@
+VoltageOS 6.1
+Build Date: 13/09/2026
+Device:
+- Update vendor blobs & firmware from OS3.0.303.0.WNPMIXM
+- GPS: Merge tag LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0 from CLO
+- Build NotGameTurbo
+- Build App to handle HBM mode
+- Build Full Display stack from source
+- Drop displayfeature
+- Import proprietary display stack from Fairphone FP6
+- Implement OSS sensors.qsh to handle light sensor
+- Improve autobrightness adjustment
+- Raise ambient light horizon to 5000
+- Force disable REDIR_PARTY_NUM_SUPPORT
+- Provide a dummy Keylayout for uinput-xiaom
+- Switch to AOSP WFD
+- Enable doze proximity sensor support
+- Set vsync work duration for each HZ (60-90-120)
+- Limit AOD & Ambient Display refresh rate to 60Hz
+
+Kernel:
+- Bump Chidori Version to v2.1
+- Built with clang 21 r563880c
+- Merge tag 'ASB-2026-08-03_14-6.1' of https://android.googlesource.com/kernel/common
+- Allow charger suspend when device is in idle state
+- Allow warm reset on sys restart
+- Implement High Brightness Mode interface
+- xiaomi_touch: Expose full touch filters for goodix/focaltech panels
+- Fix Panic when rebooting to recovery
+- Fix unbalanced irq enable and wake refcounts for goodix touch
+- drm: Import panel_info support from xiaomi
+- Delete mem-offline node to fully disable PASR
+- dsi-panel-n16t: Correct physical panel dimensions
+- peridot-sde: Bump minimal brightness to 8
+- Add touch-expert-array for goodix panel
+- cliffs-gpu-pwrlevels: Undervolt upper GPU frequencies
+
+-----------------------------------------------------------
+
 VoltageOS 5.11-EOL
 Build Date: 18/07/2026
 Device:
