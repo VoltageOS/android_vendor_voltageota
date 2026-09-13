@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 6.1
+
+Build Date: 13/09/2026
+
+Device Side:
+- Fixed false temperature warning in Aperture
+
+Kernel Side:
+- Merged latest LineageOS kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 6.0
 
 Build Date: 22/08/2026
