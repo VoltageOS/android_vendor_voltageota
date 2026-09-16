@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 6.1
+
+Build Date: 16/09/2026
+
+Device Side:
+- Fixed Bluetooth audio with LHDC
+
+Kernel Side:
+- Merged latest LOS kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 6.0
 
 Build Date: 23/08/2026
