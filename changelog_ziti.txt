@@ -1,3 +1,12 @@
+VoltageOS v6.1
+Build date: 17/09/2026
+
+- fixed wifi and hotspot startup delay
+- add WFD back
+- fix secure element log spam
+
+
+----------------------
 VoltageOS v6.0
 Build date: 30/08/2026
 
