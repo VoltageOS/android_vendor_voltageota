@@ -1,3 +1,11 @@
+VoltageOS 6.1
+Build Date: 17/09/2026
+- Fixed random flickering
+- Fixed heating issue
+- Fixed powerhint log spams
+- Fixed Bluetooth audio with LHDC
+- Fixed few denials
+
 VoltageOS 6.0
 Build Date: 28/08/2026
 - Update WFD system blobs from nezha OS3.0.332.0.XPAMIXM
