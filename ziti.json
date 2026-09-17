@@ -3,7 +3,7 @@
     {
         "maintainer": "okkotsu",
         "oem": "OnePlus",
-        "device": "OnePlus Nord CE3 5G",
+        "device": "Nord CE3 5G",
         "filename": "voltage-6.1-ziti-20260917-0844-OFFICIAL.zip",
         "download": "https://sourceforge.net/projects/voltage-os/files/ziti/voltage-6.1-ziti-20260917-0844-OFFICIAL.zip/download",
         "timestamp": 1789633802,
