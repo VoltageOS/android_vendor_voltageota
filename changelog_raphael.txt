@@ -1,5 +1,32 @@
 =========================
 
+VoltageOS 6.1
+
+Build Date : 20/09/2026
+
+Device Side :
+ - Clean up deprecated overlays
+ - Fix vendor.voice.path.for.pcm.voip value
+ - Remove duplicate cpuset and governor settings
+ - Removing unused setprop persist.camera.gyro.disable
+ - Remove IO read_ahead_kb tune
+ - Convert adaptive CPU throtlle hints to static hints
+ - Enable display idle_state mechanism
+ - Use phase offsets as duration
+ - Turn on GPU protected contents
+ - Enable new auto network selection UI
+ - Label some sepolicy wakeup nodes
+
+Vendor Side :
+ - Regenerate vendor with latest extract tool changes
+ - Correct the msm_irqbalance blob arch_mem_timer interrupt
+
+Kernel Side :
+ - Merge LineageOS Qcom common kernel changes
+ - Enable LZ4 compression for ramdisks
+
+=========================
+
 VoltageOS 6.0
 
 Build Date : 31/08/2026
