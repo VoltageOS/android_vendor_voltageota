@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Sreelekshman",
+        "oem": "Nothing",
+        "device": "Nothing CMF Phone 1",
+        "filename": "voltage-6.1-Tetris-20260928-1718-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/Tetris/voltage-6.1-Tetris-20260928-1718-OFFICIAL.zip/download",
+        "timestamp": 1790614796,
+        "md5": "b195327ca1a262170865be1f477fdcc1",
+        "size": 1686814393,
+        "version": "6.1"
+    }
+  ]
+}

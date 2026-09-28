@@ -1,0 +1,16 @@
+-----------------------------------------------------------
+
+VoltageOS 6.1
+
+Build Date: 28/09/2026
+
+Device Side:
+- Initial Official release
+- Completely rebuilt device tree for Android 17
+- Added Dolby Atmos
+- Passes Strong Integrity out-of-the-box with fenrir patched lk
+
+Kernel Side:
+- Introduced Capacity Aware Superset Scheduler (CASS)
+
+-----------------------------------------------------------
