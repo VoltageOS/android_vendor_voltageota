@@ -1,3 +1,11 @@
+VoltageOS v6.2
+Build date: 15/10/2026
+
+- fixed codec related issue where Gcam crashes
+- switched to different dolby blobs and LunarisDolby UI
+
+
+----------------------
 VoltageOS v6.1
 Build date: 17/09/2026
 
