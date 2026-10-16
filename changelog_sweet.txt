@@ -1,3 +1,17 @@
+VoltageOS 6.2
+Build Date: 16/10/2026
+- Set default display refresh rate to 120Hz
+- Switched to SkiaGL threaded rendering
+- Added Dolby media codec configurations
+- Fixed USB OTG host path detection
+- Updated SELinux policies to address system denials
+- Disabled display white balance
+- Removed Smooth Display support
+- Enabled FastbootD by default
+- Optimized system configurations
+- Fixed random boot issue for some users
+- Fixed ramdon screen freezing
+
 VoltageOS 6.1
 Build Date: 17/09/2026
 - Fixed random flickering
