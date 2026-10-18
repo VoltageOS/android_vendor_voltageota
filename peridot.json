@@ -4,12 +4,12 @@
         "maintainer": "GuidixX",
         "oem": "Xiaomi",
         "device": "POCO F6 / Redmi Turbo 3",
-        "filename": "voltage-6.1-peridot-20260913-1550-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/peridot/voltage-6.1-peridot-20260913-1550-OFFICIAL.zip/download",
-        "timestamp": 1789314480,
-        "md5": "9e55a4a310ba7ad0b36597a5e52a53e5",
-        "size": 2881982484,
-        "version": "6.1"
+        "filename": "voltage-6.2-peridot-20261017-2202-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/peridot/voltage-6.2-peridot-20261017-2202-OFFICIAL.zip/download",
+        "timestamp": 1792274450,
+        "md5": "5ff4a5da4c8e437d0c8ae0bbdd176b20",
+        "size": 2878735911,
+        "version": "6.2"
     }
   ]
 }
