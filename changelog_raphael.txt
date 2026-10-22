@@ -1,4 +1,20 @@
 =========================
+VoltageOS 6.2
+
+Build Date : 22/10/2026
+
+Device Side :
+ - Fixed a bug where audio gets cutoff during whatsapp, telegram VOIP calls when a notification sound plays in background.
+ - Fixes for Bluetooth LHDCv5 playback
+
+Vendor Side :
+ - Regenerate vendor with latest extract tool changes
+
+Kernel Side :
+ - Fixed Deepsleep issue
+ - Merge LineageOS Qcom common kernel changes
+
+=========================
 
 VoltageOS 6.1
 
