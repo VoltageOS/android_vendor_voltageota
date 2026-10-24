@@ -1,14 +1,16 @@
 -----------------------------------------------------------
 
-VoltageOS 6.1
+VoltageOS 6.2
 
-Build Date: 28/09/2026
+Build Date: 24/10/2026
 
 Device Side:
 - Initial Official release
 - Completely rebuilt device tree for Android 17
-- Added Dolby Atmos
-- Passes Strong Integrity out-of-the-box with fenrir patched lk
+- Fixed EIS in Aperture for both front and back cameras
+- Added Dolby Atmos support
+- Fenrir isn't included by default
+- Updated proprietary blobs and firmware to Tetris_B4.1-260928-1140
 
 Kernel Side:
 - Introduced Capacity Aware Superset Scheduler (CASS)
