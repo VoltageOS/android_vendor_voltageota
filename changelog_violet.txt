@@ -1,5 +1,14 @@
 -----------------------------------------------------------
 
+VoltageOS 6.2
+
+Build Date: 25/10/2026
+
+Kernel Side:
+- Merged latest LOS kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 6.1
 
 Build Date: 16/09/2026
