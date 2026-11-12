@@ -1,4 +1,12 @@
 VoltageOS v6.2
+
+Build date: 12/11/2026
+- implement torch light strength control
+- merge upstream trees changes 
+- merge upstream kernel changes
+
+
+----------------------
 Build date: 15/10/2026
 
 - fixed codec related issue where Gcam crashes
