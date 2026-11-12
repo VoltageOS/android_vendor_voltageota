@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 6.3
+
+Build Date: 12/11/2026
+
+Device Side:
+- Added MiuiCamera
+
+Kernel Side:
+- Merged latest LOS kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 6.2
 
 Build Date: 25/10/2026

@@ -1,5 +1,17 @@
 -----------------------------------------------------------
 
+VoltageOS 6.3
+
+Build Date: 12/11/2026
+
+Device Side:
+- Enabled ro.audio.monitorRotation
+
+Kernel Side:
+- Merged latest LineageOS kernel changes
+
+-----------------------------------------------------------
+
 VoltageOS 6.2
 
 Build Date: 15/10/2026
