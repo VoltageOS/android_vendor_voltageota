@@ -1,5 +1,14 @@
 -----------------------------------------------------------
 
+VoltageOS 6.3 
+
+Build Date: 13/11/2026
+
+- upstreamed kernel with kinesis + nadir
+- Enable always eis from leica settings, front at 720p and back 1080p 30fps should work fine
+
+-----------------------------------------------------------
+
 VoltageOS 6.2
 
 Build Date: 16/10/2026
