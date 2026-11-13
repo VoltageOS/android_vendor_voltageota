@@ -1,3 +1,15 @@
+VoltageOS 6.3
+Build Date: 13/11/2026
+- Use QCOM implementation for audio effects
+- Fix mic issues in apps like WhatsApp
+- Added Dolby media codec configurations
+- Update CarrierConfig from AOSPA
+- Switch default I/O scheduler to anxiety
+- switch to Kawase2 render engine blur algorithm
+- restore panel power sequencing delays
+- fix gamma mode switch null dereference and early init race
+- fix ESD IRQ trigger edge to falling
+
 VoltageOS 6.2
 Build Date: 16/10/2026
 - Set default display refresh rate to 120Hz
