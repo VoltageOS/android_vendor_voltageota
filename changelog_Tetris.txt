@@ -1,5 +1,24 @@
 -----------------------------------------------------------
 
+VoltageOS 6.3
+
+Build Date: 13/11/2026
+
+- Firmware & blobs updated to Tetris_B4.1-260928-1140
+- Switched to Native Nothing Face Unlock HAL
+- Enabled RKP TEE & StrongBox provisioning
+- Fixed GApps flashing issue
+- Fixed UDFPS dimming levels
+- Fixed auto-brightness curve & debounce
+- Enabled Video EIS for Camera2 apps
+- Switched to Moto Dolby Atmos backend
+- Enabled MM zRAM daemon (better RAM management)
+- Fixed Wi-Fi driver blocking deep sleep
+- Merged the November 2026 Android Security Bulletin to kernel
+- Added ZRAM multi-compression (backported from Linux 6.2)
+
+-----------------------------------------------------------
+
 VoltageOS 6.2
 
 Build Date: 24/10/2026

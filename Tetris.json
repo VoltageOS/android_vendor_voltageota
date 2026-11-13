@@ -4,12 +4,12 @@
         "maintainer": "Sreelekshman",
         "oem": "Nothing",
         "device": "Nothing CMF Phone 1",
-        "filename": "voltage-6.1-Tetris-20260928-1718-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/Tetris/voltage-6.1-Tetris-20260928-1718-OFFICIAL.zip/download",
-        "timestamp": 1790614796,
-        "md5": "b195327ca1a262170865be1f477fdcc1",
-        "size": 1686814393,
-        "version": "6.1"
+        "filename": "voltage-6.3-Tetris-20261113-1229-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/Tetris/voltage-6.3-Tetris-20261113-1229-OFFICIAL.zip/download",
+        "timestamp": 1794569525,
+        "md5": "0cd699fa3481a2a6105c71428e8c3c4f",
+        "size": 1703397777,
+        "version": "6.3"
     }
   ]
 }
